@@ -42,7 +42,7 @@ nfc.on('reader', reader => {
   console.log(reader.name + ' reader attached, waiting for cards ...');
 
   reader.on('card', card => {
-    console.log(`[${reader.name}] card=${card.uid}`);
+    console.log(`[${reader.name}] card = ${card.uid}`);
   });
 
   reader.on('error', err => {
