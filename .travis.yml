@@ -18,7 +18,7 @@ cache:
 
 before_install:
   - sudo apt-get install -y libpcsclite1 libpcsclite-dev pcscd
-  - yarn global add node-gyp
+  - yarn global add npm node-gyp
 
 install:
   - yarn --ignore-engines # AVA is not officially supported on Node.js 9.x
