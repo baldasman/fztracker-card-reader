@@ -96,9 +96,11 @@ class Reader extends EventEmitter {
 		this._aid = Buffer.from(value, 'hex');
 
 	}
+	
 
 	get name() {
 		return this.reader.name;
+		
 	}
 
 	constructor(reader, logger) {

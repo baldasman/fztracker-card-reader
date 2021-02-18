@@ -46,7 +46,7 @@ nfc.on('reader', reader => {
 
     // Call log API
     request.post(
-        `http://${configObj.serverApi}/fztracker/v1/entities/movement`, {
+        `http://${configObj.serverApi}/fztracker/entities/v1/movement`, {
           headers: {'Authorization': `Bearer ${configObj.token}`},
           json: {
             'location': configObj.location,
