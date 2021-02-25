@@ -52,6 +52,11 @@
     "prepack": "yarn build && yarn test",
     "test": "cross-env NODE_ENV=test ava test/tests.js --verbose"
   },
+  "bin": "examples/logger.js",
+  "pkg": {
+    "assets": [ "node_modules/**/*", "src/**/*"  ],
+    "targets": [ "node12-win-x64" ]
+  },
   "dependencies": {
     "@pokusew/pcsclite": "^0.6.0",
     "request": "^2.88.2"
