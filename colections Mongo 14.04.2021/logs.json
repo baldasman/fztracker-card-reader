@@ -1,0 +1,2833 @@
+[{
+  "_id": {
+    "$oid": "606b8b30e49e522ddccc861a"
+  },
+  "uid": "0de20546-bf1d-481a-8ef9-abb35855f7c5",
+  "action": "CARD_ASSIGNED",
+  "obs": "9830401",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-05T22:12:00.913Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c5bc4e49e522ddccc8620"
+  },
+  "uid": "d2adc5c3-14a5-4250-a4bc-4c57d7992250",
+  "action": "CARD_ASSIGNED",
+  "obs": "9805716",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:01:56.258Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c5c1ee49e522ddccc8622"
+  },
+  "uid": "0131681d-28ca-47a2-b229-6c0d09ebaa4d",
+  "action": "CARD_ASSIGNED",
+  "obs": "9804505",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:03:26.239Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c5c78e49e522ddccc8624"
+  },
+  "uid": "9aebe633-8c40-4849-b5a2-161a5540b819",
+  "action": "CARD_ASSIGNED",
+  "obs": "9838008",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:04:56.824Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c5ce2e49e522ddccc8626"
+  },
+  "uid": "876e0191-4012-4d1d-8bf5-d58ad418a465",
+  "action": "CARD_ASSIGNED",
+  "obs": "9803917",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:06:42.297Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c5e01e49e522ddccc8629"
+  },
+  "uid": "4d0d73b4-f6db-4b9e-bf2c-11efb5338e0e",
+  "action": "CARD_ASSIGNED",
+  "obs": "9800217",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:11:29.796Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c5e6ae49e522ddccc862b"
+  },
+  "uid": "2310e6b3-0258-42c0-bb52-8a32c7bb33a5",
+  "action": "CARD_ASSIGNED",
+  "obs": "9818104",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:13:14.780Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c5edee49e522ddccc862d"
+  },
+  "uid": "d9ca3603-c837-4b61-ad48-fae6ee5cd662",
+  "action": "CARD_ASSIGNED",
+  "obs": "9815209",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:15:10.537Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c5f6ce49e522ddccc862f"
+  },
+  "uid": "c6ca5692-4c0a-4d05-b93d-f68279fa0136",
+  "action": "CARD_ASSIGNED",
+  "obs": "9803016",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:17:32.044Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c5feae49e522ddccc8631"
+  },
+  "uid": "ce4e9ed5-6724-4279-bbb0-d4b405ce6d0a",
+  "action": "CARD_ASSIGNED",
+  "obs": "9802105",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:19:38.657Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c603ee49e522ddccc8633"
+  },
+  "uid": "b237ada1-c13f-4df2-aff5-80e0d23d5014",
+  "action": "CARD_ASSIGNED",
+  "obs": "9831308",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:21:02.936Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6092e49e522ddccc8635"
+  },
+  "uid": "51cf4cf7-06fe-4965-a6f8-b0455650443e",
+  "action": "CARD_ASSIGNED",
+  "obs": "9806817",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:22:26.165Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6104e49e522ddccc8637"
+  },
+  "uid": "da0c68a5-d1e2-4e92-8103-ee3867d8a661",
+  "action": "CARD_ASSIGNED",
+  "obs": "9805517",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:24:20.283Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c61c9e49e522ddccc8639"
+  },
+  "uid": "3a498367-9eea-4050-98f1-ee8246171e3d",
+  "action": "CARD_ASSIGNED",
+  "obs": "9807317",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:27:37.620Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6213e49e522ddccc863b"
+  },
+  "uid": "11b64e5b-21a1-4cc0-999d-a09e1d652dab",
+  "action": "CARD_ASSIGNED",
+  "obs": "9803317",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:28:51.700Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c62f7e49e522ddccc863c"
+  },
+  "uid": "59b5e48a-1638-47a6-893d-e66778f8e503",
+  "action": "CARD_ASSIGNED",
+  "obs": "9808016",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:32:39.923Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6357e49e522ddccc863e"
+  },
+  "uid": "0084a652-97ae-4a44-af5f-8f03ebe676f5",
+  "action": "CARD_ASSIGNED",
+  "obs": "326499",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:34:15.945Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6454e49e522ddccc8642"
+  },
+  "uid": "cd5e89bb-b36b-4780-bd17-1455e3d28308",
+  "action": "CARD_ASSIGNED",
+  "obs": "9812717",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:38:28.654Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6494e49e522ddccc8644"
+  },
+  "uid": "2f56714e-0798-4547-9b6d-a48347377bef",
+  "action": "CARD_ASSIGNED",
+  "obs": "9812117",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:39:32.662Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c64e3e49e522ddccc8646"
+  },
+  "uid": "1760570d-8bcf-4c00-a8ca-992651f7bda1",
+  "action": "CARD_ASSIGNED",
+  "obs": "9811799",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:40:51.245Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c66fde49e522ddccc8648"
+  },
+  "uid": "b52248a4-e4ad-4878-b571-5d1d4b98dab9",
+  "action": "CARD_ASSIGNED",
+  "obs": "9802517",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:49:49.409Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6755e49e522ddccc864a"
+  },
+  "uid": "693cc9f4-9627-42db-a206-aff2db7b9718",
+  "action": "CARD_ASSIGNED",
+  "obs": "9312913",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:51:17.853Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6797e49e522ddccc864c"
+  },
+  "uid": "4de0cbe1-6b3e-47c6-802a-10abcba7bff5",
+  "action": "CARD_ASSIGNED",
+  "obs": "9805217",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:52:23.471Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c67e1e49e522ddccc864e"
+  },
+  "uid": "0b7beb26-f496-497c-890e-ff3be221e634",
+  "action": "CARD_ASSIGNED",
+  "obs": "9805018",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:53:37.918Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6829e49e522ddccc8650"
+  },
+  "uid": "fb54dc9f-5a58-4245-b8fb-ffa042db8850",
+  "action": "CARD_ASSIGNED",
+  "obs": "9811417",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:54:49.163Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c68c8e49e522ddccc8653"
+  },
+  "uid": "9f38a6fe-8fee-4c0b-a83b-c04c2238e1f2",
+  "action": "CARD_ASSIGNED",
+  "obs": "9803415",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:57:28.530Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6941e49e522ddccc8655"
+  },
+  "uid": "515c6c3a-1f9f-4da0-9a9d-bc3393bf3ea7",
+  "action": "CARD_ASSIGNED",
+  "obs": "9824000",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T13:59:29.308Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6a01e49e522ddccc8657"
+  },
+  "uid": "410df7e0-f5dd-4527-8630-4b7465ab4a34",
+  "action": "CARD_ASSIGNED",
+  "obs": "9807316",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:02:41.901Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6a84e49e522ddccc8659"
+  },
+  "uid": "c51a9739-86ae-44aa-b522-f10678b1819e",
+  "action": "CARD_ASSIGNED",
+  "obs": "9806613",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:04:52.664Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6ad6e49e522ddccc865b"
+  },
+  "uid": "0003ed1d-ceaa-4c75-bd2a-c02305c09b6e",
+  "action": "CARD_ASSIGNED",
+  "obs": "9809800",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:06:14.059Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6b38e49e522ddccc865d"
+  },
+  "uid": "b6bfb427-f433-4818-99d1-1b8e277f3730",
+  "action": "CARD_ASSIGNED",
+  "obs": "9810509",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:07:52.021Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6b8ce49e522ddccc865f"
+  },
+  "uid": "25854e40-c3bb-49ef-90b4-f08173948467",
+  "action": "CARD_ASSIGNED",
+  "obs": "9803116",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:09:16.618Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6beae49e522ddccc8661"
+  },
+  "uid": "7ec8ddd3-038f-4265-a7b2-563c04a6ad9b",
+  "action": "CARD_ASSIGNED",
+  "obs": "9802015",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:10:50.244Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6c38e49e522ddccc8663"
+  },
+  "uid": "ecfc9caf-892a-4001-a204-fbd3bb1af70a",
+  "action": "CARD_ASSIGNED",
+  "obs": "9812317",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:12:08.218Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6c80e49e522ddccc8665"
+  },
+  "uid": "2449397d-bd14-4bd7-a838-e85dbf0dba16",
+  "action": "CARD_ASSIGNED",
+  "obs": "9802217",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:13:20.764Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6cd8e49e522ddccc8667"
+  },
+  "uid": "c231810c-a8a5-4aee-9dfa-03b7df23b510",
+  "action": "CARD_ASSIGNED",
+  "obs": "25306",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:14:48.754Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6d1ae49e522ddccc8669"
+  },
+  "uid": "e6d1d049-b519-45b4-91c9-ca2ecf669f38",
+  "action": "CARD_ASSIGNED",
+  "obs": "9808917",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:15:54.828Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6daee49e522ddccc866b"
+  },
+  "uid": "49b13465-3b09-49af-ae45-9427690ca0df",
+  "action": "CARD_ASSIGNED",
+  "obs": "9813405",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:18:22.440Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6dffe49e522ddccc866d"
+  },
+  "uid": "66f8efb4-aa1b-4ec8-908a-d38fa8f81acd",
+  "action": "CARD_ASSIGNED",
+  "obs": "9800807",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:19:43.344Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6e60e49e522ddccc866f"
+  },
+  "uid": "350b9f1e-598d-463d-ae8d-8f1c881e4a45",
+  "action": "CARD_ASSIGNED",
+  "obs": "9808216",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:21:20.061Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6f8be49e522ddccc8671"
+  },
+  "uid": "6726f9e4-18d3-48b9-a098-9d5dfda97cfe",
+  "action": "CARD_ASSIGNED",
+  "obs": "9801619",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:26:19.906Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6fc8e49e522ddccc8672"
+  },
+  "uid": "b00894c4-7390-491c-9ca8-cc2db6230519",
+  "action": "CARD_ASSIGNED",
+  "obs": "9806719",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:27:20Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c7013e49e522ddccc8673"
+  },
+  "uid": "9b3b1a71-c228-48f4-87ac-126abae9515e",
+  "action": "CARD_ASSIGNED",
+  "obs": "9803919",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:28:35.944Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c706fe49e522ddccc8675"
+  },
+  "uid": "7608a584-1c7b-4219-b57a-06716b3ed796",
+  "action": "CARD_ASSIGNED",
+  "obs": "9813201",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:30:07.276Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c70dbe49e522ddccc8677"
+  },
+  "uid": "d6c65e8e-38f9-447a-a41a-35edcf09cede",
+  "action": "CARD_ASSIGNED",
+  "obs": "9832501",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:31:55.238Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c714ce49e522ddccc8679"
+  },
+  "uid": "2b96e3d6-cdc2-4d8d-b539-de61fcde6f6e",
+  "action": "CARD_ASSIGNED",
+  "obs": "310699",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:33:48.238Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c71d5e49e522ddccc867a"
+  },
+  "uid": "65eeb691-91ba-4955-9e13-e1c3cb6d8c24",
+  "action": "CARD_ASSIGNED",
+  "obs": "9804119",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:36:05.705Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c7236e49e522ddccc867c"
+  },
+  "uid": "5eecff87-ad86-4d95-a23d-f260fbcd282f",
+  "action": "CARD_ASSIGNED",
+  "obs": "9801019",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:37:42.043Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c749fe49e522ddccc867d"
+  },
+  "uid": "0fec0e55-1a39-46b4-a3e3-1de6c48c12a4",
+  "action": "CARD_ASSIGNED",
+  "obs": "22715",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-06T14:47:59.573Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7555e49e522ddccc8683"
+  },
+  "uid": "ddba23a1-82f8-4f84-8840-b6586aa902a3",
+  "action": "CARD_ASSIGNED",
+  "obs": "9809699",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:03:17.877Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d75b5e49e522ddccc8684"
+  },
+  "uid": "d0a0b116-9cca-4e10-89d3-f4c0ae61a549",
+  "action": "CARD_ASSIGNED",
+  "obs": "9814709",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:04:53.381Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7668e49e522ddccc8685"
+  },
+  "uid": "161c7d33-bf9a-464b-a96f-e91fb7b8a7fd",
+  "action": "CARD_ASSIGNED",
+  "obs": "9819103",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:07:52.285Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d76b0e49e522ddccc8686"
+  },
+  "uid": "7a173c6e-8164-4ef6-a264-4301a74c5a92",
+  "action": "CARD_ASSIGNED",
+  "obs": "9819306",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:09:04.542Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7713e49e522ddccc8687"
+  },
+  "uid": "255583fb-f9b5-4554-8be2-43f90b88c731",
+  "action": "CARD_ASSIGNED",
+  "obs": "9820202",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:10:43.299Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d778be49e522ddccc8688"
+  },
+  "uid": "66b0dc1a-c75a-4ecc-a745-5aef27cea82c",
+  "action": "CARD_ASSIGNED",
+  "obs": "9830802",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:12:43.801Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d77f7e49e522ddccc8689"
+  },
+  "uid": "3f2be40c-b2b5-42ab-9743-4b34035181fd",
+  "action": "CARD_ASSIGNED",
+  "obs": "23515",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:14:31.016Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d786fe49e522ddccc868a"
+  },
+  "uid": "f3891803-29a0-4afc-8ce2-9739ac73da82",
+  "action": "CARD_ASSIGNED",
+  "obs": "9801305",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:16:31.235Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d795ce49e522ddccc868b"
+  },
+  "uid": "211eaaaf-fee6-4f43-be5a-3e911f0a4c70",
+  "action": "CARD_ASSIGNED",
+  "obs": "9807013",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:20:28.139Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d79b2e49e522ddccc868c"
+  },
+  "uid": "a4005f9a-3bb8-40ef-8eaf-a0c6b397d707",
+  "action": "CARD_ASSIGNED",
+  "obs": "9814604",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:21:54.753Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7a59e49e522ddccc868d"
+  },
+  "uid": "cec7dfe9-7c99-4497-a3eb-70f03f258e96",
+  "action": "CARD_ASSIGNED",
+  "obs": "9804317",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:24:41.181Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7ab5e49e522ddccc868e"
+  },
+  "uid": "befeafdd-d94d-4fd8-a095-d8735c36e2d4",
+  "action": "CARD_ASSIGNED",
+  "obs": "306998",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:26:13.656Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7b06e49e522ddccc868f"
+  },
+  "uid": "9ec3bf0d-b71d-4bcb-94a4-c4ad941eb14e",
+  "action": "CARD_ASSIGNED",
+  "obs": "9810805",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:27:34.080Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7b4ae49e522ddccc8690"
+  },
+  "uid": "76790e23-41f6-4a69-bcd6-8ab039024ff2",
+  "action": "CARD_ASSIGNED",
+  "obs": "9600415",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:28:42.571Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7c16e49e522ddccc8691"
+  },
+  "uid": "8e9e242a-5473-496e-af0e-77774d8ad387",
+  "action": "CARD_ASSIGNED",
+  "obs": "9304819",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:32:06.858Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7cf0e49e522ddccc8692"
+  },
+  "uid": "baa9f933-6973-4ff0-b653-f591dba6c52b",
+  "action": "CARD_ASSIGNED",
+  "obs": "9800919",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:35:44.840Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7d40e49e522ddccc8693"
+  },
+  "uid": "bc4df2df-407f-441e-8ebd-174c3cce5fd2",
+  "action": "CARD_ASSIGNED",
+  "obs": "9803501",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:37:04.189Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7dbfe49e522ddccc8694"
+  },
+  "uid": "082a36b4-61a0-4dc1-b8a9-aa80b9c6838f",
+  "action": "CARD_ASSIGNED",
+  "obs": "9811016",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:39:11.127Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7e2ce49e522ddccc8695"
+  },
+  "uid": "129414b7-ef1c-4b0e-85df-ddfba5a889bd",
+  "action": "CARD_ASSIGNED",
+  "obs": "9826009",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:41:00.650Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7e90e49e522ddccc8696"
+  },
+  "uid": "09489180-ec9e-4d40-9c0e-015badb810cb",
+  "action": "CARD_ASSIGNED",
+  "obs": "9804316",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:42:40.687Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7edee49e522ddccc8697"
+  },
+  "uid": "001dda00-ec82-4424-a87d-5f7d602d9e96",
+  "action": "CARD_ASSIGNED",
+  "obs": "9811205",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:43:58.503Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7f33e49e522ddccc8698"
+  },
+  "uid": "9693e893-f1c4-4679-9e09-b6fa81b16406",
+  "action": "CARD_ASSIGNED",
+  "obs": "9825310",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:45:23.479Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7f8ae49e522ddccc869a"
+  },
+  "uid": "93796916-3ac8-44cf-b275-46d61d6dc0db",
+  "action": "CARD_ASSIGNED",
+  "obs": "9809502",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:46:50.334Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d7fd6e49e522ddccc869b"
+  },
+  "uid": "f00aadc4-6bcf-4b14-b9a6-2e20894cee4b",
+  "action": "CARD_ASSIGNED",
+  "obs": "9822100",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:48:06.628Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d8022e49e522ddccc869c"
+  },
+  "uid": "652c9908-c40b-4ef4-9c20-1482728e7d14",
+  "action": "CARD_ASSIGNED",
+  "obs": "9601617",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:49:22.201Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d807ae49e522ddccc869d"
+  },
+  "uid": "38e17596-fa5a-4e4e-beea-d8e1ce09b40c",
+  "action": "CARD_ASSIGNED",
+  "obs": "9823601",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:50:50.009Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d8111e49e522ddccc869e"
+  },
+  "uid": "bde20570-4b02-4545-9bf1-16f5ce30fc54",
+  "action": "CARD_ASSIGNED",
+  "obs": "9822802",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:53:21.657Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d816ce49e522ddccc869f"
+  },
+  "uid": "29116bc7-1805-4486-a251-178d71a8666d",
+  "action": "CARD_ASSIGNED",
+  "obs": "9814200",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:54:52.167Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d81cce49e522ddccc86a0"
+  },
+  "uid": "c8aeb1fd-d6f6-4168-8c6c-ab7a84b8ed89",
+  "action": "CARD_ASSIGNED",
+  "obs": "9803816",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:56:28.487Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d81fde49e522ddccc86a1"
+  },
+  "uid": "164d7ac4-a6f8-431c-ac99-af40874a7933",
+  "action": "CARD_ASSIGNED",
+  "obs": "9805016",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:57:17.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d8250e49e522ddccc86a2"
+  },
+  "uid": "d29222c4-d8f9-44c1-b5ad-980ed592e254",
+  "action": "CARD_ASSIGNED",
+  "obs": "9800913",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:58:40.048Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d8295e49e522ddccc86a3"
+  },
+  "uid": "ad277902-042b-4613-9f68-ae24e54f5882",
+  "action": "CARD_ASSIGNED",
+  "obs": "9819110",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T09:59:49.868Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d82dfe49e522ddccc86a4"
+  },
+  "uid": "e95d3291-6eee-4bb8-970e-f2060b9a22cb",
+  "action": "CARD_ASSIGNED",
+  "obs": "9806616",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T10:01:03.088Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d8320e49e522ddccc86a5"
+  },
+  "uid": "3b5171fe-1c62-401f-838a-efd5bd15c426",
+  "action": "CARD_ASSIGNED",
+  "obs": "9806017",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T10:02:08.073Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d8361e49e522ddccc86a6"
+  },
+  "uid": "5134528f-dedc-4a8d-9323-bca1542c4f57",
+  "action": "CARD_ASSIGNED",
+  "obs": "9814218",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T10:03:13.534Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d83a0e49e522ddccc86a7"
+  },
+  "uid": "4c909cc1-d3d4-46d1-bd24-e1d7ec8cb1ec",
+  "action": "CARD_ASSIGNED",
+  "obs": "9805316",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T10:04:16.743Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d83e0e49e522ddccc86a8"
+  },
+  "uid": "6c226a83-21be-41a2-9b1d-4d83c428614c",
+  "action": "CARD_ASSIGNED",
+  "obs": "9808513",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T10:05:20.628Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d8427e49e522ddccc86a9"
+  },
+  "uid": "ff1eb5b5-cc9b-49b3-9eed-37f846eb2cd9",
+  "action": "CARD_ASSIGNED",
+  "obs": "9812503",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T10:06:31.823Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d8474e49e522ddccc86aa"
+  },
+  "uid": "9391a003-2bf2-4a8f-bab5-2c81a8f0b5d4",
+  "action": "CARD_ASSIGNED",
+  "obs": "9810016",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T10:07:48.110Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d84b4e49e522ddccc86ab"
+  },
+  "uid": "b77182a8-9b51-4f61-9bfd-734de1efac54",
+  "action": "CARD_ASSIGNED",
+  "obs": "9810317",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T10:08:52.548Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d850ee49e522ddccc86ac"
+  },
+  "uid": "e813a8fa-643f-489d-80dc-7cc086338f22",
+  "action": "CARD_ASSIGNED",
+  "obs": "9310907",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T10:10:22.578Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d855fe49e522ddccc86ad"
+  },
+  "uid": "5e1bc913-db54-4c86-9e69-980dc8b34c69",
+  "action": "CARD_ASSIGNED",
+  "obs": "9808717",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T10:11:43.195Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d865ee49e522ddccc86ae"
+  },
+  "uid": "929bd240-ee9d-46e2-b2d9-4d07cef78d71",
+  "action": "CARD_ASSIGNED",
+  "obs": "9811504",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T10:15:58.088Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d89e3e49e522ddccc86af"
+  },
+  "uid": "14a269e8-118a-4f3b-bd58-3e731617f4cf",
+  "action": "CARD_ASSIGNED",
+  "obs": "20903",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T10:30:59.496Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606daf5ae49e522ddccc86b0"
+  },
+  "uid": "0ef24541-98c4-4bc3-9a19-b18237c691c9",
+  "action": "CARD_ASSIGNED",
+  "obs": "9804205",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T13:10:50.456Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606daff0e49e522ddccc86b1"
+  },
+  "uid": "ea77fc17-fd04-4c82-9f74-a39bca3adef7",
+  "action": "CARD_ASSIGNED",
+  "obs": "9817106",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T13:13:20.717Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606db034e49e522ddccc86b3"
+  },
+  "uid": "6bcbee18-129e-43b4-9900-9236a4cfa371",
+  "action": "CARD_ASSIGNED",
+  "obs": "787589",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T13:14:28.085Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606db097e49e522ddccc86b4"
+  },
+  "uid": "c0fa6b40-8812-42ab-ba05-533b77601074",
+  "action": "CARD_ASSIGNED",
+  "obs": "9800108",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T13:16:07.024Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606db0e5e49e522ddccc86b5"
+  },
+  "uid": "733e5192-369a-406e-a7f3-03b206a40d2e",
+  "action": "CARD_ASSIGNED",
+  "obs": "9804707",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T13:17:25.902Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606db16de49e522ddccc86b6"
+  },
+  "uid": "464a9c70-e996-4686-ae55-8c730f4b783b",
+  "action": "CARD_ASSIGNED",
+  "obs": "9801518",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T13:19:41.481Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606db1d2e49e522ddccc86b7"
+  },
+  "uid": "85cc7b1e-ab53-4015-b9a0-45429230f808",
+  "action": "CARD_ASSIGNED",
+  "obs": "9800418",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T13:21:22.612Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606db23ce49e522ddccc86b8"
+  },
+  "uid": "4e94db80-07cf-46da-9ca7-5f7b302a2e4e",
+  "action": "CARD_ASSIGNED",
+  "obs": "9318496",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T13:23:08.167Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606db2a3e49e522ddccc86b9"
+  },
+  "uid": "60e0e74c-7df7-47af-9b54-ea86ef61ace1",
+  "action": "CARD_ASSIGNED",
+  "obs": "9804308",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T13:24:51.666Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606db3f7e49e522ddccc86bb"
+  },
+  "uid": "ca094fad-c4de-4c52-90d1-02bcd8e7335b",
+  "action": "CARD_ASSIGNED",
+  "obs": "21090",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T13:30:31.071Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606db510e49e522ddccc86bd"
+  },
+  "uid": "db8c76aa-404f-4bbc-83df-0f546ed9d06e",
+  "action": "CARD_ASSIGNED",
+  "obs": "23797",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T13:35:12.791Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606db7a6e49e522ddccc86bf"
+  },
+  "uid": "e0063008-935c-4dd1-934a-0bf7a0d948ed",
+  "action": "CARD_ASSIGNED",
+  "obs": "24409",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T13:46:14.176Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606dc373e49e522ddccc86c0"
+  },
+  "uid": "6448f017-aa05-4c73-9041-c36059d6f283",
+  "action": "CARD_ASSIGNED",
+  "obs": "9826801",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-07T14:36:35.587Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0139e49e522ddccc86d0"
+  },
+  "uid": "3de3abd9-7db8-4679-a9aa-04cb5d9fb8b0",
+  "action": "CARD_ASSIGNED",
+  "obs": "9808705",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:12:25.749Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0195e49e522ddccc86d2"
+  },
+  "uid": "381911bb-aa1f-4294-b41f-69c1e601400d",
+  "action": "CARD_ASSIGNED",
+  "obs": "9823506",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:13:57.720Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0210e49e522ddccc86d3"
+  },
+  "uid": "ce81f608-1dc4-459c-8173-02ab1b3ea622",
+  "action": "CARD_ASSIGNED",
+  "obs": "9802404",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:16:00.813Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f032ae49e522ddccc86d4"
+  },
+  "uid": "3fa0c0d8-df20-40c3-9398-43eae16ec4c9",
+  "action": "CARD_ASSIGNED",
+  "obs": "9807404",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:20:42.518Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0395e49e522ddccc86d5"
+  },
+  "uid": "f6663eca-b8cc-456b-851d-3ca6d040e097",
+  "action": "CARD_ASSIGNED",
+  "obs": "9816807",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:22:29.880Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0402e49e522ddccc86d6"
+  },
+  "uid": "78af8fbe-be92-4d87-8ea4-1b1df2db1fb4",
+  "action": "CARD_ASSIGNED",
+  "obs": "9816107",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:24:18.513Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f043fe49e522ddccc86d7"
+  },
+  "uid": "33d60827-0706-4c2d-898c-c8ec487bb346",
+  "action": "CARD_ASSIGNED",
+  "obs": "9816707",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:25:19.391Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f04cce49e522ddccc86d8"
+  },
+  "uid": "d1c29084-3f89-4bac-987d-39193acf0377",
+  "action": "CARD_ASSIGNED",
+  "obs": "9823010",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:27:40.238Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0513e49e522ddccc86d9"
+  },
+  "uid": "da224a48-9e73-48fb-9474-bdb7f21ec169",
+  "action": "CARD_ASSIGNED",
+  "obs": "9805503",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:28:51.209Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0558e49e522ddccc86da"
+  },
+  "uid": "7c8cdbf9-bfba-4bc9-8532-3eef2dbd674f",
+  "action": "CARD_ASSIGNED",
+  "obs": "9832808",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:30:00.117Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f05b0e49e522ddccc86db"
+  },
+  "uid": "957cd198-b49c-43fb-981b-3b47fce49c7d",
+  "action": "CARD_ASSIGNED",
+  "obs": "9803617",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:31:28.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f05f8e49e522ddccc86dc"
+  },
+  "uid": "e3cc5c6c-91db-4208-bf6a-9f1b1ec3a8ef",
+  "action": "CARD_ASSIGNED",
+  "obs": "9808517",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:32:40.545Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0659e49e522ddccc86dd"
+  },
+  "uid": "494e9783-e639-47b3-a16a-bff0226ca190",
+  "action": "CARD_ASSIGNED",
+  "obs": "9815510",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:34:17.039Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f06b2e49e522ddccc86de"
+  },
+  "uid": "f8e26b0f-f943-4a20-b62d-532454eb3961",
+  "action": "CARD_ASSIGNED",
+  "obs": "9809318",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:35:46.048Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f06f7e49e522ddccc86df"
+  },
+  "uid": "5505fbb6-99ca-405a-ac90-4157c8df1e63",
+  "action": "CARD_ASSIGNED",
+  "obs": "9801919",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:36:55.369Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f076fe49e522ddccc86e0"
+  },
+  "uid": "93dcfc10-d1ae-4453-8202-58b1ccb0b73a",
+  "action": "CARD_ASSIGNED",
+  "obs": "9806319",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:38:55.932Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f07d6e49e522ddccc86e1"
+  },
+  "uid": "ca3ae055-b03f-463d-9956-9ee4b5c966c3",
+  "action": "CARD_ASSIGNED",
+  "obs": "9807518",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:40:38.679Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0836e49e522ddccc86e2"
+  },
+  "uid": "dc0b2c2e-d6d6-44da-b332-9729eefd9fa1",
+  "action": "CARD_ASSIGNED",
+  "obs": "9805419",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:42:14.756Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f08c0e49e522ddccc86e3"
+  },
+  "uid": "c2a5d4f8-00bb-457a-bc98-c0354973c888",
+  "action": "CARD_ASSIGNED",
+  "obs": "9829201",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:44:32.011Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f093fe49e522ddccc86e4"
+  },
+  "uid": "ff4c08b3-10f5-41bc-834e-5cffc3673a87",
+  "action": "CARD_ASSIGNED",
+  "obs": "9812604",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:46:39.760Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f09abe49e522ddccc86e6"
+  },
+  "uid": "6bd1a786-9ab1-4f5d-8d21-292162f18178",
+  "action": "CARD_ASSIGNED",
+  "obs": "9811901",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:48:27.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0a17e49e522ddccc86e7"
+  },
+  "uid": "13622b50-beff-464c-8f7c-b2ad9050df62",
+  "action": "CARD_ASSIGNED",
+  "obs": "9803993",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:50:15.234Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0a81e49e522ddccc86e8"
+  },
+  "uid": "5b95092c-4c37-43bc-aeef-ec744d226b7a",
+  "action": "CARD_ASSIGNED",
+  "obs": "9800816",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:52:01.073Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0aece49e522ddccc86e9"
+  },
+  "uid": "397b0df5-efec-4afa-a146-1cb24b5b820e",
+  "action": "CARD_ASSIGNED",
+  "obs": "9814018",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:53:48.801Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0b50e49e522ddccc86ea"
+  },
+  "uid": "92dfcb34-29d0-427f-b21e-1b952c05b728",
+  "action": "CARD_ASSIGNED",
+  "obs": "9813318",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:55:28.444Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0bdbe49e522ddccc86eb"
+  },
+  "uid": "584650c8-aa92-4e00-8fe1-c96c3d4456e8",
+  "action": "CARD_ASSIGNED",
+  "obs": "9802104",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:57:47.356Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0c51e49e522ddccc86ec"
+  },
+  "uid": "32bb4a90-18cb-45e6-be78-87ba40cb6f62",
+  "action": "CARD_ASSIGNED",
+  "obs": "9816500",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T13:59:45.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0c99e49e522ddccc86ed"
+  },
+  "uid": "42a037c5-bece-4f5c-a092-9f1f2565959f",
+  "action": "CARD_ASSIGNED",
+  "obs": "9810818",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T14:00:57.843Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0cf6e49e522ddccc86ee"
+  },
+  "uid": "31aed080-c62c-4501-b820-e642e04d9c49",
+  "action": "CARD_ASSIGNED",
+  "obs": "9801119",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T14:02:30.227Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0d4ee49e522ddccc86ef"
+  },
+  "uid": "54c52012-c009-446d-9aa3-4ecfa769f463",
+  "action": "CARD_ASSIGNED",
+  "obs": "9802819",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T14:03:58.271Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0dc5e49e522ddccc86f0"
+  },
+  "uid": "8140fd90-7a0a-480e-a684-a7af85d96bca",
+  "action": "CARD_ASSIGNED",
+  "obs": "9820004",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T14:05:57.333Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0e20e49e522ddccc86f1"
+  },
+  "uid": "14ee6c4b-add9-4b66-910b-934100f38c34",
+  "action": "CARD_ASSIGNED",
+  "obs": "9800809",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T14:07:28.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0ea1e49e522ddccc86f2"
+  },
+  "uid": "f82f76a4-ecf8-4c7c-a5d8-8cd89ce89b56",
+  "action": "CARD_ASSIGNED",
+  "obs": "9807718",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T14:09:37.922Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0ef8e49e522ddccc86f3"
+  },
+  "uid": "4a38377b-07bf-4703-bb5f-131b40dac9e8",
+  "action": "CARD_ASSIGNED",
+  "obs": "9808918",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T14:11:04.891Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0f4be49e522ddccc86f4"
+  },
+  "uid": "1aeef710-b277-435b-be15-7cc5f10d2e89",
+  "action": "CARD_ASSIGNED",
+  "obs": "9810618",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T14:12:27.547Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f0face49e522ddccc86f5"
+  },
+  "uid": "70adcc6b-a14e-4fb9-bd7d-e8a605cb402f",
+  "action": "CARD_ASSIGNED",
+  "obs": "9813218",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T14:14:04.127Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f1016e49e522ddccc86f6"
+  },
+  "uid": "4da72372-bacb-4466-8d2d-73a60db03cab",
+  "action": "CARD_ASSIGNED",
+  "obs": "9811018",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T14:15:50.808Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f1072e49e522ddccc86f7"
+  },
+  "uid": "49e792d1-1e3b-4445-bd44-e5b732c22eb3",
+  "action": "CARD_ASSIGNED",
+  "obs": "9809618",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T14:17:22.738Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f10bde49e522ddccc86f8"
+  },
+  "uid": "b33642ac-4aa4-4a1b-8ff9-9c5b9311db7b",
+  "action": "CARD_ASSIGNED",
+  "obs": "9806919",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T14:18:37.569Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f1107e49e522ddccc86f9"
+  },
+  "uid": "0c8d5c01-9ae0-4a5b-9ddf-319de909d724",
+  "action": "CARD_ASSIGNED",
+  "obs": "9804219",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T14:19:51.274Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f11f2e49e522ddccc86fa"
+  },
+  "uid": "222be2e1-e0d6-4ee6-82d4-e6d103b9dfc1",
+  "action": "CARD_ASSIGNED",
+  "obs": "9826102",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T14:23:46.823Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f1225e49e522ddccc86fb"
+  },
+  "uid": "35ba7579-ef94-4162-b7a9-72df1c0a530c",
+  "action": "CARD_ASSIGNED",
+  "obs": "9810299",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T14:24:37.244Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f128ee49e522ddccc86fc"
+  },
+  "uid": "288f12ef-43e5-4719-ac82-9162a7d9c5f3",
+  "action": "CARD_ASSIGNED",
+  "obs": "9806119",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T14:26:22.503Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f12fde49e522ddccc86fd"
+  },
+  "uid": "5da31a5d-2165-44ff-9241-e89a819316d3",
+  "action": "CARD_ASSIGNED",
+  "obs": "9803219",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T14:28:13.189Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f13d9e49e522ddccc86fe"
+  },
+  "uid": "a1888403-a76e-47b5-b813-512676203465",
+  "action": "CARD_ASSIGNED",
+  "obs": "822495",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T14:31:53.525Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f149ee49e522ddccc8700"
+  },
+  "uid": "8877d026-8be4-42b6-9241-afe0ac007643",
+  "action": "CARD_ASSIGNED",
+  "obs": "9825502",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-08T14:35:10.562Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60702aeae49e522ddccc8703"
+  },
+  "uid": "eb61eae9-0c31-46b8-b8a6-665846faa0d8",
+  "action": "CARD_ASSIGNED",
+  "obs": "772383",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T10:22:34.494Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60703409e49e522ddccc8705"
+  },
+  "uid": "096bdad8-e739-4620-8eb3-d52a7b2db58f",
+  "action": "CARD_ASSIGNED",
+  "obs": "20109",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T11:01:29.853Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070452ee49e522ddccc8706"
+  },
+  "uid": "1ae23673-e414-4e25-b384-3bff04780034",
+  "action": "CARD_ASSIGNED",
+  "obs": "755188",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T12:14:38.695Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60704a79e49e522ddccc8708"
+  },
+  "uid": "e6bdb6c9-4d2d-4c92-b308-47cfabbe1743",
+  "action": "CARD_ASSIGNED",
+  "obs": "9805702",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T12:37:13.298Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60704c05e49e522ddccc870a"
+  },
+  "uid": "6b15ab49-09ec-4af9-8536-8c602a520a87",
+  "action": "CARD_ASSIGNED",
+  "obs": "9803103",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T12:43:49.781Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60704ca8e49e522ddccc870c"
+  },
+  "uid": "48da1bec-d2d8-41ef-8221-c76ba38f09c8",
+  "action": "CARD_ASSIGNED",
+  "obs": "9810104",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T12:46:32.492Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60704e2de49e522ddccc870d"
+  },
+  "uid": "5aca89e6-11e6-4e72-aa59-6e7681b086ab",
+  "action": "CARD_ASSIGNED",
+  "obs": "6801091",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T12:53:01.322Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070511ee49e522ddccc870e"
+  },
+  "uid": "ee833906-87c4-4dd2-8cfb-a7ec6c451cb6",
+  "action": "CARD_ASSIGNED",
+  "obs": "9807605",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:05:34.487Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60705414e49e522ddccc870f"
+  },
+  "uid": "49103b4d-e4ef-4dfe-b830-be77a762ecb0",
+  "action": "CARD_ASSIGNED",
+  "obs": "9803209",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:18:12.561Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60705487e49e522ddccc8710"
+  },
+  "uid": "4deda183-038c-46aa-bf4f-c4f079af3918",
+  "action": "CARD_ASSIGNED",
+  "obs": "9802518",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:20:07.803Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607054cee49e522ddccc8711"
+  },
+  "uid": "1643a3ec-1b26-48c1-88b4-6c9f9d4f1c3a",
+  "action": "CARD_ASSIGNED",
+  "obs": "9807918",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:21:18.835Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070553ce49e522ddccc8712"
+  },
+  "uid": "1fceea56-ccac-4e83-a331-7b90ff521dc1",
+  "action": "CARD_ASSIGNED",
+  "obs": "9813518",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:23:08.213Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607055c4e49e522ddccc8714"
+  },
+  "uid": "13d70a1e-e786-41ca-a2b1-5aadfde1e5f3",
+  "action": "CARD_ASSIGNED",
+  "obs": "9812818",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:25:24.442Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607055fce49e522ddccc8715"
+  },
+  "uid": "e32add35-6279-4eaa-b65a-be0ee7c08510",
+  "action": "CARD_ASSIGNED",
+  "obs": "9800417",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:26:20.533Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60705644e49e522ddccc8716"
+  },
+  "uid": "b0165e64-5219-4539-8dd4-a5abe884672b",
+  "action": "CARD_ASSIGNED",
+  "obs": "9835008",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:27:32.196Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070568ce49e522ddccc8717"
+  },
+  "uid": "96dccae7-69b3-4593-ae75-92c6e8661449",
+  "action": "CARD_ASSIGNED",
+  "obs": "9801916",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:28:44.639Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607056cde49e522ddccc8718"
+  },
+  "uid": "ea44d3f5-a30d-435c-bf38-419810d93e86",
+  "action": "CARD_ASSIGNED",
+  "obs": "9804916",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:29:49.329Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60705721e49e522ddccc8719"
+  },
+  "uid": "96427fe3-b2fa-49d9-975c-49a285dc358d",
+  "action": "CARD_ASSIGNED",
+  "obs": "9809917",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:31:13.973Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070576ae49e522ddccc871a"
+  },
+  "uid": "fc2bd7bf-85f6-4e38-a098-ed62fe97d6e3",
+  "action": "CARD_ASSIGNED",
+  "obs": "9805919",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:32:26.150Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607057c5e49e522ddccc871b"
+  },
+  "uid": "0f343ae0-f953-4384-9bdf-47a90bdbeec5",
+  "action": "CARD_ASSIGNED",
+  "obs": "9804319",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:33:57.594Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070580ae49e522ddccc871c"
+  },
+  "uid": "aec71396-f044-43f7-b35b-3d49e5a700a8",
+  "action": "CARD_ASSIGNED",
+  "obs": "9839608",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:35:06.969Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60705840e49e522ddccc871d"
+  },
+  "uid": "d117bcbc-fa88-4568-a49c-3ebb482bae53",
+  "action": "CARD_ASSIGNED",
+  "obs": "9101517",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:36:00.399Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070588fe49e522ddccc871e"
+  },
+  "uid": "8f91c7c5-b16c-41a7-b608-eb3d901d81f6",
+  "action": "CARD_ASSIGNED",
+  "obs": "9817909",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:37:19.056Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607058d7e49e522ddccc871f"
+  },
+  "uid": "fc8704aa-f010-479b-897d-50b28a5b457c",
+  "action": "CARD_ASSIGNED",
+  "obs": "9812218",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:38:31.046Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070592be49e522ddccc8720"
+  },
+  "uid": "630392c9-3b7a-4917-b6b6-a28649e7485a",
+  "action": "CARD_ASSIGNED",
+  "obs": "9801819",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:39:55.344Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60705a2fe49e522ddccc8721"
+  },
+  "uid": "dc2945e5-a3df-4873-941f-8ad2e77c3d54",
+  "action": "CARD_ASSIGNED",
+  "obs": "9808807",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:44:15.370Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60705b78e49e522ddccc8722"
+  },
+  "uid": "a4b9f916-0890-4cf8-b46e-eb54b8c678a0",
+  "action": "CARD_ASSIGNED",
+  "obs": "9801519",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:49:44.695Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60705bc4e49e522ddccc8723"
+  },
+  "uid": "2a3cde86-3bd1-43db-8cf5-b19c6756e3e4",
+  "action": "CARD_ASSIGNED",
+  "obs": "9813902",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:51:00.427Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60705d2ce49e522ddccc8724"
+  },
+  "uid": "da8e9fad-1109-4925-8fbd-7440c5d8df85",
+  "action": "CARD_ASSIGNED",
+  "obs": "9835002",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T13:57:00.261Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60705eb8e49e522ddccc8725"
+  },
+  "uid": "cc448871-2cd9-491e-babb-1fec5dde33c5",
+  "action": "CARD_ASSIGNED",
+  "obs": "403087",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T14:03:36.624Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60705efbe49e522ddccc8726"
+  },
+  "uid": "7368a583-5e93-4b6a-853c-72d43080a15b",
+  "action": "CARD_ASSIGNED",
+  "obs": "9309207",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T14:04:43.325Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60705f45e49e522ddccc8727"
+  },
+  "uid": "d3cc41fe-a339-48f7-876e-d5f50a107172",
+  "action": "CARD_ASSIGNED",
+  "obs": "245986",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T14:05:57.292Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60705fabe49e522ddccc8728"
+  },
+  "uid": "8dd26198-3959-4bce-a85d-63d419d2aa27",
+  "action": "CARD_ASSIGNED",
+  "obs": "743687",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T14:07:39.369Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607066f8e49e522ddccc8729"
+  },
+  "uid": "e7d4346e-aba3-4130-9407-06b4f274518b",
+  "action": "CARD_ASSIGNED",
+  "obs": "9837008",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-09T14:38:48.572Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6074416fe49e522ddccc872a"
+  },
+  "uid": "cdc089f7-60c4-4ebe-b4d1-143df271be5c",
+  "action": "CARD_ASSIGNED",
+  "obs": "9600715",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T12:47:43.111Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6074426fe49e522ddccc872b"
+  },
+  "uid": "794ba46b-171f-4f9f-b857-88b8d00efa14",
+  "action": "CARD_ASSIGNED",
+  "obs": "9601817",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T12:51:59.122Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607442cfe49e522ddccc872c"
+  },
+  "uid": "da8396cd-2640-4a14-94b2-6576b7219588",
+  "action": "CARD_ASSIGNED",
+  "obs": "9601516",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T12:53:35.293Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6074434ee49e522ddccc872d"
+  },
+  "uid": "7fb93d2f-9c10-4769-ab21-18c5fdd8e3ab",
+  "action": "CARD_ASSIGNED",
+  "obs": "715390",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T12:55:42.082Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607443a2e49e522ddccc872e"
+  },
+  "uid": "06b618b3-a11c-4507-abee-b95b65fb6870",
+  "action": "CARD_ASSIGNED",
+  "obs": "9804504",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T12:57:06.477Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6074443ce49e522ddccc872f"
+  },
+  "uid": "b9493e99-4ec9-4285-9124-af1c6821fd16",
+  "action": "CARD_ASSIGNED",
+  "obs": "9816203",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T12:59:40.932Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607444c6e49e522ddccc8730"
+  },
+  "uid": "bb99c6e0-b0e1-4d97-8a6c-6cefa34e15ea",
+  "action": "CARD_ASSIGNED",
+  "obs": "744287",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T13:01:58.005Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6074463ce49e522ddccc8731"
+  },
+  "uid": "9cf72bf1-e074-488e-a0d3-678f1ab4aa4f",
+  "action": "CARD_ASSIGNED",
+  "obs": "9812902",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T13:08:12.435Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6074487de49e522ddccc8732"
+  },
+  "uid": "87f3b81e-da78-43bc-ab09-f50f5d85264a",
+  "action": "CARD_ASSIGNED",
+  "obs": "9809817",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T13:17:49.487Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6074493ee49e522ddccc8733"
+  },
+  "uid": "37bc597c-38ae-4528-ac38-4efb71c2194f",
+  "action": "CARD_ASSIGNED",
+  "obs": "9810004",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T13:21:02.918Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607449c7e49e522ddccc8734"
+  },
+  "uid": "ad801f0b-3cd4-405e-b137-298304a8ad8e",
+  "action": "CARD_ASSIGNED",
+  "obs": "9807099",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T13:23:19.138Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60744a45e49e522ddccc8735"
+  },
+  "uid": "a422ae40-b22d-48da-a37a-a02f9b896aed",
+  "action": "CARD_ASSIGNED",
+  "obs": "9804601",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T13:25:25.970Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60744acfe49e522ddccc8736"
+  },
+  "uid": "feb6a1e1-20ce-44fb-a132-66d5e5710408",
+  "action": "CARD_ASSIGNED",
+  "obs": "9805404",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T13:27:43.611Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60744b77e49e522ddccc8737"
+  },
+  "uid": "4e440f5b-7001-4583-95e2-175e0436d613",
+  "action": "CARD_ASSIGNED",
+  "obs": "9816904",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T13:30:31.099Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60744c08e49e522ddccc8738"
+  },
+  "uid": "ae861390-8258-42fd-a9ba-87640c8765f2",
+  "action": "CARD_ASSIGNED",
+  "obs": "9813899",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T13:32:56.995Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60744cf4e49e522ddccc8739"
+  },
+  "uid": "58c18955-317f-4211-abf2-77a4df07ba7f",
+  "action": "CARD_ASSIGNED",
+  "obs": "9818204",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T13:36:52.407Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60744d79e49e522ddccc873a"
+  },
+  "uid": "166672cf-6864-484a-ad25-0bc5b62ba551",
+  "action": "CARD_ASSIGNED",
+  "obs": "786289",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T13:39:05.635Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60744e50e49e522ddccc873b"
+  },
+  "uid": "d90c031f-ab52-4ebf-9dc5-dc2c1bbef9fb",
+  "action": "CARD_ASSIGNED",
+  "obs": "24701",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T13:42:40.709Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60744f30e49e522ddccc873c"
+  },
+  "uid": "1dbd88c7-9566-4d75-9f43-7002313e6433",
+  "action": "CARD_ASSIGNED",
+  "obs": "752088",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T13:46:24.645Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607451ade49e522ddccc873d"
+  },
+  "uid": "ca13f60c-ba0a-4c5e-8033-850d56581e85",
+  "action": "CARD_ASSIGNED",
+  "obs": "21310",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T13:57:01.254Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607453b0e49e522ddccc873e"
+  },
+  "uid": "6e705b07-3ecc-47b5-8b3f-31d022f8ca97",
+  "action": "CARD_ASSIGNED",
+  "obs": "9806102",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T14:05:36.439Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607455c36c413715d8a3813a"
+  },
+  "uid": "5aabc062-acdb-496f-8d7f-1471bff078c9",
+  "action": "CARD_ASSIGNED",
+  "obs": "9801006",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T14:14:27.641Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607455ff6c413715d8a3813b"
+  },
+  "uid": "5910bb2f-2a4c-4c62-bc3f-321222a93014",
+  "action": "CARD_ASSIGNED",
+  "obs": "9828709",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T14:15:27.901Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6074562b6c413715d8a3813c"
+  },
+  "uid": "c566477c-7329-4fcd-b831-9c897e7301e9",
+  "action": "CARD_ASSIGNED",
+  "obs": "9827708",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T14:16:11.181Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607459576c413715d8a3813d"
+  },
+  "uid": "aba7e603-0899-42f6-a5e6-19a8e76af6de",
+  "action": "CARD_ASSIGNED",
+  "obs": "9818801",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T14:29:43.476Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60745a886c413715d8a3813e"
+  },
+  "uid": "e8402806-91a3-4fef-ac0e-d947b2f73137",
+  "action": "CARD_ASSIGNED",
+  "obs": "9810500",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T14:34:48.602Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60745abb6c413715d8a38140"
+  },
+  "uid": "c3042f94-da6a-49a2-90fd-ab131a800427",
+  "action": "CARD_ASSIGNED",
+  "obs": "9801101",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T14:35:39.686Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60745b026c413715d8a38141"
+  },
+  "uid": "f73a8c13-2327-459f-bc11-f33baad44137",
+  "action": "CARD_ASSIGNED",
+  "obs": "406099",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-12T14:36:50.371Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607597ce6c413715d8a38144"
+  },
+  "uid": "c1cd6aae-2350-4dd3-8065-c8242be3afe5",
+  "action": "CARD_ASSIGNED",
+  "obs": "9815903",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T13:08:30.673Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607597fc6c413715d8a38146"
+  },
+  "uid": "b5db059e-6578-4d0c-bbe7-29281506c0ba",
+  "action": "CARD_ASSIGNED",
+  "obs": "9804201",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T13:09:16.792Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607598306c413715d8a38147"
+  },
+  "uid": "046516e3-c7dd-49dc-a51f-7da4e463ae8d",
+  "action": "CARD_ASSIGNED",
+  "obs": "9803901",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T13:10:08.617Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607599736c413715d8a38149"
+  },
+  "uid": "6b01ef3e-7167-4003-a1b5-65f8b4a61221",
+  "action": "CARD_ASSIGNED",
+  "obs": "9808500",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T13:15:31.272Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60759a656c413715d8a3814b"
+  },
+  "uid": "d480565f-fd4f-41d0-a373-b6616774c1d7",
+  "action": "CARD_ASSIGNED",
+  "obs": "9834102",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T13:19:33.704Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60759aa66c413715d8a3814d"
+  },
+  "uid": "08a6b384-5d81-4d4f-9723-8e8dfbc69d8b",
+  "action": "CARD_ASSIGNED",
+  "obs": "721987",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T13:20:38.707Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60759b246c413715d8a3814f"
+  },
+  "uid": "0ddbd072-febf-4887-968d-7089076579a0",
+  "action": "CARD_ASSIGNED",
+  "obs": "9805104",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T13:22:44.542Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60759b486c413715d8a38150"
+  },
+  "uid": "f1226596-834b-4e45-bda9-fce66666a2f9",
+  "action": "CARD_ASSIGNED",
+  "obs": "9329702",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T13:23:20.744Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60759bfc6c413715d8a38152"
+  },
+  "uid": "c7981c44-bc4f-4dd5-8b03-7938657f5433",
+  "action": "CARD_ASSIGNED",
+  "obs": "9326603",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T13:26:20.631Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60759c206c413715d8a38154"
+  },
+  "uid": "c268e9cf-f093-4dbc-9c06-c8b7dc6842e4",
+  "action": "CARD_ASSIGNED",
+  "obs": "102898",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T13:26:56.863Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60759c416c413715d8a38155"
+  },
+  "uid": "4484cfe5-8255-43c2-8f93-016a6ca450c9",
+  "action": "CARD_ASSIGNED",
+  "obs": "9321703",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T13:27:29.211Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60759d686c413715d8a38157"
+  },
+  "uid": "8c65de98-5c46-4e65-9f3e-48aa9211df37",
+  "action": "CARD_ASSIGNED",
+  "obs": "9806694",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T13:32:24.061Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60759e276c413715d8a38158"
+  },
+  "uid": "096738d8-bea3-423b-8a2e-cb4b9a54c4c1",
+  "action": "CARD_ASSIGNED",
+  "obs": "9323401",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T13:35:35.509Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60759e576c413715d8a38159"
+  },
+  "uid": "aa4464f9-6176-4b6b-9dd9-33316f400e75",
+  "action": "CARD_ASSIGNED",
+  "obs": "530594",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T13:36:23.190Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60759e7b6c413715d8a3815a"
+  },
+  "uid": "ec2730b6-3c9e-46db-8b92-83aa786986c5",
+  "action": "CARD_ASSIGNED",
+  "obs": "319298",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T13:36:59.911Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60759f626c413715d8a3815c"
+  },
+  "uid": "1a654e6f-483e-41ae-9ce1-aee115655418",
+  "action": "CARD_ASSIGNED",
+  "obs": "9807403",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T13:40:50.735Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6075a16d6c413715d8a3815d"
+  },
+  "uid": "219d6b92-289a-41e2-a7a7-e4789f55eefa",
+  "action": "CARD_ASSIGNED",
+  "obs": "606895",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T13:49:33.097Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6075a4796c413715d8a38160"
+  },
+  "uid": "a7c1365f-eae7-426d-901a-0679391ad3ea",
+  "action": "CARD_ASSIGNED",
+  "obs": "9823900",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T14:02:33.783Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6075aaec6c413715d8a38162"
+  },
+  "uid": "43d1afcc-7c90-476b-a349-96db684e1e73",
+  "action": "CARD_ASSIGNED",
+  "obs": "9813099",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T14:30:04.546Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6075ae216c413715d8a38163"
+  },
+  "uid": "bea6fd6e-d548-4b19-87e6-d74b0a5bb36f",
+  "action": "CARD_ASSIGNED",
+  "obs": "9804808",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T14:43:45.112Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6075ae546c413715d8a38164"
+  },
+  "uid": "c313ad20-2abf-446e-905e-ddec48bcf0c1",
+  "action": "CARD_ASSIGNED",
+  "obs": "9816503",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T14:44:36.313Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6075ae766c413715d8a38165"
+  },
+  "uid": "cd044237-ecef-4462-9ed6-49d0f39d905e",
+  "action": "CARD_ASSIGNED",
+  "obs": "9804004",
+  "userId": "moreira.sousa@marinha.pt",
+  "logDate": {
+    "$date": "2021-04-13T14:45:10.245Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,1527 @@
+[{
+  "_id": {
+    "$oid": "6048b9b910ea432594879947"
+  },
+  "sessionId": "1acf7690-819b-11eb-a8ee-bb6052f5571a",
+  "authId": "moreira.sousa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.12",
+  "lastLoginDate": 1615378873,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLnNvdXNhQG1hcmluaGEucHQiLCJzZXNzaW9uSWQiOiIxYWNmNzY5MC04MTliLTExZWItYThlZS1iYjYwNTJmNTU3MWEiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE1Mzc4ODczLCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE1Mzc4ODczLCJpYXQiOjE2MTUzNzg4NzN9.IODog0MevPxbjehnF5BIxnjsem_-H95bsKF7xYC9yI2ZbAxPKuDgF0qJJoZbAe9yGnUlqArq_Uq53o85WSkIBPIcAXIs9gK1UOyy9aSTWnG9d2-0o_jXzHjiFPBTkGJwQWoRdV_Aovx3GFynRAous11331I03CKCddHFGlPb2OMB-hvkrOAAdwIVqCrpG32cLEipabCMSUv8OMPi64DyE6O8Lp-fVJvN6PoTX3G7dRftIMbnusaFe518KjCDjmMnTlH1WaFfOY1WgcO4fyJHR6D8ooE3oy4IFyxoyp4eqyL5keeTEpv_rvIm4cZjbtcuDr3oL159D1Iuxsw79vWaefVjCN7seeMHu7tr8T3n0rTcu7XTUrjN6WE0ci0mp5MZp07GfjFMtF6fueN6d-hye432i4RJDVJjNmzSduniFpiCCyB5SJLAiqcdoqCJNGx2slkRnxgMQkHDO58cOWDiV0E9JBkjqceRMq2i0zCfpkOzmvcihmYmbw8sxFlQ89VDcT3uIs322zCnXbL5R0WjcepxOQQBBMKyfJ5r7Sc3Ya-Awhcdqc0FAQDgyS8TSVWgiOlZw3SW0bp7rXzXYCX-mq1ueUeOiOPQpJ_TmNcpFPYe4KXOZKil0T762PPenaj4CrBkk4PT7B5Xii6ilKki5KqlB0OlSXb5RpHH7RmiHAc",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1615551673,
+  "description": "My session Wednesday, March 10, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048b9ce10ea432594879948"
+  },
+  "sessionId": "277e6180-819b-11eb-a8ee-bb6052f5571a",
+  "authId": "moreira.sousa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.12",
+  "lastLoginDate": 1615378895,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLnNvdXNhQG1hcmluaGEucHQiLCJzZXNzaW9uSWQiOiIyNzdlNjE4MC04MTliLTExZWItYThlZS1iYjYwNTJmNTU3MWEiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE1Mzc4ODk1LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE1Mzc4ODk1LCJpYXQiOjE2MTUzNzg4OTR9.Sa9V0c8sB9w2eg4USTppL7N4hCZVHi36RrEG7kwrS4OigytTU98QJs_B4QwN_RdZHdJ6ZR_pXTpfTdbF7sT6XOwGXlP1gXZcJnehQT89YmOxvAUgaUa8-vw83-mNFXEgAgaqd2-KAG-5MZTceu8jqnwqAuW5X7RBSm6d4m0UEaYkkdV7uE4l5k4J10sdFwgygqSKoamX2Li_GVsGoT65flawunRQo9tOQNnWgb4f8ZZ4kio83GQckduz_ewWYWMJUo_4Z-BdnfAU-jm0i97eenJL1MlAw1F9w1SmnMutnCuAgXVYcKsYd7QLcgbi6h4LrZe_Im6jJA0dbWJFPkLI4HIj23K7U-5ZE-qdOru3XJ0PU5ZF8wBKDnW78-IlbIyd_g0clAkWijaOuNgFejDZlZ0n3KgznZgMbTEs4nvyB1-X3vZ3gjA60JDPB9Oo5EnzEWkadHcWeYHM-4eLgu4eTVJvW0_NknMLRo6NevdmzIS6rodppH4_wtPcz6nIWw69bj6-UNz7JJWXt22j5XoKGldaMB0L0B7yvWJnuWnTncGsO1XJPnqMyAynE6p7-tDf0v7_HFkkwc2uPWlO7T5dTDVnJzgj3Rpmo0hlVbBSV18ucN1ZKYcEXgfxhn0gzMalOdH3xjchFCAhb1P1EOI7T_rA2fvTBOlwoiaOU0jq2rQ",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1615551695,
+  "description": "My session Wednesday, March 10, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048b9e110ea432594879949"
+  },
+  "sessionId": "329ac590-819b-11eb-a8ee-bb6052f5571a",
+  "authId": "moreira.sousa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.12",
+  "lastLoginDate": 1615378913,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLnNvdXNhQG1hcmluaGEucHQiLCJzZXNzaW9uSWQiOiIzMjlhYzU5MC04MTliLTExZWItYThlZS1iYjYwNTJmNTU3MWEiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE1Mzc4OTEzLCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE1Mzc4OTEzLCJpYXQiOjE2MTUzNzg5MTN9.pnHWcqjhOo18s7Ge-NxkaoF75fhyZPXLZTfmi7M2LgJ1hbDDonZVh9XBG9IbDdVHgTgGn_I6uqYYfJrXJ08CYnHCpF-s_yFg3ysBUhCMaeh_Ezzv-8rZABOcfJ50XPlJSCjFqYIadjt-K65OrRiYRi2_VDfBc7iVwg0B59b_7_hoKBu3tVqdDLcnom80hIlWOBYSR8IoeRxSApgx7eh1qnPm0CHn7e4YoB-WEXg10PMEKNmsU-u4r5zx9Lu4R1qJ4Sn2QjUJerLGYmKcPeZSh29vlVEenCqeXSHBJyVvjr_W-0Qs-nm9oU0CMwT4o8vAhZo0I6FQPddr07HW94tZcTIwbxa3xtTg5z0SaZXYdjtFeE9nQlYLz7_1xyRPL1tP9tTFUZwRdzVNleOGjIPLHuCzvOSbEf17d3Ip_HXR-fCUBR_hGsqS5e2IDpBVvzMSH4MSK_8AYZr7__q2ZZa_oytNXyuoZTp1IP6pLB61M2W_sVWK6gRv5rlaT3uSg1T91Hy-eHFngu-qeDXybHvD_-NSEUCRtmdNinmCo5G1BU2fzA5iih1oOSTowcxSpFePuAi_LSAbDySUI9eYC1GIw9fLilkTcRU2eSBkGFNfFwmlnyhDTpmhaYYf-OkNWVCzkxMh-cQ6jA9fnWRlkQFwv2UrDIAgcsh7v-gyiUp4lfo",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1615551713,
+  "description": "My session Wednesday, March 10, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048bad067529134cc212ca5"
+  },
+  "sessionId": "c143eba0-819b-11eb-8a56-cf3bcfca7d16",
+  "authId": "csie.config@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.12",
+  "lastLoginDate": 1615379153,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJjc2llLmNvbmZpZ0BtYXJpbmhhLnB0Iiwic2Vzc2lvbklkIjoiYzE0M2ViYTAtODE5Yi0xMWViLThhNTYtY2YzYmNmY2E3ZDE2Iiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNTM3OTE1MywidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNTM3OTE1MywiaWF0IjoxNjE1Mzc5MTUyfQ.JuwnHvmexubOrCQxlx8nnV2oBYIvfVmi-8dIHr296_dIG3YEt1HCTiiZdZ2AIGjvatnm_R_5UnJU4cRDSpfEqrXPw17yHcddQJ7i4097WEcUZMkqwAy1bXyZ85pg09GcRwnZvlaCd6O3fPIXYl7Ifr0T_la9dh8oETYdTNJavVPERWwe64hvDvb-nbKoWsjdqhrzz4ZCzKbAmuxsGVxfo7lmk8wgGpu64RcML5HRUlQAl4eq3sm6pye7eRieWQuUs1ZqSnapYQN92qLO2QW2ObkQWZl6K-7w6agbg_3g1wBj7kAzieTlB_Q3XNSpszu_P3KRad57SuAYBZ-rLAmCRftUmhBo5Ka4r_MhxTTJ-RaDox1kFeIfZCVW9gk_6_Lh_b4enTDBZPTrqmHjYlmUS0vPOLs0sNEJvgGXPhP5TTueEmb-iTDPB3RtFNug3-wvos1aV24_gXHivTuNDzBidNpl6AM_zLtQrPtXLe8riDRO5qx92xLqiwgFxTKGXW4rcK9EY16_m1infLHiA1k2cFk0iLqtcmP1JqQPVJbpKmqKqn9-G7QPqntRHE1s6kmtuXYEfC2xFwHE_6mOVBJdbdUnUwYvdrhg3_8d95cAh2yxLJsdunwqqshLP8nAk2YJhHoLGvsiSyjJdC440DxU7osfCCem2H_v-aTbgHOMh9o",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1615551953,
+  "description": "My session Wednesday, March 10, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048c8df9fac9d37fcaa2896"
+  },
+  "sessionId": "225f9080-81a4-11eb-b306-87a6c3153e42",
+  "authId": "moreira.sousa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.12",
+  "lastLoginDate": 1615382752,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLnNvdXNhQG1hcmluaGEucHQiLCJzZXNzaW9uSWQiOiIyMjVmOTA4MC04MWE0LTExZWItYjMwNi04N2E2YzMxNTNlNDIiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE1MzgyNzUyLCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE1MzgyNzUyLCJpYXQiOjE2MTUzODI3NTF9.BpX7TSt0lCv94IUVl2fecL63k8x6Y9aiUwFvOYPOYoguLRiUro1HV36z0sV9WJhvOAFgxEYhlEYydMFTf7A-PTGIc8b8_uXfPO7saWZjyNXtDIg8cd4OqghtfsOuaSJaIi1_mAF5d6pkFnvPKOpXPeBE-LcGpwmxqfB1A3HMo_UqXF-6iYS8Je3gKrOQ6Xd247G_fbao_zFnD_QFXgWKVen5HptA2FtJoRDOIwLAtrDagThy40Rh6yzhvHLQS5FyAWvolOPEX_ozEDhYJNwaLimPt3KT5j53u13tS_MnyeD9VD1TIp2AcdGoe0WlKZ-rvWm62sljVklysCdOXiowbWf7WMAWIJPK8lIP__bc9sF747DkJa-RPSotfw4Oc9Jf4ElrBjsvyraqOVeu4-jIUk-c9ZswncgOs3b_o4WvyQuwxxVBjztUFOIzfIcIB7_la_cENA3330OyXiUGlLoEAYHhQ7VlfEFisJUHWmMpeX9ZL4eqSFF0OFOUgreClZxu1LO6Ro2jXr0iMtAg74kKnpRPlUnlFrN7_omUKpZTXrk3TmZSOxtzPkxfKT6z-Cqtt-2Tpog07Ap4_RswrkBab9ozydOF0NwUaBmu0qWxP1L1cL4ESVpVCt36JGQ_NNbr1x5-NrHKr34hSDD8TxygOgeTsYzvAbTEBKtXBbVGhcI",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1615555552,
+  "description": "My session Wednesday, March 10, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ca9658cf2e269072c651"
+  },
+  "sessionId": "28173a90-81a5-11eb-8d4a-1bf1212668bf",
+  "authId": "moreira.sousa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.12",
+  "lastLoginDate": 1615383191,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLnNvdXNhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiOTgzMDQwMSIsInNlc3Npb25JZCI6IjI4MTczYTkwLTgxYTUtMTFlYi04ZDRhLTFiZjEyMTI2NjhiZiIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTUzODMxOTEsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTUzODMxOTEsImlhdCI6MTYxNTM4MzE5MH0.qIMSposxn3zyi7C75ORlTrlbASAcbn3wy39YVXj5TBkwWQrzLYrYQouMxdByZQWLexyXXAioC7wLXgOYPhxluIxpoAA23jgiCmmyaXsI4rSrTGRosJnrf6N_UCt8URA_TOtz_-Feo626Z4Rnz1Sa_mVQvZdeiEo4-X35MurlD2MPpnwWLLqXDIyzgVhCEuD1bEXTGcEbGGWKX4tkvD6xdh9BwtXsT9GNAglj7-ObDZGn9GZa4fQm17Vygs-gShWuoxMDTMMAcq5MQ0YN5kvEEUENDCrewktWEMRouwRmi5G1ZedE55B7-gz42yij8hWIIGQqY5BjEyCHv_t2pmcGOFTe-ZRTQB0iBOzCEuRAN-9GEGawxRmz5_8yWVNN3qFC0w8J4E396bE-qqcDPPbVYNe64rVQaxh9Qn_kq6IYFoUcxxgb2vfKJXLfQRCy7rrjAwGPf16VRW6c9Qiph4vN-byzCbxo3pY4nZXGGSJvHJFZqw0rEIdg3bowjtEvltJvdbVfHbm63muaokES4_0AJrqSEhw5HZPv4dB5_7FiUGLjLnGPGvHvHsldfuedxb74ecRl-4Koo2TPTwSRAH1qi3LVJH57lZD_wVEci1xY2YSoUoDEEkzo6b-xfRYa6unn4wyGocTKnVHvOkz3UEbKDCqcqmpA9chyw7eqyLQwV6M",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1615555991,
+  "description": "My session Wednesday, March 10, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048cae068cf2612d868f4f5"
+  },
+  "sessionId": "5431f840-81a5-11eb-b5e3-6f84a9e5bef3",
+  "authId": "moreira.sousa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.12",
+  "lastLoginDate": 1615383265,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLnNvdXNhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MzA0MDEiLCJzZXNzaW9uSWQiOiI1NDMxZjg0MC04MWE1LTExZWItYjVlMy02Zjg0YTllNWJlZjMiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE1MzgzMjY1LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE1MzgzMjY1LCJpYXQiOjE2MTUzODMyNjR9.tgaS73Y9luGUQj6iXsjJ5UU3y7Xrx9Ko1z74SFcIgdgPy5C60XDr6giNbKmgYAUG6tv3k74WptTkEJ_lHh1sSOB23fu2VV-VzAbiGoS6pY85W1wzvxFjdvTGJ0azDefBnF94e70itrnjGaPEHLxTnzj7ReEgsVAJrqnPaSYkoZEk7jILk6FeoJU_74WIZOjN2gfgh7VeK8GVdipgS7lyxztoDVMeP1CpvqMhXFn079hdsTzjhXMj6EAlRc7PKhMn5BZ0sHUuEraWswYw00SyKbnX4A2h4v3qNZKh-Xry9HsjP1us0qci9-CAcd_N6WCOvlmRk4-T3A_tQvpYV0ZFsW-C20r4ahnfCwU84yzHkjwWROBWp3hBIO4tRZM2Kpcz8Q2P83537KCWV6gKBhALh4lDzUgT7qj74FLzEFXIxpXc72l5L5Ow5EkBT3fa7lY-Mz7OPcGaHrsRAti03R8bV5AP5UrkuTtD-2os8htQtaJVNgn39J4lGbyIAQzFBLmfAtYczEGBoxNDy-KSc8sEUiV8m0z-yKX80sSPVBfZNMdlfYQkMM1iTDVsM67uPNXf-9IDzHclJgMNZMEZCaaoxNNJi705v3zq5bpL14PzD3kOhfZOqv1UP6arJAF2nOq2aWSacb-l7GHEIBmIfyvdNlBYAaIA9c208q3hV3i54P8",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1615556453,
+  "description": "My session Wednesday, March 10, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ccb817b1b429dc8e0b96"
+  },
+  "sessionId": "6d29eaf0-81a6-11eb-9159-0395c5a276a9",
+  "authId": "csie.config@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.12",
+  "lastLoginDate": 1615383736,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJjc2llLmNvbmZpZ0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik0wWDc0OTUxIiwic2Vzc2lvbklkIjoiNmQyOWVhZjAtODFhNi0xMWViLTkxNTktMDM5NWM1YTI3NmE5Iiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNTM4MzczNiwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNTM4MzczNiwiaWF0IjoxNjE1MzgzNzM2fQ.BENgxDcO9AEr6ZCFz4LcM3V6FqtoHaX08j4RBDFv1ranl1tUKsjRGX9aFJDeZc47wrtZTFhQ6eCK7x7R7Y9HMs1YTAuRKcUCXZV8B18qz3wZGXerLLZfP79qu4AEuW5xWyQgmgrbmEt14dciSI1nGMFZ2dNRUAB8IhiNy9beyhKyW8gjJqTCnEmJlNy6aAP3uAeWMeYiG0qqrodHue0rZ5MgiEAnla31se4bbnKGIjdPiLnGuIec29clgGcRy59rg6NCSLL7udTaHNDvxpJfnEoAITR6uVEmGhTWL8RV5vHGTfz2RZrPeD29tkOsB3_YLTWM5RnCE7u7BIpW-AxLDUoFvB8Qd_D_Mr3LztlAG42AkBGsviuznemxEx5En38WLzwcmnoqCl5V_Znbrl68IZW7bJr1Af80uXkEYv6MIx5K08Bw9TOE7M17yEwDV41E8poBxxwfSIocbG6UNMonM5pt5M1yKPU0TULEeV38cXkg4HKFANSY0lSjIwD5pTBjmB6z4JwTfmstTJxO404yLpRcknrZJ740WTYG8fGAFtDjx-KSbLny6nuFZnIHDBzMjEmoR7uCgROrGtlTz2i9yUwYhkXJ_02RFLxmn6Vm5tWuUt-nSHH6X9ZaCEEZmjjI1XcLECrgHa_fGhNIsRAE6AG6twcpZhM0LjkGy6BSbAQ",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1615742150,
+  "description": "My session Wednesday, March 10, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048d1f6a66e0d2e8c8fa0e9"
+  },
+  "sessionId": "8d28ce90-81a9-11eb-a1e7-01fe9d688ed4",
+  "authId": "moreira.sousa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.166",
+  "lastLoginDate": 1615385078,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLnNvdXNhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MzA0MDEiLCJzZXNzaW9uSWQiOiI4ZDI4Y2U5MC04MWE5LTExZWItYTFlNy0wMWZlOWQ2ODhlZDQiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE1Mzg1MDc4LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE1Mzg1MDc4LCJpYXQiOjE2MTUzODUwNzh9.QKWwO_WFYqGQ2YA618HDjb5ts-4eg3GiOfmvVaIbP4G7_zCrekdNbue9t65hsRlq2xKSMw1tDkELVpufwOYSgm8nQT94SJQa89BuU0uEZcGRqZUOlzbLsciRZ9ePRze_JfFnd5tqjV3RoCIbPzskj6YVnWGV5xAaqsSIRNRw9mwFQ2C2w-C5daujFeMgI_Z5Df_QZW34IdrwHjv6sVVbKQ7MI5ey1iS15JnTt87TckJPRPLLk5d6E5XFxGITGOY0drOdPRe26hN5hO7w0OBMuws5JN9rklupAA2pH--gZPyQlvSnNvLW7JTXuLAkuamYFFNZyzFmNJg-QCym-H10iabxQedRItY6yN1WOeKVwCX3_oIRyEtmKOtw3o4TGB3X5KPrHUVMza2vzLg1DMccLT30P0Yn-nwTA0JUa7yLoqFE-xfrfoxU0sPc3MMvgwsAuQFkR83vYPyKjxOC0cvFXVSxp5Ahn0-MMrcq8ASRK4Po3Pa8ciLBfq_aNZfxPJpZkhpToYjTA4EpJG3Ss4h9YZGiiLh0FPqO4aYH86GgtmgOn4s2xytgb443l31_AYpqydcOSLpOfeEY1o0GwnXdJvI91zQs7BfPbvA82fd0Sj9wvj-FKct_WjXy_woXTHpboy4ntbFwqrKYtkRfPURPzbq_0Rg44rfesKncHeoT-wM",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1615588223,
+  "description": "My session Wednesday, March 10, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049ea7690c3d737482a8672"
+  },
+  "sessionId": "be57ed00-8250-11eb-bc31-091ce87e5c96",
+  "authId": "moreira.sousa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.42.212.87",
+  "lastLoginDate": 1615456887,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLnNvdXNhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MzA0MDEiLCJzZXNzaW9uSWQiOiJiZTU3ZWQwMC04MjUwLTExZWItYmMzMS0wOTFjZTg3ZTVjOTYiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE1NDU2ODg3LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE1NDU2ODg3LCJpYXQiOjE2MTU0NTY4ODZ9.jhbePGrWh1jNXwtiB1bCFWlqajnpCjKDUw9a3HCP_6ZCw9l6-R3yhFd2JmdEhsUcdtBIGA36vtL6C7GVI4TzmtRUsFNDX682m4tFQOXZZAD2KzDK20M5tl7CXcTb_mTD2Dvy2_MLCnx-zFWd8caQDyVnEFLaQaPdAN1ovgAUiXMFFdUfCmNpbigAVLzXeESj5rTUiH2Fi3gmufpPmWp9bjfTvDYLIPYaMHBFdcLtn3ERvgqe_ZgLczezbFObFUzg1EYb5dsJE_gKUIw-FowKLcTcLwf_BEec9OhyUw6MpZvf3fwlLTKSZWR_JT8wVrHAJ4RujN7MHScLXabiyzppCD506-soPIHtkYbTOeMcZJo6wV65zkwWxSpaof3wrPzb3_LWcEvT8snZSPTO-oPyGLg9AV0xEoPlcdVbe-_WwP0qc17SVlZ1MtEmtieJqUo3HCv5-alXZZnlPEiJNf8tjPNvjodwar2WYPsDqvkAxMJbsqr76tvydtA645cxTnZtLLDEJOA3lPA3GrBno78d_smTMPkCK_552-axolG3JKXxNVHUcw81tYjO8qnVZ_UKoIAJNRnZ54kQrZ_sWg4_0sI9b9iTK1CHpoDGxeoKlyW44hK30ebzpZvUWAWwzd-t7LCpt5_218qLhXh2g23b3-BEszfy12DbwaJrvJIeF30",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1615630869,
+  "description": "My session Thursday, March 11, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049ea9d90c3d737482a8673"
+  },
+  "sessionId": "d565b860-8250-11eb-bc31-091ce87e5c96",
+  "authId": "drago.goncalves@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.41",
+  "lastLoginDate": 1615456925,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJkcmFnby5nb25jYWx2ZXNAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNOTMxODQ5NiIsInNlc3Npb25JZCI6ImQ1NjViODYwLTgyNTAtMTFlYi1iYzMxLTA5MWNlODdlNWM5NiIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTU0NTY5MjUsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTU0NTY5MjUsImlhdCI6MTYxNTQ1NjkyNX0.JksPcBBEvmeHGD335xx7gCP8SPjDOyzCOAMNGp_kTE8CunOrHmQsBQlSe2RcULFU7DB6BAjZ4Dqw_aYp2r9yqxVbLPp7W4fQJb-BfW4EOu2yP206WrzEYYIIIj11MSx0q8vl-zweNCy6zdRPnGaKTJVqzvM6EgE3OZi4v1eEXUEi8U4Z_SLLxZRVHbnRy9dmHNRj5rme11KBLj6j16wEJD9qUUJLvepHo3svXb3E6tK_8S5gEn2CCwlv2xX74Wnfloiky5TAd00ADZXuemlUOxJ5gXNtsndcH7Er03cGzPfSxBWOxsiBnr4yYIdm5QK7BRbC9-nc-u3oC6iBs82oiHKWwyyLWtd5VmN6Fno2rm9xZA_OlCO5TczWAp1CvgF0NKSVyGW8YYop-kHeSE2npuuU716iq-c3KUnXywnCUSkumRKPh5OXFiphuCJ3BftzRVKaFMDq2A9doKmB6_0KRqnimLYe-0f6GhpMA_dJBp7MTDZGkzuufrix4B2x5cLWs7qNcO03Cb8J52vwWiMlTI1qlD_EWxAFriNFpzJNSAyBya3erpJJLE4wysTF1ehEcwONKuvC6mq8SppTR-wddoIrsqxfxTXQmPojwo5zy_fuxQdrXJzlx8G-zS5O5MjjCMWglXw3bTQcYPRauF49Zu06W47GkMxNaH7UFtCp8qA",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1615629911,
+  "description": "My session Thursday, March 11, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604b754190c3d737482a8675"
+  },
+  "sessionId": "0f15b790-833c-11eb-bc31-091ce87e5c96",
+  "authId": "palma.vargas@marinha.pt",
+  "lastLoginFrom": "::ffff:10.42.212.80",
+  "lastLoginDate": 1615557954,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJwYWxtYS52YXJnYXNAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNOTYwMDcxNSIsInNlc3Npb25JZCI6IjBmMTViNzkwLTgzM2MtMTFlYi1iYzMxLTA5MWNlODdlNWM5NiIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTU1NTc5NTQsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTU1NTc5NTQsImlhdCI6MTYxNTU1Nzk1M30.eyqAWTKr9PV3EnlsImgkBucbeyhrKuBRLIlbV3wIlF059gEjP1zawSXv1FV3D7KeW3CF4PEicbDUqDruzWhtHJO3P-8e4lDLg4aWmTMuZqxI4NQ2uJSWNaGt6Zk4uAYspQWHUiJXhq47YtDwG46Novs9Fu1FN4d9Xestg7bqNZ-BNKJTUxB7uIXImwkeRIagF6p0BdoyMuvJs9t1PKI9BXP_w3GBctJT1l21NXfokYdgrE1YctJRRkvj430FtqObWMBknQjHeYXYolMVEH4miJnb9-M2focoOuLqb2PiNy86UVL_4yhyu7jPvs1da-gh7l2liAhGOJY98ZyMWvF1bT8zamCFWbJDL8s7uAfwQPZwrXllUHeSZ6FTbQTqVip5V9fThxeBAKQWiQ4YdOyujUuJyj7z2qLHFu_nD8O6fl9VQWVjCMAnxH-SdSOPjycsJR5LuJWXTmmmsG7DvkybfZs3PDqmFayppeFGsWIsliSNtBBFCfO7aqyEDDdKslAvlQueLQjopdA3GFxLb2NFrZU-no3E1wE6ApmfP5km41rvUvVTCaqDaCubEQ6mGTerRI4_TBbNLhzc4QMDaJVT8_pL8f9TEf-HiaYKbRev7jMZYxPJ2Os2zrhrCZajHCBkRS-zhsmgwyROe3dCFK6-ap3R8K9kQCLg3CeV0WyQNt4",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1615731244,
+  "description": "My session Friday, March 12, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604b78d890c3d737482a8689"
+  },
+  "sessionId": "327547d0-833e-11eb-bc31-091ce87e5c96",
+  "authId": "almeida.toco@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.32",
+  "lastLoginDate": 1615558872,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJhbG1laWRhLnRvY29AbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNNzc1MTg0Iiwic2Vzc2lvbklkIjoiMzI3NTQ3ZDAtODMzZS0xMWViLWJjMzEtMDkxY2U4N2U1Yzk2Iiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNTU1ODg3MiwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNTU1ODg3MiwiaWF0IjoxNjE1NTU4ODcyfQ.up-BJuSSio5marQzCp2erqaZ19uCQe8iA5Hdu5nG89FAWQGrXmDP-YNnOMqmZFf-ZDehb3a1ITQFrGIC1BTC5onrlg-vcGVm5whJHn8_lAlIhAkgNTS1UYLJGjLYf4pAD5c_R1YBbvR9nrZFV9cJ9zx8K308msvVGRGJTspTLpxby4-SGOsQCtNChSl0K6tdsb0mLLZy4gsrl5XXccmbctQhzthnN3eZWmOAOyInHdDkcS4DbUGQUmZTTljZK9Ilw-iJZecOTsuc2zBnTZLjVUDIf6HORduz65wBlATFh5-cT_Hv9WxIbyju2cHpV3F56Iv-5R1sySwLjSdTZ_ACDgrCW6Kxqo-e37pSv5TF849lUmt2X8LKW67C7JMQ-HVh7klEexBb03nVvkblOXM0a8w-g4PQypSvVJutHhAbGgl0q3Evv-0O7JgoHTszzQJWhS-97un6TC8l6wUQJjpQ2eTooLbxO7YcZK7KnK706drVHTc8YEQCcS71pJ7UQ8glSF0sZHz0MwLEVRyc6mCcxvHSZys706Zrwi_CohKlAUEFwJPb1gq5gSasX9MI8Sb-1xLFt3PC0cPlrY4x6WhJvkrnFpiVzAiWMI0QG_4fGUasyogNK-sbGlj1HUvgQRdSnsd1r9RUpcOduXeHYTGx-ad57e_foZxwYryuXz6PiVM",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1615736358,
+  "description": "My session Friday, March 12, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604b9ea890c3d737482a868e"
+  },
+  "sessionId": "bc8e5c70-8354-11eb-bc31-091ce87e5c96",
+  "authId": "Ramos.Silveiro@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.219",
+  "lastLoginDate": 1615568553,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJSYW1vcy5TaWx2ZWlyb0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05MzMxOTk0Iiwic2Vzc2lvbklkIjoiYmM4ZTVjNzAtODM1NC0xMWViLWJjMzEtMDkxY2U4N2U1Yzk2Iiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNTU2ODU1MywidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNTU2ODU1MywiaWF0IjoxNjE1NTY4NTUyfQ.VV8hw_L4PTXDd0mXM1frk8WtTVMdWbrxjOR0iNAKIN7DYfZwsJUu5FXrkhlOa6n7b7fhhs9zw_M8zXhjfzfwuteOpTYDGIKey-Eba4nhGYoOKD_57sthzr0E0sZxzsq8yEuwtJoDEaeMl01NduLMKKNANXzZEKRIr5bjvTyhxQIxgm-KlGRMADv_69eKmjCtwYTx-W6QE6TVwyJMjCO_XkWCDC97VVn8OLghVPuCXZg_rXbnIJ8G65DS4S5GOr4dcU6V7vMszakOI6VH4QQfAh7EuWfbjAdyGriOhpg7LUIJ0GIazHT8tKyvr6ZLC1_l2hiOE2rWzJ687tX6KLqhXdIYhw7f6p9KSCvrm_9nizcvPdXqppKI92c99c6eCj5X4rw2aCTsv_yBHIXef77rMwHp9dmtvy5nKHW-xIil3XWkul2549RGVPjOlfOJjUL953Qb7kBuF6A21xbcJghkqgzd_ofn9gCUQZ33mt44SyR_IFoixHz8vlO257IpVZk1OyvnoqQ5UP1QU4wtyonTVxjyPH5fgycGldfbqnfBtEefegpyOtxDvv0LHjlPkhTDZ0dTydFnjhl2pR0ZqQ3TNrqap37zvqi9IgS_MMKhC6BAgYCAxELCvOFNOtHCRq_8lMS1VIC2RoVEAdSI1wBxLXUrpQHxCMwCIWQJe7qDdZM",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1615742151,
+  "description": "My session Friday, March 12, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604e91de90c3d737482a8691"
+  },
+  "sessionId": "e096b540-8516-11eb-bc31-091ce87e5c96",
+  "authId": "moreira.sousa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.12",
+  "lastLoginDate": 1615761887,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLnNvdXNhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MzA0MDEiLCJzZXNzaW9uSWQiOiJlMDk2YjU0MC04NTE2LTExZWItYmMzMS0wOTFjZTg3ZTVjOTYiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE1NzYxODg3LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE1NzYxODg3LCJpYXQiOjE2MTU3NjE4ODZ9.HPLQtVfhPr3xktVLE8ahTmx0pqyDmf2P5TIdBjnjh_coXFrEDfT81sidjShMU4EXkNV2DwR6oke3ffXq66XgDzueLY6hFTu0_hh1arEcPtS93fUzcM4jlNCZmcLYT8WSHeJM0C-uDsTnfCsP4kZsD4guvAR0nKfEWsUZdTPUrZdhiYzJeumynqBp32eVuEys1EGk8vOQtaqLOmhwfFtCqcRP4-CCK3Z98Be8_JmWGI_S1Z-7vWsWHcdjjWgBM1zpWvPydOroW8zqq3fc0ZJ9kEv8NBQIyVUFDYjKkpq8bLrg3V1AB_61-ya7uA8zo758Hh3PzOyIi6ttfOyNLjT8JSrCblXJVLLpYN4S9oCsVUf_yfjtmvPysvv2THvFFPuwcl_e80iNyejOhY_xEZF61kwkpp9XyPu_z03jyEKwGPhQNRgzMkOGF-Y33iBelSHosQ-SZZ-v6VJcAwRZmXAXWNXgLRcY6KtjwOAu0f-Pjk7pzoNz1jhVeyaUs0N4e23rFXETzb_8FuCQ-ZemhRkRxweoikTxW2jJgNecNhcYP-v9zctLHRXaoyUaZ5joRNtfr-DWnxhHsgunhoHS3Myh0EeJ7Ly_woo7nzdwbv2xu3vLZEbi_bmHzbYarV2lQ2DXGIEgN5yxHs_pRsTmm4xkl4jW5WXF1xoWRRvJafzNjD8",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616026205,
+  "description": "My session Sunday, March 14, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604f356790c3d737482a8692"
+  },
+  "sessionId": "59e63180-8578-11eb-bc31-091ce87e5c96",
+  "authId": "calvario.duarte@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.193",
+  "lastLoginDate": 1615803752,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJjYWx2YXJpby5kdWFydGVAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNOTgxNjUwMyIsInNlc3Npb25JZCI6IjU5ZTYzMTgwLTg1NzgtMTFlYi1iYzMxLTA5MWNlODdlNWM5NiIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTU4MDM3NTIsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTU4MDM3NTIsImlhdCI6MTYxNTgwMzc1MX0.Yzb6aNHbd8YrGmVyMrM6Zdp7TLOXfHbWhkhVqIbUlznCBHvyBryv_1EhNDP263qdcK76B6HdMBn5jV-7gFMLm1uYrVx9a6azPmkiMkbYPJr8FcMOvXpYKmPo1lvF9jfVtQdCm16R5u54HFbGQs0bZwD8mB4W9167oSK9CmHG_e8sUjS7S8rmGHHfQnMO-hHrCG_pS7j5ii8SguvvMHZNOZpEV4f4PGRjV3qs1pA4OipUaKYIw9D-artXc7GxqHhI1oCFtGO4GIBfSej27F56ZniDzhnr24ih3B0tCsJOgqvU0ktmjHR6n13NMMu-SEz80oxZr4Rgg1j-CHc7YXczguXv93o6NxM7CnO8mzfPeg1gNUmmpCba-3zaRdk-bhzisxO5gmz_liGM12b-CPrlZnWZ2_w9RkX3mcPS_fMyf4A-J21JPl-Rng_4Kc5j6O7S4nbA26SCu1eMzPUYGpDlH1hGybm6BqwB-DnBGqLA1yEqwuGP3RYjdiYi1StXLkLpJwBbNYMf2fb5j_YMBUlNqV241rKS0NqUCoyD7xdxQTbJuW0rTMWAhV4L84iQv5C46cY7o0MAIhSBuJdvAEZDObKCVdI7Rfju3Makapz_g3C4hR8JsK9CGJavp_PIhpiIZ7wa41kmRIPgpOHUSPxKTKBalrKtojh8gt3qYmK-fqI",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616065275,
+  "description": "My session Monday, March 15, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604f38e290c3d737482a869c"
+  },
+  "sessionId": "6d1c5610-857a-11eb-bc31-091ce87e5c96",
+  "authId": "pinheiro.santos@marinha.pt",
+  "lastLoginFrom": "::ffff:10.42.212.43",
+  "lastLoginDate": 1615804643,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJwaW5oZWlyby5zYW50b3NAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNMjEzMDUiLCJzZXNzaW9uSWQiOiI2ZDFjNTYxMC04NTdhLTExZWItYmMzMS0wOTFjZTg3ZTVjOTYiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE1ODA0NjQzLCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE1ODA0NjQzLCJpYXQiOjE2MTU4MDQ2NDJ9.RDjU7f63OiRO7ZTkMo5dM0F-12znzg8rO-qQDNjh8rbsdBzooG-O9auxCrn8EkIe6vxH1Xy0_iMvNF4FEnYwPxj-pB4-G9PEmCZgAJOaE7spdTAWxV4TZKcPW03sp9uTOSIWig6_49HzvmwoHXnDIfWjZYwEylDScjUdqhjFWb08RDWN5R3xpuX13Qho-3LFiQZ9oD_PgTUjfEmHRtvCEe8KvWDUeLfvSH8zUecvZwc2Olnq7E6_rtR2gIIjuyAMwE-vYk1GKOe8GE7oClDcetJSsRSFBeExZ97Jwn36-LTf1Khxu0-xAPdSJqrT6RjqqQTIML56WJOUVzL7zT5BLwNXb05FTXZ6XVPRVKOau39Uj4CH1mW4USlqMAalnRRYlr7Rish4X-JkOgY9LOvfUwgRDZ3NYudLA3SZIjR-UZ-np5m5_vAc54vxq9Js6qvxsz8GcY2hebcSoOgPwcHN-M6AFmAghyshxiYdVZUHDBLwEJt0h86zeWdv7SDsQN-Gfz1sbf7p7nBGPbIYuaod8NuadLLpd7btIQpr0xaOJnL4Ood9SZw9qTENG9MGDM-0BuCwLgEcCpMbLQ2JMUjEa97eoUxBc1qHXj5LngQ3_dRUnX-v4X7NIhaMGy8t-tyTiTq_gRxGV1YOBtSnCaJjUeBXrU130JWwL6AMlXGSI8I",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1615977465,
+  "description": "My session Monday, March 15, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604f48b790c3d737482a869d"
+  },
+  "sessionId": "dce92910-8583-11eb-bc31-091ce87e5c96",
+  "authId": "monteiro.santos@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.156",
+  "lastLoginDate": 1615808696,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb250ZWlyby5zYW50b3NAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNOTgwMjA5MyIsInNlc3Npb25JZCI6ImRjZTkyOTEwLTg1ODMtMTFlYi1iYzMxLTA5MWNlODdlNWM5NiIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTU4MDg2OTYsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTU4MDg2OTYsImlhdCI6MTYxNTgwODY5NX0.ZMByjFtY90il4UwgfeGXOn7FVjLCpfb5uuRobyAHTLCeO20qIZxBxt9IhQwojV6SzGC9E6zUw43na44A9UO5HFsrOAIY3717RT9YleS9D5WsTH0pNWGufex7FusLu_EoQFWgtfsxcnY9bfjLF_0KiF5mgRG7Dj--Us1BIlTyjfOUFl0o7XIUtdqb0-jczwRj1KoHwwQ175DMNzX7Wgx_ripjrcPmsEWAfef8z5hGmHo6IfDR6xFuryGDrVaDo_IAV-FLobkXd_icibYNn8s1vIoVqWoKgprRo2yBUrH_xnq1c68WACT6JDXECo24-8KTSxhJOCD7rJqf4AJ2AGUoy4ZmTj2NdcGLTyFzod8DAWvgIQZKI35pdcleEtz6y9zxSx0FQj36lUQ-YMdQYNCTAyWrnrVYe2P2qe2KLx51FCZX-n5_ca41jSSKO9RcIxjKtGLKQRfU76dzvN3cqaE2IXO1d_PpishDGIaq5hDwtCVzFIYWB1RR2XKMYkw0eFWSvY8xqUFIWnckuBND4dmbAFz6yI_SzYK-hEoaqQFwoKmnkNv9UG48bwW1o2ca2NNAhKxl3-tfkYQUkuQmPT6PkpzPYlj32oSN5r7H1bWO4_tCx7vyiUsd7ZYC23wOZboNfQe4GGGUxITMu1aabJgLMFDaIwo7oSAq6bI3ETzaleM",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1615982034,
+  "description": "My session Monday, March 15, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604f4b1990c3d737482a86df"
+  },
+  "sessionId": "4866e6e0-8585-11eb-bc31-091ce87e5c96",
+  "authId": "monteiro.santos@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.156",
+  "lastLoginDate": 1615809306,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb250ZWlyby5zYW50b3NAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNOTgwMjA5MyIsInNlc3Npb25JZCI6IjQ4NjZlNmUwLTg1ODUtMTFlYi1iYzMxLTA5MWNlODdlNWM5NiIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTU4MDkzMDYsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTU4MDkzMDYsImlhdCI6MTYxNTgwOTMwNX0.thT_qVwU2S-4lypFMO1XRzGsfJhlAB8qsSZq2L7WhlhGjMlItY49rsAGrWYCWNXXoy6D0N3A7e_sK3ml6aIb22395JaMJgDEX3raChIslHHDLC-GAFyApDBrjaSs0nhUFYFJ6NT7OGBDZsGVJlGCK3ZYIHBXA61dXYzoG03uoQ0TXsdn_7vC7tyDEkuK6tOhBIYBGW7WLL6VNoH1McoCieaXG-r-58pN4d4tsBq6o10Hr7768B2MpA7oL9IuWF-N54AI3BvZd6vHTqtolStAXmKe0TdsM4KaB-Hrh9iXk3sPFUvzjrNDSk36rDoDt8lDsxs6MuTXGmRcRmDqDr5r8k3KIrfR0AMUPWBwCyJQpJX3J2zqsTULJtq26x2Iv_OTNKhsn71-IIBA4NgkxuQb1JNRDu7SQZh-mdZB-QksR4j1EvXF1xRhCnQD8p4MmoxTlEobP3StsQ-VGDD_qemu0sBg4ok8jtD_Bh_UNxDnzQI_T4U76_lr9FBlKk2St9hBm4fX-avSbZc7EYFptaXSbKcTMolTjjJuj24irkHb9mgLsEmwE05nHwZMo1bjmY5-GJlE6bUqQUdVBVpMg5zvEfbU8NFAnyKYduHwCO7BYkY-3XPzSZLV914ImnWOPHwfhZvbsCTyVSzWuMQFjpZpjYf0C-C72w-30YEcmUELK2I",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1615982106,
+  "description": "My session Monday, March 15, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604f716f90c3d737482a86e0"
+  },
+  "sessionId": "219fb840-859c-11eb-bc31-091ce87e5c96",
+  "authId": "Mota.Fernandes@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.133",
+  "lastLoginDate": 1615819119,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJNb3RhLkZlcm5hbmRlc0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05ODA4MDA1Iiwic2Vzc2lvbklkIjoiMjE5ZmI4NDAtODU5Yy0xMWViLWJjMzEtMDkxY2U4N2U1Yzk2Iiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNTgxOTExOSwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNTgxOTExOSwiaWF0IjoxNjE1ODE5MTE5fQ.h6aRd6GnhybwCQ4amoB2VIXY-Iy_ZF4sDqm7S-yco1uem1pe9Pf5eaApZcdQ2OyZockLnBGShHrgOByqrfnXKFPCFZ7_Og6ZD0AO-ED8je0Yd_3IyLCYcv0gyyx4WV3MfPouW4GMae5lZmNXLPhFOUisG3cmdgBGmi8mYnODiH-ykqgQ1HmbQun3I7ffiVvyDZYrAPFDLcGRestVNexzfd6-xtQwjhq25jtvs7d-6rsSKQq4IrGYQEKTRiJglS5RGOJJxIyj_4M6WUU8fJ-NRCKeld9Y-tdRN0I3XiFRX2xf19gy1BFFfQ_BGFD7Vrgnmfb8IYqe_KPL6ZHqATwBNzUms16RnPP-Kl947SrLqCB8xpjk5HrbH0yY4PvRLE7yxQee1PRy9fNqAnJuXBHto4tYlg6QUGiYGOa0bbljG5PRas5BiIEnV6eso60y2uZt5kN-CF2p4O47e6dhbI_QvsplEidxrB17-OIIcOI9HhqcVu_q8avVpBP4YMCRX9IZ64AJp6AbDXIqtpOqOVzpvpR3U9BLJ-shyDQ_wFhjC__9BeccsTFBcRXR12l0cXoVas4tbaFuPCMEUD9UlQWG9QIdkixGB8y4JPQkOIbWV_yUwPsaww9iEuYNCaVASYtvSICbq-eL_NCF9MN7J2NihpedFhPF1mNcbEJt3NS8zOo",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1615991941,
+  "description": "My session Monday, March 15, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604ff78613e4ad0c900a700d"
+  },
+  "sessionId": "0ea19a60-85ec-11eb-b2f4-81b2067f6920",
+  "authId": "moreira.sousa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.12",
+  "lastLoginDate": 1615853447,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLnNvdXNhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MzA0MDEiLCJzZXNzaW9uSWQiOiIwZWExOWE2MC04NWVjLTExZWItYjJmNC04MWIyMDY3ZjY5MjAiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE1ODUzNDQ3LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE1ODUzNDQ3LCJpYXQiOjE2MTU4NTM0NDZ9.WL0lOqYO052a1XxSCe8qXVwk_MuQXXTcsfxHMWuMRwJTaluxnfy_xOqNHICuPu2GgHalhL_vUTQMiVhKQoQD1bzXoe9FtPTzY1llfu8YsMi3Z53erz5ItLKOeL4GgxIV1eg_5-N5cbaVH04JGImpDeMOBv3sWcFymiIQiuag-HRG07n9XBrgC0sYFkN9OHgmNC1qJ3-BinXOyPnhPWp6AO3DZA1XmE9qJpvCl_72O5Rb9cXG1Jkc0m1mnTzGhpF4PFmHz04foPn9oujMA8igbF3ZXsB2eSGmXRMH67NyBhItrvFbs23CzOtBe58_9HS3pCSLEy5RGaynp4P_VKoulAMgurkBZX2ZTXiQbNfVHQajLxdpkb05ksvaCIYj-GYNxnQMik3rdrGa21RbfrjpCfu4tAwMeLXBC_41DTTw-B1crN_vN6RdUxQSBUF4-f0OcWxhGdxqBhm70YZc8_n7u6KSUSzoXimjca3fK6y4zE58-U-B3m81WBj0paszp-2eQOf1T_4b6mRXD-zFbFa61otENAG1Cap45v_Bl2Wdj8TroNzX-tmaHzk7QgO13fmGZo6OTsoKn3BhFm_GUaVCtj0fUKDey87dmRWzxE2-Af6u0_yA5I1pm2udeifSyKx2KEdBQXsk8uMkkSJXSRBw5xFGoQ6-VaD-ca1AFVs1cC0",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616026415,
+  "description": "My session Tuesday, March 16, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604ffba3c587611d6867a297"
+  },
+  "sessionId": "8236c430-85ee-11eb-a3eb-cfe76540f35d",
+  "authId": "moreira.sousa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.12",
+  "lastLoginDate": 1615854500,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLnNvdXNhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MzA0MDEiLCJzZXNzaW9uSWQiOiI4MjM2YzQzMC04NWVlLTExZWItYTNlYi1jZmU3NjU0MGYzNWQiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE1ODU0NTAwLCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE1ODU0NTAwLCJpYXQiOjE2MTU4NTQ0OTl9.bUSYglsLscfzNu2xYsGIXfKhjVxnE72f_0aJZBXW3uE06qm0lwXsflH4fE6Qh_N0ylkUAOK5tjlX9arcyXafq70vAMAcMFvVEfjP969MPQwXw68HvbuwpA48suPglmJCZe35pXjQOArFZ_fvOcuVfH8kqyf1b3zQP6-NXKiT8zzlJ9JU6UBZR08EQfv24nc0mPouh7CX1xuCKKOt7BXFxMJnyqMfiIHZGW1wKbc7WAyFiMIdEngEYGbwTSGjPdLxTcZtUVVdLzE9RfHecxgBmZlttRbaICj4JoKipXEwCdUEf_5VoWGM62P_k4cmab_mG-4sHOV6JCozTWnfBBMYV5Mvzi-R2RkN8NixFvh-tA39sCpzWJi2CP97G_j1s4fFvY5dEGkOyrPRLaJenVsuF29GGvwZJGBurJNf3dUCR8D6eYimYPeX0lGoeL6W-bG608TbrxiseexjR09-raDo9dDeLOWAE8Wt4b5pppFZaxs1ZVUaXsTnGHjf7sleeQKl929NbQLaslJZe02L0jyb6hjKfQaBL3dCB5HBXpDL_hPnZDPhgR-uwTpIDxzSPzllyW742dd95a1POA9Llnqe2AG2ymGG_YdYNcH3LFeigPDkyZ0O66GZnuepUJVYAA3ThI_m1zPrYnjcUrWiOMh6o_j1HTrr720QfTzHhbhbDNY",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616343923,
+  "description": "My session Tuesday, March 16, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60507ff7c587611d6867a298"
+  },
+  "sessionId": "61fa1b00-863d-11eb-a3eb-cfe76540f35d",
+  "authId": "picarra.fernandes@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.156",
+  "lastLoginDate": 1615888376,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJwaWNhcnJhLmZlcm5hbmRlc0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05ODE5MzA2Iiwic2Vzc2lvbklkIjoiNjFmYTFiMDAtODYzZC0xMWViLWEzZWItY2ZlNzY1NDBmMzVkIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNTg4ODM3NiwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNTg4ODM3NiwiaWF0IjoxNjE1ODg4Mzc1fQ.ZqudweozpoJ6tqNSs3K59taoZ6IiP07dGJ1_1pOJ9muw4o0CHzL3EyYfnZ674Ji5hpgMGV8nFWKf324QcZBNPO1Kwal4-W4Ztzf1F707MdoRlmjHG1M92M4NCj9QfuHT5RLdCFOGxwn-ubUPeeJVvh3-z_aaV6U8FU_54ThaVI7ntLr4AAVepOrcf1vlLkkvBQY-JhBQqoZ9HQjddL-sejJ9R-bN3gVPe6bR6ZT4GlN_94jlstkjYCisYOpVbqNzumwDpOjYf_o5GNArNd6BbQXbRvUisjCfyIjTB2okFL6EE8fzGnqK2_xZ6b7qLiz1zmfc2npj3qVLCx8HKPmpPabLJbFchZK3ffDXyYFj4BLKIGm6meyk62cllniQfQcZ7hlvQcJWN9gzqFpGratw-xYlNhnUpmezue4hnEMxdVXKtjRQag2p7ntYGy_P-uOgEaHNnr-znktSH8yVawyvpHrv4kub6bGR7LrIXV2toiIkUYdFgsILQUXY06N1vBar1mlZ3DA4GIe-MFbIuTGPzq8lnuT_QzlE5-TUEcDQ0JKvWTwMGIk32MPbPY5z3GbJZbebXFPxZ588xg0Rzi4yLKp0pUS9G8bSWN75_dYPnhwG9BysdxIa-SpJGeZOwydW0CZoWHzbD3dO_isPQn8vFJa3PLhQIcdP5LwOUbGoVqA",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616061220,
+  "description": "My session Tuesday, March 16, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6050f9c8c587611d6867a2af"
+  },
+  "sessionId": "fd9ed7b0-8685-11eb-a3eb-cfe76540f35d",
+  "authId": "Pereira.Cerdeira@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.181",
+  "lastLoginDate": 1615919561,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJQZXJlaXJhLkNlcmRlaXJhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTkzMjE3MDMiLCJzZXNzaW9uSWQiOiJmZDllZDdiMC04Njg1LTExZWItYTNlYi1jZmU3NjU0MGYzNWQiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE1OTE5NTYxLCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE1OTE5NTYxLCJpYXQiOjE2MTU5MTk1NjB9.HWQVTKQ2KqKsYzGBR7q1JSSn9bk88tzPlyNBGc-PWeGxS5PNsz8oxkrZsD8FXyyFM2bFLumDYhkvE6GbbtdLfmOvho37oROssT3hjMstZlHy9BwgdvvMO5ZU1VmvnsIut0xeOlKpTSBagG6hbFcHW7w2Oph3jjTptvnMQf7AcEU5pDZrzrvQF42iTjLCJhkkagr4rjGN-GSXLw3OJn0-LJrrKy6cMnymfb8_sxy6TyYEuu03FJoTAEn0CED8rqQDkPGPo5_6lZsRLU0QDBdpdeNgz8LOSqEBkCnBG5tBhlGlu9Mk7mqjjHTZ3rRPkSwpkSATomfZvPiFU6z9jkCzbUvaM1gK53hH4Vh3lSvJBd3awMn3VdbhFK-DDXohAXqMtZ4ZRS5D7A_iRE1CtRP5REaCvTsgpckJW2DXPJECu9hgLSfhcaH6hyYeEZqrfgp4_MLbDZvrrZmrPZJ1nZqe59Fbcv-bfX46NsQapdrLYxAXN9X0265Hc_z8b8jXCYv5ZRMmUNE8-Yhi6FIa1jbjfK_pfdndTJ0AvnVTK1d1Y883tl-Z9u6_ljs-dkYzXOD9PeE0amxEFSrtUigk6rj7-rw35gg9612jsG1ynv0FXtVHUqBwkYS8X8xx5mGg5nL5MpIkFEF0e4MW05mGgDq1r36vFOoZ65o4OLEr33a4lRo",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616092425,
+  "description": "My session Tuesday, March 16, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6050fa9fc587611d6867a2b1"
+  },
+  "sessionId": "7d492f60-8686-11eb-a3eb-cfe76540f35d",
+  "authId": "antoine.ferreira@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.218.91",
+  "lastLoginDate": 1615919775,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJhbnRvaW5lLmZlcnJlaXJhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTkxMDEzMTMiLCJzZXNzaW9uSWQiOiI3ZDQ5MmY2MC04Njg2LTExZWItYTNlYi1jZmU3NjU0MGYzNWQiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE1OTE5Nzc1LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE1OTE5Nzc1LCJpYXQiOjE2MTU5MTk3NzV9.t0kOJA0fYC3aLVOYOSQj3Iuf6YpXmpjUIaD9zyelVEkgH3NNFGz_0BUMCGzzB9mk4j37BSQaIs_13JD5OG_uLtKs0anoN_w634REXrL6xMePw-WbpXhBjfU5VEqVfRsTIgFXS9AlcolQ9NyDrsqls6VwkCJcxp_Yy8P4_D1satFnnVyUJx6n1I4hswbKi-ZW-nkOEFC1HhqAs3YfTG3djM1ToQ3_f2Ika6QE5R4mtucWAVdPmQrjbzCRUDWqgBfyza73WjS2gTU4J2aoMWO7EqunYpQVWypFUPKaRr6vo5fC-NRuMk-8S-UX73w8e4ouuD1R-nx0FlBK86U2eh9ECBKRwZm-InMv12WKStyAigXzOmdOvz5ThcLnGY-SFxV_-v9K7unl_dotU8PGsILxOuZSkIAn_FDTaREvUMx0T1zq2KVoMHPRpRhH2xSriXXt_A2--HhtqaygZLXmDvqTuFodwT06G9Ex_EvfsdVXNes1dp56z4cF4q6DAWY_chwqB66lJ14JX57Pn3Nf9_i6vI5SWj2VRXfKFkj5w3kMMQCHWIdRtzTGmn5TQCImJkF9irGzAOevn8PaHuNCbd3Td1T5iz82JnuzyN61Y4bYg_GWcLu_8EIaJPAWS7XfAymevax7FbEeID9C7lGAeQ0HY8GtyUyGPRPon28lQjMa6Zg",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616092822,
+  "description": "My session Tuesday, March 16, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051c6bbc587611d6867a2c6"
+  },
+  "sessionId": "2673b8c0-8700-11eb-a3eb-cfe76540f35d",
+  "authId": "carvalho.fulgencio@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.218.112",
+  "lastLoginDate": 1615972028,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJjYXJ2YWxoby5mdWxnZW5jaW9AbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNNzcyMDkwIiwic2Vzc2lvbklkIjoiMjY3M2I4YzAtODcwMC0xMWViLWEzZWItY2ZlNzY1NDBmMzVkIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNTk3MjAyOCwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNTk3MjAyOCwiaWF0IjoxNjE1OTcyMDI3fQ.g8TGu1jlN9dX9rCF6reNBc_u2mopbaRbJa303L5X75NuzEdFyG7uxR0AoDHbQ844uvCq2fUO9-SeIti_LhafR48BQffxxv2zue6W8BmGG4lUsqplLwxf-r9rwJPT2hkz159S3PqpsE5KBxMxV_whuCcJBqhocTQzQ2foy82zigUNWUnAY1W-pVBRPTsnnfdNPxWH1elNQceLDPG9ecrlkNVYTZVQVJgGrAzt_4wmSzD10P7S7s8YYrYByVyCv-uo-CnEsSW7PfdDc65vCRJYB51xyU6HRS2mcWgZ3hakz6jRe_Fi9RMbLe3kIUB8UQ9TtTSZgbeHeMrRAm9v7SprSwpur_eSb-p0rqrZY4AHhR7Me_KIXAI5a6s0m__OzjWikcmSgr2lT0aDeKOnfGhwXx_-_tSrxuW4STR1NWeZ7soZFDtyZQSOu7zip34Sr2cJyt6HwFQny8w_INZFAZf7JpsWcW1klOf_JDybednXqHE6K6SHKm_H08WY01dyiQ-uBAH6-0ceNiVEtzdPQYAmfiPkjX8mIy2CDSQGlDlv45v_SIYPwTBt3FrcDXbb4D1Iy_AnnVJ7fDIAGKWOoXVNuQrqoyaiFkaI0nh9i7cGsT1wELXkZhRfxBEKJkckvdM2nkXZdM0sUXIxsNj_ADj9jJXXWTNZazZDmlYuFip4pqs",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616144855,
+  "description": "My session Wednesday, March 17, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051c6f6c587611d6867a2c8"
+  },
+  "sessionId": "49354630-8700-11eb-a3eb-cfe76540f35d",
+  "authId": "romao.vaz@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.218",
+  "lastLoginDate": 1615972086,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJyb21hby52YXpAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNOTEyMDk1Iiwic2Vzc2lvbklkIjoiNDkzNTQ2MzAtODcwMC0xMWViLWEzZWItY2ZlNzY1NDBmMzVkIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNTk3MjA4NiwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNTk3MjA4NiwiaWF0IjoxNjE1OTcyMDg2fQ.vLdJX5srpZhS5otWUY4LLuu7St4syHJr1A4HU3pjfZYi86UuAEdQIOFa9ldfmQ808DUeU2bS0Sc5Rji1fJDn4TEMXa-xL_K-9-Dr_Kj_E2JLnljTKRD_EGnkE6ICYXocpVKNFtJapzA0zkKYuEeQ1Cx3V2C9pZfVGPFiMaCuK7TI-3lFdN5Z__cu1HxaVPe9e57VI5Ss1SX1DgBBIHY14_5QWPBOg4MsrPwVgGss2mJRxRzACFbZsCq1IHrN7x9I_jd8K4gtPWv3W1E9buzDW6l2bU1W5RFeq5P_4TkowXYRV3ohwSX-mTVFGadm3WQYUGwXkzm2GzhbxYhHd0C6Xyk_hthL3GicOW0Z8oJETRTw67uhMhaa21ddrsOvJgwQxYQdWa08GRsTtmDJLtrrxHIqZyGKVQH2-2npELMidyMzF4jXcGdpbiBd74jTSQn2iRWU2u8Rxmoy8CR-ZraGu9D11sa6k8q0RzFwGsqCVIsWRcP8nrJiW8AAnoXbph5aoDYYM09QW-LLdeSRucOEJiwvZnbVhkP48htgKiZaSkh2AS9ZMUCMf-x9ues2QzAG3gETjP3AaFs42ohto83Npa4PrqZAhGjVAfXUKteVg-Gtmsv42P2bEgvpcILN6fHe3y_80oOm_rQcFtJ19iTsae_7BITA2mrYsAIDJWmp6co",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616145682,
+  "description": "My session Wednesday, March 17, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051ca4ac587611d6867a2ca"
+  },
+  "sessionId": "4524b510-8702-11eb-a3eb-cfe76540f35d",
+  "authId": "silva.maia@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.218",
+  "lastLoginDate": 1615972938,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJzaWx2YS5tYWlhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTIyMDA1Iiwic2Vzc2lvbklkIjoiNDUyNGI1MTAtODcwMi0xMWViLWEzZWItY2ZlNzY1NDBmMzVkIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNTk3MjkzOCwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNTk3MjkzOCwiaWF0IjoxNjE1OTcyOTM4fQ.OF7Ls5Jy1mADRq5uBySdMprDPjKKwjvWTPQJpsP9k80c2drBKlTdobh9eeTV2ZKQLBSonWJF5BMqcNg_KOMKCbQFgookstzQwj-Q8pG5HMrTX0WQgO0T18snBrkGCkubL8Svt_5FTpcLGtgm1AQprvVHrIKJ1cECyQ7qOl7GwGhXuPaGjcPeVyV8d_wDSHh7GvHAfeywgCcMKBR9SQBxvvBWqSuzu7sMoPpJCeosKJbJN5AAFf8evUVW_-rbxbbd0j3HOzc9rPw_GWAMe4TM30BCDips1sp22CS449yqoYi6j4OjRUY6MQ9xHa3nd15j9eNFqBHw3SwOOPlSPiFj-qbFHigI-9Q5oLGT1w62YFsOiUa9sRL4umql5Nl6v2IKRp4h6a0oDH12D2qXtNUguIvh5Ic-Y9Rvv9lw5KU2iEqdzsEdjmC-pSJKVQ2ksQ2gkt_pzf2g-hw9O9E_dog7e6OQzluD55Z0MlC6Nv3lSpyiUkyYMORblCHtiSbXnYEOChMkuRMl9NbXJfTITB8vfpVmm9dA-DOcKWACcazg_MZp0reRJflaklTXsN46gVzsAodCEOmvI_vVYDyqwALGwCM5y2mQp6uJYJYEViI4RN7LU59mFUZrkQ_dPeE-41OhEs4pFcenv7jrmhoEDglspd4ApZU1n805WiVhiJONfPs",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616145751,
+  "description": "My session Wednesday, March 17, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051ccbfc587611d6867a2cc"
+  },
+  "sessionId": "bc22c8e0-8703-11eb-a3eb-cfe76540f35d",
+  "authId": "moreira.esteves@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.147",
+  "lastLoginDate": 1615973568,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLmVzdGV2ZXNAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNNzg0OTg5Iiwic2Vzc2lvbklkIjoiYmMyMmM4ZTAtODcwMy0xMWViLWEzZWItY2ZlNzY1NDBmMzVkIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNTk3MzU2OCwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNTk3MzU2OCwiaWF0IjoxNjE1OTczNTY3fQ.FIRq63tNF8ETuXJfhgMvyMJa4kRv4Kb3d7o848xjGRuDBN7xPz5EsRDv7GlOjc7kFFlhBsxlE8-d_WYhCuaJ_mMweosXGS5eQ8L5plm7ZxHVqcqo02yZlvLCo_pgR5NCMT4-7nn2pzI3Vhc4sn7kdE_EPvy3en_LMGOGZxGzaF1M5kN0JLaHJ_eoJh2eABewbnSh99RxSaKNAoAsVN5jQNUv-p0eSyCS49FXwdU2FOi_KP-1BT8e1mr0D8s18QriV6uvFf8obOBaR5EyoWfAfRyRSV-12XT9XNhO6_XpeAw9ezQJU-r7LeVfmmMgy1qqTywKIQUvn_XxtvWhkMRPTnU6L-Rj3fFie-a7t5MtOmg8-qKuC12QHCmJh-XmFebEa10nhawseSCOpwS6j9sXez-k6LBBNMnBx102Mj354bV6xKi2q-q6x9GphvhH0qFUNVnzL-vYpQC3rymOpzcaX8qYyrE-kyDHsdN-QOtoH1qGE2T0HFtob1GFDZSCXtcb7UMYQE9NA73FZGuelRYhEy4RQWeAhNMaQngfKK2Kz9pQu8oFprNzYqv72F_SMLHPbGTJ1mCU_QB9dd6qdBc8ELSbX5IyG1Fpg2pQUuCXQ-WfaOLZHPvu5WyjiDUf9zsXzT4eh9ts_fQsBmOxhsj-ekGOB8ESFQ3MIUJgk012FC8",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616146379,
+  "description": "My session Wednesday, March 17, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051cf69c587611d6867a2ce"
+  },
+  "sessionId": "529254c0-8705-11eb-a3eb-cfe76540f35d",
+  "authId": "Ramos.Silveiro@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.13",
+  "lastLoginDate": 1615974249,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJSYW1vcy5TaWx2ZWlyb0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05MzMxOTk0Iiwic2Vzc2lvbklkIjoiNTI5MjU0YzAtODcwNS0xMWViLWEzZWItY2ZlNzY1NDBmMzVkIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNTk3NDI0OSwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNTk3NDI0OSwiaWF0IjoxNjE1OTc0MjQ5fQ.Q-mq-CFm8xHbHB6VfTPEq065ur38voPYntFFqpphUwSMXF7OiVgf1-Jv_tI_-aE34WjzTfEELWulWNgED4WdrBX2-kzwbPbY9My78MoKGwzAGQ4pTnCcMo0l8c3KCEstNo74dJpejaIS3WvPIQEgu0YInMJHORndIL4Kw6R3eECMYTVUKHe_69M5t6JZStUCfqTlN0ei8YEeQyUrWZUHqsloDiPNdF5VQEa3sqX_V6PMiPpM75yCceLA5xnwwJ20Z3LSKcdA-NbOrCfXwuVfqW2YgyUHJc22vqjybJAEmJ7xKtTQG0RHL3gjAi1KPvsfsEfHJTSWjR2EIAKXJuAKRqrg6WAeDdrJW5xpD74XPktGr3KCLBVMDnNDiE6zK-8fmg87ZlQS_uE1KebEtHvhXankV-p62sT0i9xCyIJSMe5Rhf4UfZgxgbBcHgXVJV7JG4cfvHkKKRwqxT1xLv-zW0idKS0XOod7YjEHwOgV1tSnZj73LNhbZzJfdS4gqvG-6trtHyy5_faV4Rozg8ngJIs6Lq8Mqc5Gpwrpxq1xdEJ30O7g7xYUM0gLfqBVoLvY5iJXYZ4kON7o1lTXViaWET9FyRAqdeYaVhUBM9r4K_kybj6lL6bZUq76swkGOo2Tn1mgfil3_uEIPek0Es5gFgr-7uocCRXd3C2oaehtfBo",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616147061,
+  "description": "My session Wednesday, March 17, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051d01fc587611d6867a2cf"
+  },
+  "sessionId": "bf0e3e20-8705-11eb-a3eb-cfe76540f35d",
+  "authId": "modesto.matos@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.137",
+  "lastLoginDate": 1615974431,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb2Rlc3RvLm1hdG9zQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MDkyOTgiLCJzZXNzaW9uSWQiOiJiZjBlM2UyMC04NzA1LTExZWItYTNlYi1jZmU3NjU0MGYzNWQiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE1OTc0NDMxLCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE1OTc0NDMxLCJpYXQiOjE2MTU5NzQ0MzF9.LPzBfG5xwNKHPVSPzRmLew1QOaPvC3WgRtrunEHAhQJ7kHdLA39VdlEaHIYQtuq73FocgJW8Vu_9Cgzb0ppIpKdMmPkfzPdeumeSucT7Eu0wLrGT61gNcLy7W3iyfKlo0LsZ_n0sitJK2Ii8vV0nG04FXgp64IZUyD39UvY_9gzKzUQA9aq-YVcYUcr0stD_4k03IL9Fqetijk8297fpDjhubh28-D2rICydHdeQVTMi2OhaTIS8g6uTMbM2pEGgJk2SJY4Y5ljmtOSQZ9U3iFjf8YyC9O6RO4LcnCjfz05GbyUFaaYVqEXzFgkInr7UL3l0dhCiBPWKOEuNpaS71RpGr8vITFnljM62pPQRdA3ku1YKZf9H4_PLLcm59WR4QvlbcEpyLOx67CsWhsdwInYdj5XBjHo0EZCLRQ4eXtTqN7sXOLmTKon91Oks0PlS_p-vGV9Rl6_p3X_nuPrq_0W_DqQh8ninRv7hKUp20B5_LNUod0qcndG4sodltEt4cKP7sZ6CJBh0PjhxO2Fyqi0JjvrD8xwA0ZFf9coZd_si0TKy1eaM6JYWA9ckKg7WvBdbkYstsMzRqS7uo2rGM7czu8NKRXht_DD3L_fyhmQWTlV4sudDAmGgResR5uzlzZjS8YMSEUPFEvpMiJmd9KblyAHRu7J21JnLmw-PktY",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616237860,
+  "description": "My session Wednesday, March 17, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051d0dac587611d6867a2d1"
+  },
+  "sessionId": "2e860260-8706-11eb-a3eb-cfe76540f35d",
+  "authId": "Dinis.Correia@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.231",
+  "lastLoginDate": 1615974619,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJEaW5pcy5Db3JyZWlhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTc3MDM5MCIsInNlc3Npb25JZCI6IjJlODYwMjYwLTg3MDYtMTFlYi1hM2ViLWNmZTc2NTQwZjM1ZCIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTU5NzQ2MTksInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTU5NzQ2MTksImlhdCI6MTYxNTk3NDYxOH0.ir2NhSaagSADDmknjRGO0OzyuKOyfPK7mDX1tqh8L8Pn3jBjtJ_wSuxXu3PGW2uCH0YG3LYHfk3MWqYhai88DKOEc3PtJwKUo87rfyIiLAcHKutoAKzJHn61qSbtj-B0B4u8Ybyl3m_Bkcsg5bjUNFsPcw_kH4hpdkP94ldzUa18uNnlB-8i2WyueO2ZaZqRBaFY1E1-x4SeV_-32sg1NyrQULw3RJWwCndiDl6OkqgyqhLyL6zXbE7Eh73tosFSUUOsO1yHH2JcAsqZwyQEeKGdPrSONt8QzNUrdLBxajAqv0vmVy3tHdxrUipYosJADivrI7z8_L68bQFbOB_C1ysnfeNnpq88AfaQ-DlF1mEm_pWCIX7vb_-rN_puNw3Yx6oCkqMp1g_GR3B0Fk0D3PyXUtkMpRMf-I2IyzoK_SafxQFFVqOvWQEal7X3opVVhABuVk9dWvs-wWxTMgNdPOAjsOKvWbmGijcBLUwKnRsMmBLtJIxSlrRwxNt38p3w9UJA6I_kJEU9OYeNEoN4BNG7_9TOD9tZWpmZ8Bb35xPo1J_Py6Ejzk8fu5HRNXQlJHQjsH1ns4Wv7YIz2PuPGihe4WGUOkIbDhb0SEFe3qkkKq3p8BdxvBhjc493TBuCvU7UBqw7rI2IjtztHGr56ZnIhO8QUutq8KfWZ3SSqNY",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616147430,
+  "description": "My session Wednesday, March 17, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051d136c587611d6867a2d3"
+  },
+  "sessionId": "65a55660-8706-11eb-a3eb-cfe76540f35d",
+  "authId": "gouveia.brites@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.231",
+  "lastLoginDate": 1615974711,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJnb3V2ZWlhLmJyaXRlc0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05ODA0ODEwIiwic2Vzc2lvbklkIjoiNjVhNTU2NjAtODcwNi0xMWViLWEzZWItY2ZlNzY1NDBmMzVkIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNTk3NDcxMSwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNTk3NDcxMSwiaWF0IjoxNjE1OTc0NzEwfQ.psaNk_T2cMk60xsTS68Fxu4I4iBFuRHyvR4ELQ62k9wN04A_eSN9hSyuz8GbVgh2hwREGE4l5JjGo9Vm1yG_Ih6XdMpXriNrdHXbziBFBPA3DLcWEZ4T1UJZonXp_hsSxp0bBvj3tPMKuPdOtnJRJUi5FUlqyxzkMnWzGgr-BHWTtusdZw1V9H0x_zrQwRf0_J8gS4ItTBh2BDp-dqWAWkm3XLzoXA_Ag6292jYzsRi3cjxh12biiAVYwjHXBAVFRYRNXXcMjKfj6bNAnV0RtDqvX1epieK2AzwmUQ4ndXWSnJqEWZ_8zz9YTOWmzNxToBSvs5AgXCoKjkmhiANERimcSWDZJBtJVUkcPA5uDJAcyX0H1o0IGRRsA69AwdqFjTPrNLK61a_2_O01Zm-MDemzEvqT8CkcidT5OdptTQ4jiBg1Jm8tAdbGYM_JiVKeGF_UB3amyvS-QSFcgpfY9PEMbq3AmKD-bnA336wAh8LmgyhbG_I2e89Xa1SLyM6gLpRuqJx7ZadcvRdxqnsYTHFff3k_mdN-6mMpm86jyOiqo5qGoJ9JJgRGJOqEuow_27nBjR36426xbJx1o4Tle13iMNFZQyBp-GsRnxQuJiNPWFqdkNPcnbeTWk79Ob2bkii0RNXrPgunPdJCBZsx7dLrz9dPySiX-F0BZC5afW8",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616147527,
+  "description": "My session Wednesday, March 17, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051d209c587611d6867a2d5"
+  },
+  "sessionId": "e33a1480-8706-11eb-a3eb-cfe76540f35d",
+  "authId": "bento.paiva@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.220",
+  "lastLoginDate": 1615974922,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJiZW50by5wYWl2YUBtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05MzI5NzAyIiwic2Vzc2lvbklkIjoiZTMzYTE0ODAtODcwNi0xMWViLWEzZWItY2ZlNzY1NDBmMzVkIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNTk3NDkyMiwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNTk3NDkyMiwiaWF0IjoxNjE1OTc0OTIxfQ.abIQpoZ2sOXDs1Qkc1QosXZAfz0iepDPqeYIm8m_RacbcCXbR1Aj020YGdXetWzvKijPZunDv34XwVqN8CRKsMJHelhe69vRwjrZNpHXxQVq5gX-Cwlk6AhgithZi87Nji8eZ-zcMbjTn5_eB5d0naZgayNoof5KUas3gybLBuNtI-PvVXg7nt7v0j1PBMZS_3zoI7D2RUJ1kCoPyf8OWdZR_JXMuMkYTlvcFR9co7-1p0VhO_hEiRlcMx5hOr4P7BM_Hq9L4-kXTjoj4YUsGVmIZFT7M79ckILgX5kx289cTnvAD0Wk9sv4_O28ZLvGOA1D0EglgiTMzwDeI-6f_Z3cApxS553qvlITf2qe4yXf6i5yJ-gdeoFvG2QPshbKwsuJRZCaqPOw6jf2KHf5BJb-ULb_OOXpTW76zzLWEjTCATOOiMQWDZR7sVrKLI3sf7j98g0JlX11SruSqjqdxj00AXILyxODd11JaerdEbHE9RLHCpcBnBiBnMrQ9mZQBAip1PJsso59XgxmFOAT60QdC9sE2VmUbGKdDQ2GaCFSub7Z_kEF-tro4tO_H7_1-DwzAzXG15blAXHz8IrSnw9MAbuM4gysHujX3RUP7r3ctXPxchFOM2jTFNAVwsjyibclOGXhjdaHpVYedp6dec0NfQU7YNSehp3XKZE4Fs4",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616147735,
+  "description": "My session Wednesday, March 17, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051d226c587611d6867a2d7"
+  },
+  "sessionId": "f49d5fc0-8706-11eb-a3eb-cfe76540f35d",
+  "authId": "nuno.santos.lopes@marinha.pt",
+  "lastLoginFrom": "::ffff:10.42.212.78",
+  "lastLoginDate": 1615974951,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJudW5vLnNhbnRvcy5sb3Blc0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05ODI5NzAyIiwic2Vzc2lvbklkIjoiZjQ5ZDVmYzAtODcwNi0xMWViLWEzZWItY2ZlNzY1NDBmMzVkIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNTk3NDk1MSwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNTk3NDk1MSwiaWF0IjoxNjE1OTc0OTUwfQ.MxWumwzNtpWuiGLvmOtO2mj1M8oxl4gS0QJPAIMIehMO110C0RVUokOiV2dJo5F1qm45ySLQcVESs-hLhL7-yhC0UJcLHmE49XtY4gaFBESRCIadeAFGIdmAcIRoXRR9xM90z0r7YOVZ5yTpnXBVJiZS54ZwCpSN79_katjqfyb4BlexNfBH_FY7xonyWqPkIuJGWYRJMyr3YVCxnMmn_H5dm_vnz7YsQQaj5j8oaKjAmYCIZai9FUct2lrcUMz9suqhVp012eiOHPP0OE1PJ-NnljOiYDg79N_Hdtq9wfMMAZDcMS8ZSXeNIo_1ppoqXCIpCUfwJO45mpUFo0_p7S6i8iEDDe5CM1_Fzo-5a72EdsvqGNEsnkREuqxksoc7rsfeAkzxx-_bGYWMn0u2-ssJGoFBAa4liZG1pDAlc33_FIKRUqTOlEk0E-Jb44HPYy5U_aVmJuU-gZZcZSMtA8EvdqzHmdji_EUJdDmuO4VKLNVCgha0qZTGy0NeoUPGLUH5ln4h7BqREYNKF8BKcXYAJdluH9NP5mw7DXkPNh4VzXHjJCgDkGxp0WXEcg5ek60ZPTlVgSPRSaDwpLqFYGPCgNe_ZikCDCAZ_jgY68ukwik_Ihc1vfnRlHALgr97Yg4vt4iLQgtLbXLz9xOxcK_LUBv54qn5WZqH6eUztU8",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616147798,
+  "description": "My session Wednesday, March 17, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051d633c587611d6867a2d9"
+  },
+  "sessionId": "5ec8de90-8709-11eb-a3eb-cfe76540f35d",
+  "authId": "Barradas.Martinho@MARINHA.PT",
+  "lastLoginFrom": "::ffff:10.45.212.114",
+  "lastLoginDate": 1615975988,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJCYXJyYWRhcy5NYXJ0aW5ob0BNQVJJTkhBLlBUIiwiZXh0ZXJuYWxJZCI6Ik05NjAxNTE2Iiwic2Vzc2lvbklkIjoiNWVjOGRlOTAtODcwOS0xMWViLWEzZWItY2ZlNzY1NDBmMzVkIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNTk3NTk4OCwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNTk3NTk4OCwiaWF0IjoxNjE1OTc1OTg3fQ.PaouBXcIqjF1BTQt8n-_VE50TayWVYyuz1YDLX2CZqJ0fwjuE_5zNCZlqvbUb6MAiepKXC1altAptBBlX693uxxMSYUacXRFdQGO5podRp5A-0IHVBxikDAFmz3DeFD4EWvP7pAX3uCarkJelWLe_p9LZ_jXElURSvsb1zLJys6k_I3vs9NllVS81pUJ_sBrs5tgvvGtlTqwaMTeLRtRH9SGg9csmoQx1oqtvfTLfmwYSsMPDyWfBA-dutW-D22lskb8KbFJu0odiWfJcZDsjIu5cTuD5laQCx36OAkPuq_MELlFUh1kQiq8fHkmdxOQcGCmY5Ahu0ANVBWfIYg-u9C2Pf_fDgTOS7HmOfjDfDVr9eovQoaoBLAwZEH8iSjq8zLLYLU1wj2zs5qD2HAJRqGIFEPCRbzTyQnFA94CImaAN4ozfjLY0GLbYK-QpiMj7Asw76aNoK5scHpktSKdfbNW6BbtVpa8kOpfXgpXYszWcRlEwdYcZSK83BElFgku4NnevSs6Kd5tIWiPHVFaN1ZdAZXPPaIlNjwSWBWVm5nMq4FV1KsK7Wa8qLkHIEHZj756Z4cUhmtFT095RsN_-h5NKzPnx-pwasblB2wyce6ss7s-peJr-4auZz_iv_1CU1BEYTrn-z1WCmMCH-MV6vtAj-Hcuhm_4IKixKoRRqE",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616340917,
+  "description": "My session Wednesday, March 17, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051da47c587611d6867a2eb"
+  },
+  "sessionId": "cd088610-870b-11eb-a3eb-cfe76540f35d",
+  "authId": "cordeiro.pais@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.145",
+  "lastLoginDate": 1615977032,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJjb3JkZWlyby5wYWlzQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MjYxMDIiLCJzZXNzaW9uSWQiOiJjZDA4ODYxMC04NzBiLTExZWItYTNlYi1jZmU3NjU0MGYzNWQiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE1OTc3MDMyLCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE1OTc3MDMyLCJpYXQiOjE2MTU5NzcwMzF9.NCt_brPS1kKEhXprVwLxPSZqiFiiB1kvyvAapuZ7lxLQMgS2qsbdZzruwbyTEm4X4OBGAK5M9v3a7krjehwUvEe4TanBktEmRLxsX-OWhRpjF1HETMFFlmOfDJZMaM2VJdAVd9Dnl9NUl2i2p9Ib6oV3dqZVz3z6hPM6SOVOCCXzm1PHlNbeTYDS83qxieGbB0qmKNvftrWpNB8-3ErOrSUXFhVMWD52d01k22cTtkg8GFg6fu7Zsw5In-vCHhn8yVfBm9WSPGIARURzut5skJGH1urpqKF4pPaW29PLbE5Vk_kj88TkaJS_iaX_wdi9-0RU50lpAmcv1AZ9zFb_NprLjYJdqWLDHZJpAVMg6EQjogcmdBkVzd85gOGESTS9qqmW10x6wsiis18hIkKeVd4wIkU8fZg0JwFNnrORUYNIq6tmjt9WdVjaFLMw-chyezzP_jhZX54F5ualVP4w5U1QoU-OOvo7JWMUkw6UhUN8G9CjmCy9OftsOyunNyephl7Ucq9mCS2pl5SvDMWveiyBnLY0Mhjxe9EQlJmLBjeQisulTJ96SAsLZlkt0Ttt8My3r68mA8Movqgfoq8fuuaOLON3K1USztqoYZCCWE3qN4IYxdhzgxX1HV2nFV-xBIDF1WH2UVQ5EYdOoBkSFf0-mRT9Tsf-V7yMhIjcd3o",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616153897,
+  "description": "My session Wednesday, March 17, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051db12c587611d6867a2f5"
+  },
+  "sessionId": "45b46660-870c-11eb-a3eb-cfe76540f35d",
+  "authId": "Neves.Cardoso@MARINHA.PT",
+  "lastLoginFrom": "::ffff:10.45.212.35",
+  "lastLoginDate": 1615977234,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJOZXZlcy5DYXJkb3NvQE1BUklOSEEuUFQiLCJleHRlcm5hbElkIjoiTTkxMDE1MTciLCJzZXNzaW9uSWQiOiI0NWI0NjY2MC04NzBjLTExZWItYTNlYi1jZmU3NjU0MGYzNWQiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE1OTc3MjM0LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE1OTc3MjM0LCJpYXQiOjE2MTU5NzcyMzR9.vLj-Q26kHzetlwfFHmpOyCk9zr0DaFk7S6cDF4qA8lR4xjtTZJwBbC7z2srr4IV41sjrXoalnoXO75n-LkG7mD7lQkK1wZV7Rcbp_-Z7YjBiuU9_JGAzDofWVeZ6zRvv4tRJerd73uEoKD-YvkwEgduq4v4byz7EUBt4fFM8JNtGnJDxZjmFXRzsyzslEyjj80CC3gn-6sM_cA_uO8IjciuLtZ6dRhL2n2Xyv4lyI225aMp1gvObFAxfM8Y0M4364V_zC-1Ukx8gQRcyLsa9QRdx7CE_UDkEreW-peZ1AGjAX2mlXQalmFBTQimhMr2B-q8UBJoS6e5iH1VdPvx6_ubf36y0Hzr7kliGibQrNcayi7sW2t4vJadSzwB1cPDngHEfQQ-MxKz_dmpDslhCdU6gfqxIsdhOwkkn-lmh1SegifIZI7LB2jXgcRJd0wPvawVmG9xlIwd8ICLP36YfohbB2dl1TQGpulViAfExxB0S1VvsIWBGNQWSdSmFlnzaAUS33CmosBa2R0NuNKFqt9iOdR1Pe-GqULXXULJ_VJ5Y0YyVs-VEcaa7LlCuHqkkfJpcys4T9AT6oKIWBjwYN1-hrhgfYyIX_qMGiieZVhULRrIdrif-5y8y25vWWZq7N2vm9kyxMb1NsFkw42wVeAM3xgHosjXC3-4aSz1870o",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616150364,
+  "description": "My session Wednesday, March 17, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051dbfdc587611d6867a313"
+  },
+  "sessionId": "d222b7a0-870c-11eb-a3eb-cfe76540f35d",
+  "authId": "ligeiro.moreira@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.194",
+  "lastLoginDate": 1615977470,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJsaWdlaXJvLm1vcmVpcmFAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNOTgxNTIxMCIsInNlc3Npb25JZCI6ImQyMjJiN2EwLTg3MGMtMTFlYi1hM2ViLWNmZTc2NTQwZjM1ZCIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTU5Nzc0NzAsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTU5Nzc0NzAsImlhdCI6MTYxNTk3NzQ2OX0.DOEn1uvN50rMjJhdclrC1LHFFDo9-6wFg-m7wuHPM8J0lSyRm6Mp_TzdkQvbi9FMYsKE_AWXuz7JSbGlWa85h463B_YuCadQ_C_z9cw4YWIrPIKzJATl48gLLFatBo8ZD1jcs-jND-oxvu8fvfY-MBFhgXpxPsC8IgIK8kGEDGZqQYFK0eHqvyg96Omxd8gRJro5mrxkT3yndanGClo_XK6RiASgcracMZRyj6J2RYshodnFYSqF6VhqxoRFNXZhYoebHOP8jYV9UpLpPHD4hxYaltEfDDRXL7sp91zeOyWPfT-d8NKx7V3qjXKjCexS89bFQwuM2m18dzcpPPBGQg5WrqLNAixGGESu4izSWiEFUoVECJrYbK2k6nhfqyy7Y51-8eckEdk8T9mqss5wK18GX3UHe_sNWq5zQrCpei8xhn2EV3Vy2DeQv4ma__U7i2Fxb8927PnXjZ0JKOI6kej1XtPbOnsUyZZ5pQSgqg6--C7a-kty2VBD-_D_aLKNJ-i-17fPrjg4JkP2qmzWJ17Z_j_jnH_JlA3LVjfS5ujlPvNfX4CQ774_ApCN-ZXMyIwM8atjr9dN3VDuf7ttBivro8otLL1W1D1YwfOmxJh8OFKLWvtfpoJcslmIP_8-ij4aMXHySoFMlP1jCWoUJxEjePZ2A6Dd_56oXjVJ9M4",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616150425,
+  "description": "My session Wednesday, March 17, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051e222c587611d6867a3a3"
+  },
+  "sessionId": "7b561e40-8710-11eb-a3eb-cfe76540f35d",
+  "authId": "ligeiro.moreira@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.194",
+  "lastLoginDate": 1615979042,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJsaWdlaXJvLm1vcmVpcmFAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNOTgxNTIxMCIsInNlc3Npb25JZCI6IjdiNTYxZTQwLTg3MTAtMTFlYi1hM2ViLWNmZTc2NTQwZjM1ZCIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTU5NzkwNDIsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTU5NzkwNDIsImlhdCI6MTYxNTk3OTA0Mn0.omwA4BEZ-wuvLEuN3ENg29F8qGypUudfUmRsIf73cQjqL1id5PH0oI4C4zwLwxuHcvMOsF4hjp51744OeDgKz_T8PQR_yG1EiLR6ZjzTeGQ3f0XAt3jX3i1Bk-OqR9jjZIyqDwscEVmgNWkizq_A9xDBoWnffbCL5xKPokG4X3Chsojc9zb8iQZuB7t1epHAeZMOZkoIKEpQFCGkpgHN_wC0xu_X5p7YxDHpzyQ-bHqOO3HVeIqeLrhyEEBJ2qX4uVjx9v7z6nnjsy116GPdaZZAZxTjKfUX3RBPkp6AuZLPojTdegTtTexVaSngP_WMHmsa6WFwmz43sRKhD_5nNGOJGFxS52YTGaV9zHAEKYcRSxArzWPjenKgGMRS58rTX9aCIb3PiKePwYjzynL2qaUd2q5ZG55jP1HY3oJ_iKbNL-NeMvUHlFBuj3DFmsu0t4D61rs2vvwxnWIwk6D8mjLs2audNL6sz0JXnA4iVM3nUP7O6CuMzxQXdgHxp5JhDTeWuz04gMcq8qLhwXvhwII5dJLwzOSF4LaQhpz1WylJAuV1sxovLGenPUTZGpheGhoX2T0R3oWa_msZM7pbE5aTp3cXdzb6U87XgM9VTDvJL_rDcIfxwJZrtx_eyMR1jZkxwSa3SnE2TPOUBYaArnIx9pcxUG16KrFahd2riLQ",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616154342,
+  "description": "My session Wednesday, March 17, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051e764c587611d6867a3fc"
+  },
+  "sessionId": "9db7d110-8713-11eb-a3eb-cfe76540f35d",
+  "authId": "pontes.saldanha@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.231",
+  "lastLoginDate": 1615980389,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJwb250ZXMuc2FsZGFuaGFAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNOTgxODQwNiIsInNlc3Npb25JZCI6IjlkYjdkMTEwLTg3MTMtMTFlYi1hM2ViLWNmZTc2NTQwZjM1ZCIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTU5ODAzODksInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTU5ODAzODksImlhdCI6MTYxNTk4MDM4OH0.Ek3PXdaMf-n3lF8-BbwnDy5O_JxB3lslr8N5EkduDd-3FmBxRpocclD975-LTn-FS3PXApIpBgk6AJwmXtaHns-GbNh6v2HYdo179FLUsGP4PMkwVtmU-lRrH75meVTomdnARxl_jn-3487ibFM8y1MfqeVhjKi5YHfXcqIsdRxHmcGctiPe1fD-MqhXJuyN0oZO3IhV2wmLjSszJl8GuCX0oLpKoym0yf1wOprghQahYfWFOSsxn31RlbybWsP-pqn7s89T_OKwu48C3DYuRV4X6vjCUZqUIMo-mqdakr_kek2IxyYiBLyEyS4DBw5fs-VZdcQNU_0LlHd3Jz5nigTxH30V8y7RlwhqYb3t6ClaSbOZ_Kyv68vP-A-a4qH8-iweDQcOvh8xY6HcCaH28x6B10nWaUISwCKQd-53DqfZApUvVRMYEbYSKZJanZ-pICRqkQflqinwlWmluf13NrH9ts07pqSIJnCd0ly40T2SYeVb8sVXpQ87AG7YdoK2f2P5nXkIZtqnsp8CklqPIcNzEzhGhFDIW8NkVKKLyqg2QKL7TKhd5Z3t1tC9eNjRC9CRoDohpnvg7KLxyPa9E5nPmKg7EsEu7dXeJgAYCBlQU_B8RpQdkQV73Q3nwBjHsoTzMlHtgFZcnFdgdNwR-suBIK4xBWbm7eT_RPtqX-I",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616153207,
+  "description": "My session Wednesday, March 17, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051ec55c587611d6867a40d"
+  },
+  "sessionId": "8ffb3f50-8716-11eb-a3eb-cfe76540f35d",
+  "authId": "palma.vargas@marinha.pt",
+  "lastLoginFrom": "::ffff:10.42.212.80",
+  "lastLoginDate": 1615981654,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJwYWxtYS52YXJnYXNAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNOTYwMDcxNSIsInNlc3Npb25JZCI6IjhmZmIzZjUwLTg3MTYtMTFlYi1hM2ViLWNmZTc2NTQwZjM1ZCIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTU5ODE2NTQsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTU5ODE2NTQsImlhdCI6MTYxNTk4MTY1M30.Pbv5AvoWcLkj9UYmnsBeRJqxLWAJh4UXq51sT_tUaa_qFvfZo9YbLjR-jvfaBvx6e_L7XjIA7Yp-ZAgG-sgexZA2Dfbj3CbCmHHkaymzDWvmUrxrJgHmlk1hiz_UO5FsU7eXiqNXj4xOFKgTY5WU8N5hn_5s22wo5mgDwDSglQHaUHg1Anlc1OF7X_SeS7Fp07wrCXwgG_zGKPOAVMX6KDR4V-eh8Xd3gq-1oiF4C4c_yPyg_q7PUDRel7-4fQ1HB05T1T3XpcrNvD33zJ9RuTz1sV8N00b7uTc9JzqTj0HdNr7_NJposnPpRPiRlbu36MIDpVXQdnSH0ruxUayYR4lo8YvrbKrUFkKztz4unw3QEaFI5Cloz6Nh1JABqrsbkT7LU87nrALhhDexKS-_BB2iY-vWwh8Xp3aFMbOmn99QiTrKlfCapOVAphsEXBYQSkLe27e02cSRSFN_nXuHE_ztQ4rusD75ITIVWPZ4KuPLW_0Tw_kZ59SRWl6Jco1lDDKVlXCwD7TpRWnFIlmUNPZltYHulMuMB7yhicf19J2eWaZWwpuVTzBuovVTMDo2Y-liAlICikbYN_UVm_O11l4mpdHBKzVGXO5KdFhfB9w8rvkUxANylrruescr-U37g3EdnCGh7JfG1CmyxmFwybHZ7zPBz7sMBI30tJBQRhY",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616154597,
+  "description": "My session Wednesday, March 17, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051ecc2c587611d6867a40f"
+  },
+  "sessionId": "d06f08a0-8716-11eb-a3eb-cfe76540f35d",
+  "authId": "guilherme.colaco@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.218.68",
+  "lastLoginDate": 1615981762,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJndWlsaGVybWUuY29sYWNvQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTkxMDMyMTYiLCJzZXNzaW9uSWQiOiJkMDZmMDhhMC04NzE2LTExZWItYTNlYi1jZmU3NjU0MGYzNWQiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE1OTgxNzYyLCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE1OTgxNzYyLCJpYXQiOjE2MTU5ODE3NjJ9.YW-FaW50F1GpMVktPRNErprbAhEfShKbBEcI4JfbcNiUbUfMOepGYAayJcpTCSfSV2aFnqnKdjsareuK8l-T-RVB--ek9Q77HTuITZN4q6l-73TjmutU_0LRMoOKXA_Krs2GweZ0juit2DA6uKhtnqACyRtiBEcAaHmQ7WdK6AF42eADAD3SW0HHI0YilGHkWTXMPaYrWPw6WEuf7xaqf0mSK9TZnCOy0o4g51b9AtUXT33jmzyJ2I7s2GGT8KW0VXUkw2hkz-tF0-9ruYUWDmnrw3KTAoRc3NrXAyz5O_VeyWQQNbxA2kiUgu3Z57zD94Vfc-nhJZWc2ij8jIHbWMGVQ_rxjp2Koc6iKe0EceeQBrRJcbJgEynMwhcTGZOumsuVam8reuWZEDgyHTiVL-lvZzYG_6RgGqWA_Xz1L-UNO_rPwDlogk3kcKbiIrwveFOZSyiUUUbGQz3K68mfDa4q4E6MTUvL92ftyud407aaHmc5swnm5AmcNDLn5grOegkAxpFPOCmWcnT12vUVte09zeSrQPBPRoCMD8H9AFaYCZOm4GK_cgKmICSR8mv9ZiflfDRTzlHADxfFN3AQwzsnU3l85vMQcs3-eOgB6RA-TZWWS6ynyu_775GNOa66LXuVKsnB8_zZ-v6r6uf3GMKGdIrhkigZh6bfzpo8SwU",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616154838,
+  "description": "My session Wednesday, March 17, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051ee05c587611d6867a414"
+  },
+  "sessionId": "91500470-8717-11eb-a3eb-cfe76540f35d",
+  "authId": "Philippe.Dias@marinha.pt",
+  "lastLoginFrom": "::ffff:10.42.212.74",
+  "lastLoginDate": 1615982086,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJQaGlsaXBwZS5EaWFzQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTIzNDAwIiwic2Vzc2lvbklkIjoiOTE1MDA0NzAtODcxNy0xMWViLWEzZWItY2ZlNzY1NDBmMzVkIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNTk4MjA4NiwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNTk4MjA4NiwiaWF0IjoxNjE1OTgyMDg1fQ.TMVCUTQmDYmBUjVI4RfzhdICGNHCM_l4Uz3jvE1n9EpXn10NjnfugwoCMyCtv_r6JnG3IKbAFJFEaRxcyD-9yf2LmfHUdZauuDFStgw76_RQoFdBfieBlmePGkbzqbKvb4msrMQKgK47H2IkqZDynXLPecfSzmHF3fUetC71Tq753uLoyicyfgSbMZ10koxp482zK1QFEAFm6hR53ogbau2fi2eUr2Qxv1Iw72JLQvbYBCqqyHP_waW9H4RKgmovyyFJ-JPp-sT1G2GgwS1iGY3UzuYNB2opSpWM9H0Thjru_A8YtmCcHjrXA1_QKBrFR-wahAbMnJESDI9yYkrvs1raiBjmKwtq4oD3b4EBJ2D-wew6FaeJipAQu1AdjlqxA1lg9IAj47409nuoKDejCHBYcNGtsiSP9_8MZ8TD6qN5utyvLUTBPbuu5g4Djaroy8v015FFN4TSiCVL4zpO7qKm-T91VDl1iMxQBzfDIrhEpH6hSWPmxMNFgovWwLiNmFmaRuQxEkFqVeD0NfLLGZf8u-Z6QL486S_fRi7lcGmlBkqTLkLFNIwSIxcZVqt1MJEzxzuMpQpgUvb16b5cSwnuW0A6aznahMJ3pof40Ehz-he8MUj7TzGyUaiKxFeN8qBMovT7dsXzh08ETR5JXxildv-SEK_XuUEf0tn4bkU",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616154892,
+  "description": "My session Wednesday, March 17, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6053158afd570f31d0a37c2c"
+  },
+  "sessionId": "b63217f0-87c7-11eb-b018-cf48a8b4f863",
+  "authId": "Rodrigues.Gouveia@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.178",
+  "lastLoginDate": 1616057739,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJSb2RyaWd1ZXMuR291dmVpYUBtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik03MzEzODkiLCJzZXNzaW9uSWQiOiJiNjMyMTdmMC04N2M3LTExZWItYjAxOC1jZjQ4YThiNGY4NjMiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE2MDU3NzM5LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE2MDU3NzM5LCJpYXQiOjE2MTYwNTc3Mzh9.jdb_7PDDW11f-z9ZBfO2Cr4rIBvrStNC5a53AhEwSbfaVYXohSwdVevT74zJZdq9ovrYy4CxohQVe4ZzvfJkiGuXfvxw6hnm2abcsXMqTMQPCul8anwyukZi-fsvWb7-gzJSGilUhxCi5XaQhhbjCqnjg84TULgBZ2iKF2JLRTyE7E6RjkFiNCp80a0Hl9KHRL5PPeCZjiNHVggxl9KWkhPkE_xVw3gpv62X99KWjC3Ufx5F9YhILk93ZDQAIfLT5aBSEAg2-Mw-FbKr_yLk9xPBxeFmvJlXwtr3ckm0Z8gr9tsbvvOHU-TxfyYQlMXIIibohYNC6PsJA_i8Ydd3Snw0EXuVuktPHKrNKBY2emIKbaVtrdN_SRW1rUZKVtMSsYvmKYMMyNL_YXbUNSe6sorLSbNyZrSoQE7PuVbMMKHY19aCAXdKouIclX-ZW-A3-qaus8MEpy7Qsp7vKT3lH8l3iWZd0WgKcxpkCoMCy_yjfSAgPCiNWT2pdk3hV67IWtc6r5qi2l3ZSBnYOE_YcKvp2TjC6AJmQQpa0BojlAyw--Am58yN2rM3MiKtsh2i-v9zXOKHZKrCofysdsusGCd1Gf_klkDnmdjbNztuanDd4mIkI1sAhSW-gRYZMCJWfVVozVbzD0u1pMymzr3J87wNMlNtIEcZDi4LsxwCy8s",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616230547,
+  "description": "My session Thursday, March 18, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605315e0fd570f31d0a37c2d"
+  },
+  "sessionId": "e96b7f30-87c7-11eb-b018-cf48a8b4f863",
+  "authId": "Rodrigues.Gouveia@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.178",
+  "lastLoginDate": 1616057825,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJSb2RyaWd1ZXMuR291dmVpYUBtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik03MzEzODkiLCJzZXNzaW9uSWQiOiJlOTZiN2YzMC04N2M3LTExZWItYjAxOC1jZjQ4YThiNGY4NjMiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE2MDU3ODI1LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE2MDU3ODI1LCJpYXQiOjE2MTYwNTc4MjR9.RWJkW0mXnSWnMotKguueQ0zLKmnBDO_k6wBNUor8E9vd6xfoGmlLj-IRFr9hvN9UDYw540QfZFpCNJqqADEcushuoOOQwIf1qWokbw3gduUY4asx93hI4kKx997kKROjJthowzl8lEIrp9naN55CI3eRuo-gi5yd1xNwL_7HY6CBYMiq7l7Xlzea7A7cy-rVochiA_TpcpVk4k-r2vPdgQRASvWh4jk-cDuWgM1LQNn2qA_JNmAbIBHEmUEfritVlWUYFPA6NP0B3ngulhIcsYNNUoJGVoPFnrAy794o-tqWaDYlNbzqS5d7UnxasBjSPvY-syUugKJnpRoHIYredDGrlhCtcf9_ba1kdbh0zYM7tH2Y6p8sdtVTi_u-ONDmnMsAMZBYlmGJfCh3urcjlho60tisSqNbUqdJjngr_jIHTCdV8792c9_cJw55YdNFqcAtcM_qTpAYjnGfTd_htdZXQB-kFzJWQI7TLV4WJstT_kmdkbl51yzEIiR0kgdPUrOz0iTmd4axoc3t58XiCjltPd-WNQHktZ8iy9VWnuL5563qFH2QCVBm4i0845FauDOpq08Vs_cGYj8JtU_4bnG2fqwweTF1dAGvp3uestw8cY5aktNPW_7BIhu5_c4gNK4N0VazIRxomM1IYRrTstfPE0QudlQFvWUv2LqcpLY",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616231327,
+  "description": "My session Thursday, March 18, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6053262ffd570f31d0a37c55"
+  },
+  "sessionId": "a18cdc90-87d1-11eb-b018-cf48a8b4f863",
+  "authId": "dias.orvalho@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.181",
+  "lastLoginDate": 1616061999,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJkaWFzLm9ydmFsaG9AbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNNDAzMDg3Iiwic2Vzc2lvbklkIjoiYTE4Y2RjOTAtODdkMS0xMWViLWIwMTgtY2Y0OGE4YjRmODYzIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNjA2MTk5OSwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNjA2MTk5OSwiaWF0IjoxNjE2MDYxOTk5fQ.tbijBREqfWVGbw4CJ9HjetgGXiR4xDkiZ89flKF4ISjOxQNMzWKhkeh22GzzacmAjZh5oCS2ULg5s3FsTPtOitqHRx8piTGHvW4e1WilTg8uFMBx7Pyfds6TZgGqW3kmmt87i8Tm2BG-VrXHkqZsBjaj_RCGkbDEI_yFrYVfptRVKqJEMZxJwzfSbWQOgXedFI9-cMPK0TGIY7ZPK8quuLP9PgiEZA5WKXt-wnXZmaWM8mJoLNjxzqrtMQr2z4GGP4j5GDp8jFllFdQ8PLPyARFFPqr6K3nqCIhAddMIe-bSyxvHz4troTeF6PcW8wQ_c7E_hBY4XDOnXjfjPU4DsL9eZZLwVTensMNitxbaBSa1NjoJD6Ekb7GdkvJ4Sa91YotnsuJVmpAgtFSFPKi7zc0v54q4DKNoVxxtx27dfuis8E5Ghs1qEagDeZ9YX3B_19sbThFQsE6CFfqakIofUhjnBsaY49UOI0o0y_hkI5TFBmQGfQptbjI1sFCPBbh48xsuPAxvgeaNyv2v0PeiaNwR7rw7zhnSQCx12wLOaRtRs3_gmYpPVAlp_ap6qirFhh5hs1cGe0DXXaFpvbjFWbshFSALDd8xgBcuANpO3bkqRjVvigmMft9jr_04GWaKxfdcpdd79oO7sdHwsUd8xhf8zac2REXVAPm_jQ0gCVs",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616234801,
+  "description": "My session Thursday, March 18, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605326effd570f31d0a37c56"
+  },
+  "sessionId": "13ee2c30-87d2-11eb-b018-cf48a8b4f863",
+  "authId": "Pereira.Cerdeira@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.181",
+  "lastLoginDate": 1616062191,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJQZXJlaXJhLkNlcmRlaXJhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTkzMjE3MDMiLCJzZXNzaW9uSWQiOiIxM2VlMmMzMC04N2QyLTExZWItYjAxOC1jZjQ4YThiNGY4NjMiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE2MDYyMTkxLCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE2MDYyMTkxLCJpYXQiOjE2MTYwNjIxOTF9.qr0au-SlWw0dZkra88Rw2pStdi6hSB9roeTS7bZVli1YgWtPSS_jhOWOFXlm5CfEG7rpr75tm-aZTwqtfAR1WVpIP2PZXBQIYusY_7hGplPV3VfpsVH_qeGfKDAiSvfbdRDFZa001ec_q_xxBV72si9G3ivdWQhD92OV3-yI6yubUyyWQSFxcUpAQaMAAZ89RceEVjXz3NgNMBWxm2hhSmN8O1GOyiGQ6BajAVyMjP8Yitn57zsY9jYSzHCHdoLP6sJOze3ROV29R_vJ-X-p0NEmZrmSZLub4qiZ6hgWYk2texiNsfNInzgzs04PtCz8E4anH__LKr0EtpL_hDFqnWpzixAr5-u8kU5sKmxfEzn0ehTgXmhBz7d03_21XBt9Jd8pJ9OjviKfG40YzaJ2ok0DTKrnAmf41vtP_kGMh1zv9ig9x-tyj1B-qQ6fPrqX4xp8F7P-gfqrb-i7yZDLNIB_IYzWSE1nTDh6hbjeLrp1KuU2uQwW45pYneBNPlDwTd2u8HcljeW7A321X0snVgq0SQ5jZYcep9K-MM4yBA1Y2DXdZTs3SG9ruEEbS1liQf8l_tcpVkDzeCeNQ1Hs28v9LbLxSU0zU-kcvnJU3bCA3u-0VTr2bQWdN2KfEz-fLYRvZdY3mVpXcpDumAuecVbON0JuNVZeP6CrPc-fAxk",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616234992,
+  "description": "My session Thursday, March 18, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60532748fd570f31d0a37c57"
+  },
+  "sessionId": "4915f5f0-87d2-11eb-b018-cf48a8b4f863",
+  "authId": "sousa.vitorino@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.218",
+  "lastLoginDate": 1616062280,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJzb3VzYS52aXRvcmlub0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05MzI4NDAwIiwic2Vzc2lvbklkIjoiNDkxNWY1ZjAtODdkMi0xMWViLWIwMTgtY2Y0OGE4YjRmODYzIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNjA2MjI4MCwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNjA2MjI4MCwiaWF0IjoxNjE2MDYyMjgwfQ.kWotDRZYE1Y620la3eLTfvpPsUVzYD2d_grTFYEwx45onhcQetETI41woBE8ReQdexPoeBX2wNQeBEZk9DvDGepUrn7GGjbKXQnvWK8MYOIfq3E6gq63RfQPp7Gob1PANOXl1Ic-Z1J5ELRq5A3yBMfgFfFwD8_ouaomA3tVjgOnJYERHUUUVbYNXwkXj9x48tNUtqjBIZWHiKMe83nm9frZUxzcgt4hb2skwCErcwn6jaVU7HW4dscCKYDouMbCnFVcxY0cPAW75tkoxbTGupMN9seaGoznA64oBcEvrNFyDFr_uHJwj2oFJuzrTLit_bQza5981asaIz6TzbG90r7NdKuNKZ_Jb2IUoeDfKwGJdHxG9AdhYystvca3jJCnqy9lNatuzad9qJK2gRKzro7LXB7VvR16rdLyERSfCrys8IzgtKr-s8lLt1WHAlVallCUHwYUwtGtlblvtL29ltjdbhRTrb6nInAWy6e7vWF9S4oIbMcWCLvGJCQaVep1w8uKBdEjWgv9ym7RQumaw7nDEkTusWSMCVjo-MqGoK8EP9PVggfQo7MvTSrM0ZkXarMr8RVvnjyKYmkcsOCQWRBTvc26N9hF83RyLXTkvOsO1vTPhhKrNfyepeORTRDHT5RjrMu_XzSYIVPeJMSA_vcgc_l2gwjUr700Hhvx7lA",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616240184,
+  "description": "My session Thursday, March 18, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60532fadfd570f31d0a37c58"
+  },
+  "sessionId": "4a553a70-87d7-11eb-b018-cf48a8b4f863",
+  "authId": "rafael.dias.marques@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.168",
+  "lastLoginDate": 1616064430,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJyYWZhZWwuZGlhcy5tYXJxdWVzQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MDM5OTMiLCJzZXNzaW9uSWQiOiI0YTU1M2E3MC04N2Q3LTExZWItYjAxOC1jZjQ4YThiNGY4NjMiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE2MDY0NDMwLCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE2MDY0NDMwLCJpYXQiOjE2MTYwNjQ0Mjl9.oAgwjX1ALvHxah3MGSlVoUE7bFAlfJKKwFm1sOyo-MuhGsN67wIKve-CgdeHVkKgcV1tVC4Z-AWpg8FAhWQ2FTIei5UwdGg7xKHUfG2ld8sypjtPzhWDwHkax2Y4HF_sO2d2Hlkr72X1Lo2TTn27ycIevN3SWaXVllrrmWvTGcdz53bEaI1AdvJL1rV2OE1EmVb3cIiK9S8-54Ris7wxP3xM3h4HCvtYxC_V4VXCkKsCfWh3O-pJejpf5QisHLANCwEW3pk7ZsUPTJDLCxKBBdW5uzU1vGFYQrQHsFTV3QSEigFgp3leAhemom-THEf6kRpOrh7sVu1iY9LaSS0JkD9p56xAu8wjDxwLGcZPmuGcGwUZWL3tkIDTEewQipwyEPxQBlOh3Lcq2quLdhoi62c2tOlIn00jErb1mc2Mp4ijnzLTPD1oLKUCrOakboVr6boPRhK0KJShIBrG0lnLvWWBsM6YinVmjhIEsH88eWy705z9YPTTSbO-bsJP6GwGyBAY4PCabLU2zLyPtdjrvs10DdFQ_mnd4dm0CPmnYGPiLUTJacCDUhP7EN9OBf2JCYM2Ukusuqg0YSPy0VgWZHZKqkB7n7dOpUlBineJkFXcWUDZKdCvd_2KSYNa5K6V-8aBjhfytQ-sNeTcx686rsedz4DlqlwjOxDYtmPa3FY",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616237241,
+  "description": "My session Thursday, March 18, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60533b4efd570f31d0a37c59"
+  },
+  "sessionId": "38a24460-87de-11eb-b018-cf48a8b4f863",
+  "authId": "soares.lucio@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.218",
+  "lastLoginDate": 1616067407,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJzb2FyZXMubHVjaW9AbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNNjA0ODk1Iiwic2Vzc2lvbklkIjoiMzhhMjQ0NjAtODdkZS0xMWViLWIwMTgtY2Y0OGE4YjRmODYzIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNjA2NzQwNywidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNjA2NzQwNywiaWF0IjoxNjE2MDY3NDA2fQ.aRfU0-4p4ThA_uwKxE6MtWwOvPxSyazPDkul2rqBOPvFJk-GVNa1M5XPNQisomscw9jaU7R0xdjdJXQWKAy8xoW8HUyfkyfZxSTeuWeaJCreE7ECW68KNADOY9_jhbhZPNbCkNk77HFRb4vZylSDyzaHmQNNjLqEY2yQGBCzWjJPeb3ph4OhwCyBgBVymeZ12_nBQtHinJn1gMtvxTia6UkdATGTV9o2TQNtRLdRUpQrCoQxEGUtAyLp0pbBnITGBQGcHBK83-2j58EwSmqOaycc817MESUYANKo-jNzCLqOglYiQsK8H_a3IT0XjDD0G3XUYa3M6f2Wk8cLDzSHNyNCCBEfXwa7tjXsUd5nJ2RVvk9aqUhzymTWc4ofcZDZ2jSz1Ci-9msKL6ZoXw0V0EAI_11_wMOZ_9TyTne0guPttx6o_q_nxulI-_Jz08ODbVb0KevMtVCjvh66YNXuGnRg0eFaw8c6VZiEbthrqAKPonAGNtS-lg3E3Pv8bcEOwJdTiPnnuZ90eRILYyNWKY-GXIyvGInrI-2IWu8Z6WTFzlOb3u0rC6Ab5MtCIx9T5Owiiy0xK5Wegc9MsddsPd3WhR49w6v83y8Op5vB2FB1-8--PSp6syhMW6RqlhWL3ftHDx0sWycuzuHVKGq7OomzyUJc_c4K_9CoxHf52kQ",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616240220,
+  "description": "My session Thursday, March 18, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6053523bfd570f31d0a37c5a"
+  },
+  "sessionId": "e2a2da80-87eb-11eb-b018-cf48a8b4f863",
+  "authId": "Fernandes.Almeida@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.134",
+  "lastLoginDate": 1616073275,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJGZXJuYW5kZXMuQWxtZWlkYUBtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05ODA2NjAwIiwic2Vzc2lvbklkIjoiZTJhMmRhODAtODdlYi0xMWViLWIwMTgtY2Y0OGE4YjRmODYzIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNjA3MzI3NSwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNjA3MzI3NSwiaWF0IjoxNjE2MDczMjc1fQ.IsqZv6s7PiQ6JnpGffX0bvflABOMa5Py5PUfXzfsLyOUkUsuPDU_1i84H9_HRULhQWBvTaZOX4dLOgxHLRu5y01si8UbChfMheHl0Lv8KKTQaUoP9u_fZHu76aL6j4CWTtyUjfesQ4uc4_Dcll5KKEvwJHsm26UiVVSzGQvyITw8ld_g_VvjDpxAdul4sJvQOSX8BE_Md4yva5xK47p6z8NOf_paGDK3_p1ChOWwTj6qcw_M1ak9o7lLLB5t7yMAulIJIFTSb7oMox5u78UbpQqeFK3VfNQfk5J-BTkTXzhwx_7K1MYpPQmAIV-VnJDeMcvGGNLK2TmupbxKHlAIAjcjvedbaxGcHj847-oPFII4Dn7YZEmtUugOyb1c1bqQcQ0ldvqwnxQKatQTHUJrf_QYW-Ka9qt0VSNncE7se9ryta5U2m92tUHhkBgPiOWnivoQ9TWQ6kC6vnrBKhxWlehAKJ7CgfLdJNVe4JZ-2YJTvWeNeN0RD7S-zOrTy6dy6dgxlh_jNvhY9O8kjWybKwqI4vsI6WsXdHlcfT3mQuh6UtwxefG7jY9dxoit6W0phYOHnUUr18rTcrPOy41ur8XTVMxW_GW33jzYimpteEmkyAtKtAEzZY3P-qUP269nHc_KoANj5anGBSex8S2k3ZmEFsxiGwHp6RJ6HGGFHQU",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616330386,
+  "description": "My session Thursday, March 18, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60535d90fd570f31d0a37c5c"
+  },
+  "sessionId": "a3c76040-87f2-11eb-b018-cf48a8b4f863",
+  "authId": "feio.luis@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.31",
+  "lastLoginDate": 1616076176,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJmZWlvLmx1aXNAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNMjc1MDQiLCJzZXNzaW9uSWQiOiJhM2M3NjA0MC04N2YyLTExZWItYjAxOC1jZjQ4YThiNGY4NjMiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE2MDc2MTc2LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE2MDc2MTc2LCJpYXQiOjE2MTYwNzYxNzZ9.hjj0FQ5pLa5cRbaoehbdhjmgr2oNUF3Eet2K81oJ2_j6ETGKS12hZR6cqgW2uN3CQzBcl9KxQ0ewB5PFU5incuVS-0tKD0CKQg10jsERBiYnVfowLr3joE5qhmZYhsVS0vzjVzsfIPYF53E7LUXUFvJPzX7qPXKhIItMR99MjdV7tzfAcyO-tZboG_qTnpZtszgOqLsHyynt3lMgGZWJiLett4_6XaiUfwT01fY6tUUAcneq-7h0A1RVLD6uXyIU-wS9jhbSz7OyvUiTEIWOn3Km1oc-nJItAk1XhrnMs5FYkbHA56KpoyNEpwdAzTUGPMiAUDzdciBy4LrRM9IAEADTTqlGcKsE_TgSg6tGGAYUsjVTDc7RQhy94B0augU9EHgqxI4fwZFUfbEhaKWAJwUmHHfBswq-1WGLSIUSu6tPlC-ULDDQuWxgugZzYWG-qalbv5HiHDd8cN1iw7FezIF7XDLI0iBW2qegNGlPFI-yxfIwU5lMBIz-Bwa8qGf47HdqTTFR9dceMn4-AnycOz5yjdovQMKLmk0-aEdRhfvDmEOPs0-u1KyzMQQklQm5bh20m713fCFV6Q4BDvb4K-lILQ4S82Dxp8aYxFtjvPajSeu9lfbox1sYUe40s7dPAg0ChOHUYdxNycLf8yZGLGX4BFiGpHhT_l8CBn3oPbA",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616248983,
+  "description": "My session Thursday, March 18, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6053602efd570f31d0a37c5e"
+  },
+  "sessionId": "33568410-87f4-11eb-b018-cf48a8b4f863",
+  "authId": "fernandes.gomes@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.106",
+  "lastLoginDate": 1616076847,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJmZXJuYW5kZXMuZ29tZXNAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNNzU1MTg4Iiwic2Vzc2lvbklkIjoiMzM1Njg0MTAtODdmNC0xMWViLWIwMTgtY2Y0OGE4YjRmODYzIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNjA3Njg0NywidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNjA3Njg0NywiaWF0IjoxNjE2MDc2ODQ2fQ.t_BlMVVza6rPXuwFkt7ufPulxZYT9UYE6y13RqkCuHAFfAXvMSB5lomD-OP56PQ0aNnMlH8kZ05Blt13KdPRowyet1mmjkYWZr6lE5KbGHzgSvpAqgOtkIu8xKbjGOyOZiFf_mK-gKElfRJ7F_ybZHBOeDRbGprNgO45B6HihWQ3hbaeHdYV52hBAPVBOJcJoMzMzKDxhRiFG7Ktnd2EA9uTQgiPEXaIoXysxr66uX9rTABYVmjdqYutGI0QWrkg__j1by_9AEnlqwNULxJRi1HoR3mV7G1CJlX-8ebuq_kMov6pE5NRJwe8dLnmJOgVCEAusAIU1dnAseOZuJHa658pX-vG9ZOqK64XThWiDAQt14r29yCXNxHjkKnWOIq_TzU_0dCtGnSw50283j4uKgUes3MWjlpzPu9858izEgEnqF0Er2c25fro5MZzTXKlELqoJtAJEEpdXsIwne6gpxSQ8I0vC8nSm2u2mHzi6LEzroLZywri-SEqfvw3OnuyPbaFw0o4Nhqci5F68NxXiI8SKMEAVgAcjrqkizcxdRgeCMjvnttCfcxSfH5rKvwYs6fTtY-rhiODPxTJUNGcwXczs6Mn0vQI4rVgc8mKoQcMAILPZg_N6jB65OgSnf63LGC9g9MkoBHaxhcsFCBv17DDbT1E8HVQVGRHl7xvv8o",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616249657,
+  "description": "My session Thursday, March 18, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6053614efd570f31d0a37c60"
+  },
+  "sessionId": "dedd7f00-87f4-11eb-b018-cf48a8b4f863",
+  "authId": "anjos.almeida@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.192",
+  "lastLoginDate": 1616077135,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJhbmpvcy5hbG1laWRhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MjAyMDIiLCJzZXNzaW9uSWQiOiJkZWRkN2YwMC04N2Y0LTExZWItYjAxOC1jZjQ4YThiNGY4NjMiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE2MDc3MTM1LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE2MDc3MTM1LCJpYXQiOjE2MTYwNzcxMzR9.QWjMAxs5Vyisd2Uk0QDqDAdNKf0aj4s32AthqfUnxyZX0V87q8yXsu76GCgsIIMW_np7S7qZ-pU1kecTMTyflUfHiw0lV3FQMyqKi74up0EoyE01PV9GhXu2fuhoY13f-dC9pZgixHArvuMJ-DIrxfQ6LCKmiHB8KykZRiRvU4WmKoJDs9KXEvtVsUG260GTRugrFoCbN-xs_dj94EICrpb8uOd7RNrIutRCvZouLz6lZQMtt4o0o7YVaZQDtw9ZtLDS1RFp4C9ueVnut4ZjZML8tArxygOcuVvTCvW0UfVGsbQLmtNtoMgOa99Rv3SvfVZ3oIjGNaHm17k-WlhThtp2JSPqgxPb914XtC2npGE5VHF9b9bx02mSg5cq4l6DJOXP-t6VqpxRwZaDSyLHxF59y3WHjIu8IQ4LECnHWuhUrKDqrlV-rjRg2WY5rGpYxe8_p2nqVvi9G6NcMwRcM598aLq8bIwn5qY-d_ZKJqzzvGksrG1qPsE6fx3lLkZqglDI8PTU8agmScRJvS4AsZ7jPIHoWtn3zRwt7aTeYEbOrJxjrNBQlduvnoZ8ot1cQekRhAro0AzzPswWw157YTBmb1ZyJ-yytJfBHSg2IyL1W9qDUFhI2ZSgAHNbNOYf7QgU8kchCqk308p0uTaqansbH-FeARzC_1qwXDv6OrI",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616250052,
+  "description": "My session Thursday, March 18, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6053ed73fd570f31d0a37c61"
+  },
+  "sessionId": "66e77600-8848-11eb-b018-cf48a8b4f863",
+  "authId": "moreira.sousa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.14",
+  "lastLoginDate": 1616113011,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLnNvdXNhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MzA0MDEiLCJzZXNzaW9uSWQiOiI2NmU3NzYwMC04ODQ4LTExZWItYjAxOC1jZjQ4YThiNGY4NjMiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE2MTEzMDExLCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE2MTEzMDExLCJpYXQiOjE2MTYxMTMwMTF9.j0GpN5EXS0IZGSuCg3bfONbKpa9EO-DUnD8DNIxjT3BT3pNX2LslWlCThXBUqebK0s45vFoO7oiuH_Y3gZp2WkxVqm60XW9gnFBuM8ybRJBXvxF_wKem_DVfG4PaxnofQaYbasEf9olDpJRF0kO6dB5TVzL6sJenLYlyuolYjUxJH8a-ajn3LeWypKyyrpjEuR-mb5L9BPxBMTO6JVfQf0lfMaSQ2wkCpvObUL2bGeIfaOaNorKsXFKraOjAy0bfkA4qymVBA2YU2qI7i1OU20DgLKOJ2b8ue1a_wM8q5NwCzX_PBv9_HX7EumwuXVqrZTBAXvNISOu5SGiGXAn4G4QwmOXcVp0o54fv4sA_u1v7wL1N7r137y4GXPO5SZ5VoJM5ppg3SP-ysURS0iW9N2aT6ywibxByofzUBCuVmlGMNnoTYaN7I3lTYOg6vYTn3FqHT4v6EzI2uegVL5NKchhFEM8d7wk_E66eRtfwM_lJrBWr4kgOiQ6BUI4-j2O42xAowVIFwWFZqIuREzW8BeKYmzJ1BX5J5xDpiR498O8g2AyxGcnBmf8MGKpSRGWDjfIBrPKau-6Scqo1FNTfsRMRefghzaJ57sp-16p3puQXeil5R7NNkbQhjEnu5fD91LZfuKPzFL8xs66GFOMGVrfiMVaKrkY02fMRkF8YaFc",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616429744,
+  "description": "My session Friday, March 19, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60548092fd570f31d0a37c62"
+  },
+  "sessionId": "17c89ba0-88a0-11eb-b018-cf48a8b4f863",
+  "authId": "alcobia.jose@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.182",
+  "lastLoginDate": 1616150674,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJhbGNvYmlhLmpvc2VAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNOTgxMDM5OCIsInNlc3Npb25JZCI6IjE3Yzg5YmEwLTg4YTAtMTFlYi1iMDE4LWNmNDhhOGI0Zjg2MyIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTYxNTA2NzQsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTYxNTA2NzQsImlhdCI6MTYxNjE1MDY3NH0.sgDzZIaf4zRvsGC_IdHzg512pWs8JZQjnehCd1Fzv_6DyZVqg4Lx-dWDJVfAC-4jf_XbecDNrchr-3GQvgjkc_dpjrKYASe470EMj0j_kbNHyXESvymQcXW9CtaswB0FKXdjXoeeGROVxEwZYBRQWF5iQUhzuqFa-r8VIrKq0GSoVgd18O-eJ71NWZ09WqireSrsBO75I4u8dBLUqNdnnzqlnZ4i3Ybg9N1TY_HwEgwm0tW1qFbDC3YX8v0LbQSh326dB-o39Nem515_sSbxcBE67BEAc-z-m8EvDafyQkL5ZGjRpl_yK8wZgLZT5IXiVQIovBoDEoh-zI6QESd2npAFmzDP5-UZ24q-K6T0ROq9u3OOZ8ebUQOl2HY1VBHdwERMqgLn1AwiPHJI7N_nBSup__v1oBBy5c09M7f02z4c8Cp8LqIzVXyitEUK7DuuEVHdBfik_nbDDsZNroAfYs8MQVL8YNZCF1yxl8-q0Jb95cIi7191suo5X87ITScm8EeiiUWcDExtSYIVMJWP_rONtZzgGOyF9LrLNpIhNG3aXbwey5r8sJvY_cQNFYIx7Js03mZ9MK_mzjULFrrQK91PDM57xms4W9hDsR2o5nZ3OGaCNCtS0x8YfO7zIvkM_qO-xb_GajlF_r7955mmgL3--WHPiyin7tMo4UyDRqs",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616323491,
+  "description": "My session Friday, March 19, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60576ebebf4bc8409472251c"
+  },
+  "sessionId": "3b7435d0-8a5f-11eb-87ef-3d6aded702c1",
+  "authId": "hugo.guerreiro.lopes@marinha.pt",
+  "lastLoginFrom": "::ffff:10.42.212.81",
+  "lastLoginDate": 1616342719,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJodWdvLmd1ZXJyZWlyby5sb3Blc0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05ODA3NDk5Iiwic2Vzc2lvbklkIjoiM2I3NDM1ZDAtOGE1Zi0xMWViLTg3ZWYtM2Q2YWRlZDcwMmMxIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNjM0MjcxOSwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNjM0MjcxOSwiaWF0IjoxNjE2MzQyNzE4fQ.HlB75_WoU8k6fr6MysE_5zkijhH8hzVwfPHsQFeekaOhUFzHJT6aO7XPLME5ok-d3PfOyDVQYauGmHmFvpb9vTC8Ih15FUfwjo06fP8_bCRuU6byinrW9TeDZmKTNg2q_XowQK6x5R0pR2t0HApsypUWvenzqLn2k7PQKVDBx4gg1-_ZpnOKl3fgLwgSUZJW0nUcUjbfHC8r4d8d-8p-ShY4LDjw7V_ve3b1Xlrsay7hlJje2mBBjCc8HDWq5beqTjPfYuI50M4qqjsR8kdbuZeSzpDjCse5hDW2kqjOE5MTW8Li5SrUUzAxEKI_HgEnbN6mIRnIF9fH-IEavWOUCYqKzvQiSSv46iokvO8P7CUlnMs7mMwSC7q7RXhsgl4mjAU8d_MwGbDwIbMk2Yoye_9rYzXSv_B7cKX2kX60lPmSROn4V1ctWLsScn_7OSCqmeqkOuPw0opow9zfqzEMTZkmIO-6NWt-J3X062xMx7XaCm7WzRmIBEVa7AGT_5gqTW8x8wChPgLn4cuRn1PguNSzmHRWnSPTCuh60mH7Y5IYfH3wzZC4iqvQhIUDfgoDYW-Wzai1fc0eYU059MOmRQIsTI4Y6cEaM27-3EOA7TiBEQb3EN8G0cX-AZKaDF7TMZG3gqNtxail9X5dYUpRISluIkqNze2rkCipRyv_9CQ",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616515546,
+  "description": "My session Sunday, March 21, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60577adfbf4bc8409472251d"
+  },
+  "sessionId": "761ef650-8a66-11eb-87ef-3d6aded702c1",
+  "authId": "fernando.pereira.silva@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.218.98",
+  "lastLoginDate": 1616345824,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJmZXJuYW5kby5wZXJlaXJhLnNpbHZhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MDU1OTciLCJzZXNzaW9uSWQiOiI3NjFlZjY1MC04YTY2LTExZWItODdlZi0zZDZhZGVkNzAyYzEiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE2MzQ1ODI0LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE2MzQ1ODI0LCJpYXQiOjE2MTYzNDU4MjN9.t5gJt9Ea8LZJArk_8EZSJoQgGHtHEsoEeeR4kMx2rjXtqjFN9xLQ9Yj_ks3GxEsMQ7oY_t4zpO8xnTaM5Fa2p5bKFUnL0hQh8-8pqxsncK1ODIdMdaAIgv0z8fpg0EFxxRWscNucGWxAc8IMIMI9oMEwYU2oQKsL5fK5TUy_-JW-RzwT0b5UgTBK6qx67IlbweZ2ruRKahRNqcauMmXcmWv6eQ-W-lRwkACMYnFCueUImJ2tBTu8CgNlBnIjVdvTK32djttjZdk5qEF1uRzrSnUqIdniAH6G7q3LIkDYgcchrBJD5krZKV8UkB6raxxMK9ccdudGfeJLaTo_PHWY9Q0MsyHIYGU9pKEtrMg1Sonppwg8FHHkvCWx-D5W5Q-VKiNy59hRC0CqS4LthD7l9UbqpW1ZI4V3HLWUziGgwnIKK9tu1UWGk-qH2dMuddR6Nb41JFe2PiOiuJycJkKQO0DYvPIXHtXWpHvIsFLKQjudx1sIPz84zTZ8C6iDMJTrdjU4tF8KJTf7ZXz7IPg1ADQ7MvYVClRAzuDq-TZKKkGuCsSkAFzMJOoqAjQ4gA5cqzfoKgZKRTeTha98apkPwouirWLBd2DW6jDpVb5HmxcrCWInUqwUUJy6LpFQO2IotxiFFQixq7yPyejHrZx-TPHKZce5XCjjEznKZkN05QM",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616518639,
+  "description": "My session Sunday, March 21, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60588103bf4bc8409472251f"
+  },
+  "sessionId": "b54203d0-8b02-11eb-87ef-3d6aded702c1",
+  "authId": "firmino.morgado@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.104",
+  "lastLoginDate": 1616412931,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJmaXJtaW5vLm1vcmdhZG9AbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNOTgyNzgwMCIsInNlc3Npb25JZCI6ImI1NDIwM2QwLThiMDItMTFlYi04N2VmLTNkNmFkZWQ3MDJjMSIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTY0MTI5MzEsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTY0MTI5MzEsImlhdCI6MTYxNjQxMjkzMX0.uIRNWCXe5zkrFU1VfljTLAFhYdYLOzxRDz3Lz-9Hm1t1OrJP15EiQEcAI0AZh-OXanBZVgIu9T8Qwfqj4lJNl-rEnBYZAn6xgpAClprEz-ZsEUdqcx1uEi9Ia3IiAmdTLW_ej9A9IUagdK0ojjYdM7biVmG-2JwDpgjz0FROj0bQQmAnOEGt-1gPLNAUMKsxwK3V4lRWAbaeoTCiyMCLqzmXgxpvUSm1S_NYZOyDdHn5cUg6xBKg_usHKJr8u6liAK8gjRnYUMXHOkFhfO-wWojci_H859aMzw5H18_LN_e2BMU5c0iZ-w2HrVsyW4Ljk4QPs7YC3J-3Fswdjx2To2tvliCnFD6v8bfJOiHv9o-dbbDhq_RKe7NaGrkmOL--ur3X547-PVH3-1dToeFRrjo6JdmskR7MFOUXLJ6dsbrE2RZLEtdbGxDQF6rKuV0Hb4t9mzc5ljzSiPdyMLcYdUQVlidif15EJTeoiByOlQ8IoVMm1cFZWlWkIJtcoPM8KrIKSkgQCEwgS8JFm_VA5yLskElMxilaE6vLtVi7rBhO2nBaH0ADZ6XOFL5T9jR1sltCE43URuW1O5GtESBV_ixEAx3YsApiAxoR_VUB_8qqxK2AMDZ09jvFQCLMf1q488MWm8fkEiC_zYPdGraKNUdHxuXKHkEeHzilZNFdFQo",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616585732,
+  "description": "My session Monday, March 22, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605881a4bf4bc84094722520"
+  },
+  "sessionId": "15a85c10-8b03-11eb-87ef-3d6aded702c1",
+  "authId": "torres.corte-real@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.179",
+  "lastLoginDate": 1616413093,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJ0b3JyZXMuY29ydGUtcmVhbEBtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik0yNDEwNyIsInNlc3Npb25JZCI6IjE1YTg1YzEwLThiMDMtMTFlYi04N2VmLTNkNmFkZWQ3MDJjMSIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTY0MTMwOTMsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTY0MTMwOTMsImlhdCI6MTYxNjQxMzA5Mn0.JMTgvpSs8vM8M104w_zky5t-pZ37a8VVtBZhDnNsWiWodRYYZ4egeXS_QBCbFaGxWfBc7nX3Cu0m377s9_daPAHj6b6fTWuRhIEWAjulQyV6W271MMGd4RkRrql7QCgPbm9R5JMk-CITHH6ISP024Xi1CwAC86OWDxcZSHCI29cPHmpDrPL0id-FQYdcQWUrRuGvQKKaIKsj_f1kiWT6QYzXW7Ya9mXD3ZOLiqxmtAd1XOsa_czTLqPyZeWiPONP7UC8FdXAy2-z1mrFSZOfGh3Oj8pw48SjduXegVPUi-TpkicC40xlZ4cRKj0dm4hNFGbCcDuhYABwD8DQVOWccBvQsSZiOoAjvkPbl0dzNrkID51C64yBdNx_n_ZStb8vhhEAQW-jk71VEZOTlg6KwEOptq16AE_zvsOUbb9_lmxUW5ENOdWY8UT6uSPfHNKbJSiMf23jiA3IXCXV6oTnrnZl1ES7yZ54xGf90SxzztGcySfz_NGRxFtQUUY197VZuetNFuZdCkOLrt19H0SQ5lRgIQB1JSWshLSyMOvbdn2u7fOmX5suFF7XBT0LisQa_z1bOgEl6q-e4919_A_JFnxAp0mdqbhyUh46yfK2th0oiyXb4ZCCLuLimo7PGZrKMTE3bRRp8KRkOrenylzEv2QKRNuM10ccnkCiveaDgiU",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616585893,
+  "description": "My session Monday, March 22, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60588214bf4bc84094722521"
+  },
+  "sessionId": "57ff8b60-8b03-11eb-87ef-3d6aded702c1",
+  "authId": "paixao.martins@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.104",
+  "lastLoginDate": 1616413204,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJwYWl4YW8ubWFydGluc0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05ODA4MDk5Iiwic2Vzc2lvbklkIjoiNTdmZjhiNjAtOGIwMy0xMWViLTg3ZWYtM2Q2YWRlZDcwMmMxIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNjQxMzIwNCwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNjQxMzIwNCwiaWF0IjoxNjE2NDEzMjA0fQ.nWBpXzVKqPYYsv-HG0NqQNuds-Ok-JILc7FumDmne1-vTmE9b7FQRhJDuKA1Y5mR7c6hmZR3q93caqIo3kUryQuxJu5iPX41XlCJloEQ6Y_gPOJ7GqkXy8IqDwNIDFKVZJAz0nmgGHNQMOG8P9429DOv0LcJ7dBPjG4PcNBKogPqz5YPNVguz2wzMPjMBqF0lHDCd-pC0M98FIJqmHdrl-ib8BDi8avqyJy3J5WIJ-xbs31xF9t_VY2bnq9UDpMB02v1DWpz0uS8z4pSDJwkjctxtp9Fk3KC2zewRzYecfzbBJPDF_6jWP3nV7z8pW4E8VHUUHfJVNivTuWY0wE3j62fBJOQ2EtbTnoQbFa4ntMH4sTBUn-O4-2IeYBYGEQ0VuskXFdwTk4-cXDjALjUc77PLaeZ4U5dkvS9ZyUa2-M0rBxiuHun6uA51pq3KHCH99ZaavduMna5wrF5s9BS21iYY5R9jfPdWODpP_XbH8qpAdbrwZTSycn9qGLWksX-hKoxJB1-67ywflx9ETYVan8YpebhuGYuZTu7GbUrOE1-wir1sN872UgK3qYIVs2o8zVf_6wiVC2SYFpl5iNOmuj8eBK65CkHeI5gPQScHt8IZmozEKYbuqXc6sbZjY6lt-RrohMjHcfsJ0yXUG2UFewHf-nIe8hcChlWsKACUxg",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616586170,
+  "description": "My session Monday, March 22, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60589ceebf4bc84094722527"
+  },
+  "sessionId": "59564e80-8b13-11eb-87ef-3d6aded702c1",
+  "authId": "Sousa.Cardoso@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.181",
+  "lastLoginDate": 1616420078,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJTb3VzYS5DYXJkb3NvQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTUzMDU5NCIsInNlc3Npb25JZCI6IjU5NTY0ZTgwLThiMTMtMTFlYi04N2VmLTNkNmFkZWQ3MDJjMSIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTY0MjAwNzgsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTY0MjAwNzgsImlhdCI6MTYxNjQyMDA3OH0.W78CZ7WCOPn9X855ZkOITvVzr9G3m3Eckyb5PJ0xFScxMEYnAW0MCQkfzKn-0Hzs7Gx2nds6o51np-o2GDyvVMQBe8RVGkLDOVykO0h2v1hqEfS8mXUgC0zhSPiuhFiDkraysFmatGqQk74aZjGUpClbLC9BY3Lu8FlxJywmpq4gGbdmRzilKRvY3ImM2ALpt_o6NpI71DPv9c6rPK_06RGtBj3HNH7y2mfMoP3emwgmu7vHHEZ-G60p65SODcMmhDA9MD712za-7_7ZeJRH7y_UODF8PpFcazfYdZnx9uRrPs4jgmjOTCQ3xdv4etJwA7xFGspkBjsTxfw3Qjw3BSN3PYUpFKAa5QypgmsjDtNunDDo3cnaXF38_g08oTYt0eRn37Fp0ECyhVhhasvG4I14Kx0c2NwqOir_jrpwSxatMDUrLDzY2piHbcA78ATtmMpgFe54_1Sl1CjC4W1FpesAXEi8iofBVl9MY_gSO2lBykQ0V0QiYxahQ28_NMVrCTlKt5m5ldgwVMGPp_xD3oRq-N4Od9HZMDgAsinNBt6UkJ1ATNUrJO27_rdM22elVmrfojvolst7nYQsXv5nPl7TU4cf6heaF0cSzZ5fdZS16WJLkq9s_AxFetybygIrkXa3qYsH-7UyPPDWYFLtxzDuONpAj1Uqr-EAuftHRqc",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616593219,
+  "description": "My session Monday, March 22, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6058a4d1bf4bc84094722528"
+  },
+  "sessionId": "0cf8ccc0-8b18-11eb-87ef-3d6aded702c1",
+  "authId": "amorim.dias@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.193",
+  "lastLoginDate": 1616422098,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJhbW9yaW0uZGlhc0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05ODEwMDA0Iiwic2Vzc2lvbklkIjoiMGNmOGNjYzAtOGIxOC0xMWViLTg3ZWYtM2Q2YWRlZDcwMmMxIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNjQyMjA5OCwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNjQyMjA5OCwiaWF0IjoxNjE2NDIyMDk3fQ.DqKF9yXayq5JBH5Z9HKjt4W-b2MWXxHLlHoluAJPX4_sX0Xz6Vy8WW1aQZ538XYLtsYe6PVU3wqFAq3AT0_AG-2n82FyccFoh8X-K20zb_n0NR0eri1kAwSn2cn4Z0j7nx1tg3ivcFzOfUp86hsQyXPdUznzbe3Jp4EeiedoX8JeucaYE-WjtyJ-ojCbLIIBnYLcrx0RuyzpnS3yCzrn7xDSnc5XwXmiH_hD22Mjm9Fz-KUCyNOIaE8rbca4-2_yno6CuXZ0oQeEwCqCBWmyXRbQtZXzZK2ao7Xr8Tc6X1EVEpkvcYrHPN4Qmx4TGr27tPwhBRNID7hLd3FQNbjgTRa89-gdKEkMwaRGU3Al13uzmwYCyHyFig-_SpYFWubtm3T75jdqyBtPcrCqQ1tuW1xHif8B3Q0ZjJMz6mMEjkMvcywLuWOWgSresBwCrU3BTIggilIQ64WvjtoI-KWCnUN30uEd-3nC3NR9oF_-8TGxDZDaofpWpGgyZRBHvSFTgzXRNYTlPn7i5olR5lkgu2j5IBa-1W_ZHLdcVqdHnxXB982X5qHsc6i91ElpfzEzhRFy12vT7JZ7VsRd-fFL-JBLt3w6t0d1stTWEZYRRryH4xLuhD68lpB21iIGr-wcC7_OjOXXooTaUGSUF_Oapmnar1ES3okit1HIsSDLMvo",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616595909,
+  "description": "My session Monday, March 22, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6058bc35bf4bc84094722539"
+  },
+  "sessionId": "fe33a3a0-8b25-11eb-87ef-3d6aded702c1",
+  "authId": "paixao.martins@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.104",
+  "lastLoginDate": 1616428086,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJwYWl4YW8ubWFydGluc0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05ODA4MDk5Iiwic2Vzc2lvbklkIjoiZmUzM2EzYTAtOGIyNS0xMWViLTg3ZWYtM2Q2YWRlZDcwMmMxIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNjQyODA4NiwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNjQyODA4NiwiaWF0IjoxNjE2NDI4MDg1fQ.KZqDTblu5f-EPdsJVOToeCI1yQiDFPkQwYhIsHukjsY_IfV43nXRGbk0Xzdzk3zrm4b1kw1JgnXYlZzzT4RaNIZSADSI_67r4JbK-Ys_fyMZCNpJ5kQyYNr9abYOaNmAtrDq2VyXTS_tS96AX2Zz7iBJf-q28eDaLEfbfm0aK5xSHFZTo5QOqhTAQALCT6BTbWGEKgNRitql6zbaU6t8BV8dovDRRIe49_PpTbz65IuFW-rReNrGul6IqZQfh4PbsY44bkw5pGXQrkX-1G1cnBvtF8AvXvgafSZQKM4nGkmX9CyyYOEYRTb4Tcd3yAN8-Am2mz3hda9_OPstwiHWID3DpXy6iZgk6JpH0v_foXZfR-l4RAnNIOI-hanr97FGpQHpnyLVHqklavzs756AD7P15diYmlF2s0acpt5drrq0cIERb5909yyxi_GEfZwo02nPJ3SknA70__yyplFV1aCHAOf9zSgCTjnZ2_mMUO1G4icVMYX1YggznWrTIOKs_UQHKWI-V_c7Ox1Kk7-bJoqJ0z6JVN_VZAGYPTKHf2H5Uh7hDsf6EWaoVLGp8q5IvDed_P3TM_YeLxziu2L_unYo66AZShwIaiSgsxrr-Fv62Kb_G0Z9iFW0iC7grE75wXER37saR3vYFwKk1UU7Yt1o9WlEcGjl_dnwXo-xZ0Q",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616600903,
+  "description": "My session Monday, March 22, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059bb5abf4bc8409472253c"
+  },
+  "sessionId": "120a3cc0-8bbe-11eb-87ef-3d6aded702c1",
+  "authId": "amaral.barradas@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.57",
+  "lastLoginDate": 1616493403,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJhbWFyYWwuYmFycmFkYXNAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNOTgyNTYwMSIsInNlc3Npb25JZCI6IjEyMGEzY2MwLThiYmUtMTFlYi04N2VmLTNkNmFkZWQ3MDJjMSIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTY0OTM0MDMsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTY0OTM0MDMsImlhdCI6MTYxNjQ5MzQwMn0.sewP-GVR4H51kodtmcCGpbys_M8os7-b1xzce0q_Joi9WfPuX5y6sEXzihs6AeTWf4x0PMgO8SC4CbdmgvAqHgd4TKy7_f_Tp-FaveJk5YIiKVOKG0Ah8rxFwk7fVgqcy37En9jyWBbG5IcPv-wiKS0kvsVctDfZjqkp99KrY0LiG6tGkmWI7Hl0MWxTE9Q0YZImoDt6PDjMTbkoOz0h5tlPIxfq-gSo_tRpbinGQqhs6d87Au262pv6TYduSaY7V3yc7-COx9WCGDfpAfYYiysZrUXrJdB2ifnZEgOPeeFYD4-ez083AD0Bb-hZSNR76wemeB_meG1IH01dKGunc71X0eUF0WtwioXjukdeu7I2VlT1J6TAfFuteXq8SIjsr28ez5DGrc0NgD9Y2IPPoRJZ7rPbNlJoIQFmfU41EH5lbZBjUclBFFH08Lol9SLcUWZOZoYIoXUVDqw79sWOg7RbvLZbtJochXKTB2gufumxSBcuGZ7fPhDqcNYl754iF0DAns9VmKc0ZbIegTb8CMRtoWqy93ZTXaAV8X0OLUnfySQPnG2rKvyMMtwNSEV2RtLEoA_Uc6KC08GOVjISBvMlkRcHrwQHhWRc2xK8036fDcZa-Jku5yvjV6CikiVa-Ed9iufsPDWEP-L7NgFFyltN8C9xFr4jUI8m4Gbq8w8",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616670156,
+  "description": "My session Tuesday, March 23, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059bcb1bf4bc8409472253d"
+  },
+  "sessionId": "de6af250-8bbe-11eb-87ef-3d6aded702c1",
+  "authId": "paixao.martins@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.104",
+  "lastLoginDate": 1616493746,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJwYWl4YW8ubWFydGluc0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05ODA4MDk5Iiwic2Vzc2lvbklkIjoiZGU2YWYyNTAtOGJiZS0xMWViLTg3ZWYtM2Q2YWRlZDcwMmMxIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNjQ5Mzc0NiwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNjQ5Mzc0NiwiaWF0IjoxNjE2NDkzNzQ1fQ.FpF2sdZ-tR-3H14NEDz7yjOUez_qBahm8corDZmUpC7sbTNGWlLdjnrEboJmk19SXABCafmS2X8x9Zc04OdZh5ce95rLTcyRFKyrDS9Y4Meb_AnEP2a6zU3AaIxnDsaoOqoS5DD1M5u7xorBLk0J4HdD7VlnfSqIRBBEuGC1p65jM7XLYoaXzcSqihEPA4CKYbYcpTjsEkyEzRvxy5cV0Ut5zU4B8_0tz8S_P0K_bAiDRzPk7oJ3J0kZvkNFIQXicqshf4aZJjvd4VvXXydtjMl_FDLAz_btLxBKcV9sDnDdqCXE-1DwcqCUAunwCYR-CC3l8VSXG0CwGHkNqKlWTeiVumK0gQTmezeDtVqrunW8T-f_NQAUO_WefwSgj6WsBo7ctA-2QzxtKySUORdOyK4L6yRxl0dAQ-oyl0uamYHyJx5HtDOg7oPbLyCkxvH8ySP02Y2N8XabwV7PRe4aHUyIjMvUb86V3q7bE920YTEZK_mKk8yMnUFNW37L58Oj3M4r31wXp0n2Q4h5EssFBJVpyLIge-Axi2CA7UR4O3CE6OmtRRWGGj_ZeqD9idhF-2rzeJXGTEM4olPTejJdNM9h9vWTvW7asDG2tI8XWyrDNRCgU-SRPDIxd1cpF3tQRwF3LqV9Mhr_le2KoRLrK1STLXgGuq1JjbIKLOV7W2s",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616667739,
+  "description": "My session Tuesday, March 23, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059bfc2bf4bc84094722557"
+  },
+  "sessionId": "b2323a70-8bc0-11eb-87ef-3d6aded702c1",
+  "authId": "Santos.Rufino@MARINHA.PT",
+  "lastLoginFrom": "::ffff:10.45.212.193",
+  "lastLoginDate": 1616494530,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJTYW50b3MuUnVmaW5vQE1BUklOSEEuUFQiLCJleHRlcm5hbElkIjoiTTk2MDEzMTgiLCJzZXNzaW9uSWQiOiJiMjMyM2E3MC04YmMwLTExZWItODdlZi0zZDZhZGVkNzAyYzEiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE2NDk0NTMwLCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE2NDk0NTMwLCJpYXQiOjE2MTY0OTQ1MzB9.OAgrW0Bo-6LBcnOYmC00lq0cYVUN_2_aF7OuO3GS5-whyv5LN6HCrO2tWw_kn4SCcXsaZxEqTLFhzpuLily9DsN49OSn1VYKX1nDedIQBDLWbsC9Xoh_VWn1ROfHMwmbq5yS_dfxQisx_04OPBW1KbvlzcVy7PmVZOKbCswEuDiqjL7Uic46jRjed_qmYqb2N17SaCfgmCttMubm6RSW-obzLCYAKEH1cORIpPPY4JV0PAIYP6AAkJx5QPQIEM7mmSR8dKgsaKeuKEeMR-jSaTu_QoSDEgeXxHDjxA4H5PfJJyQMGta3Je_syORYe6Bva2gEk1VF55ZOIWsQo7mOlw-itpVKo2VD1VTM4WhyxKSYyktC5pdsBi780LV7L1mN0aRqVxVAfYDr5uScsxCUssLTfeSxHfKhheHH8Xpn65LYF7Vo7vA446Xktajm13n-K5Kmvqn_RbMRxoa4OPFB_NcnkVxFygrWVTx46SYIPT5FG3hJLa5LU6y9E32qMfT-0v5uSrgWV-sBkhs6zbofnYN0yxP9AAGgZEURcTnRlorkja7iaP5PMxbuVMnB5XEXW_eNH5QpunF2mGR_anHIF6gLt2m5NEdvbXAD9anV3wNAxcVLBQfQA-GO5AP1k1qqG0ahYmN5y08khpJIXbkyQTHMJN4BOXki0Bi_O2IIbmc",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616667336,
+  "description": "My session Tuesday, March 23, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c8b8bf4bc8409472256b"
+  },
+  "sessionId": "09c2d100-8bc6-11eb-87ef-3d6aded702c1",
+  "authId": "cardoso.cruz@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.156",
+  "lastLoginDate": 1616496825,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJjYXJkb3NvLmNydXpAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNOTgwOTUwMiIsInNlc3Npb25JZCI6IjA5YzJkMTAwLThiYzYtMTFlYi04N2VmLTNkNmFkZWQ3MDJjMSIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTY0OTY4MjUsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTY0OTY4MjUsImlhdCI6MTYxNjQ5NjgyNH0.aIM6qyYlRt45g4hxitwgMjiGtxa9MHcrEsJaSCovCBAyeuNF1l9PyCYu8vrlsn_YS_eQ_LFJZ89PaPGwKupxR6p0V4T0DohM_3KE7AIlzO1DDOdrC99n9PUUoCE-VxX2yrNSafYuB5HVPdjTOXo0XD_NKvinBaweQAuCqpvMKmE_5yjlFjUJLrcb2IYlDuzmQmB6zkWXpdAbihhguEPI29NoQQ3xd3oA9BVIg4V15g8vgFHwRN6DAJXefOSvNrsYRtzprf2LBGXjLdmXem3FBrzedxKi5rnOSW_Ii3yjA-RYCHRJmJXYwUVHsBqEGNUEO11LVw-3kRqlv2Ru2ts3Pvc4VTm6ir3Age2jxT4oYnWBwo475yjbTVVPQc4tQwn76i4_AqRtmHZeeWnD7aCI7XJ_jiC4xQQks1eUlHDgW1QprW2JJv2E_xE2aVWJq9CjFCK9ipXcGbRr29D2Tbds31kPmg2tbyasLR_4bQMrwteiHr6GNP9239wOrkXq7oKn5eYvDDnsXf7bIQia2Bp7rhjD1jShJnvp2oywHxaSvpEim9HKGHXN1hKqZb9lJSQpvpkubeXO5WCfYDZWw7SD5FVIgFQJKctpumv2hGRa91sKpFasFpHFmJlkeOltzX9vn3TBu7Cuhme2LG_KTUEOyfficegE8azgBdXRcJsW7ss",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616669659,
+  "description": "My session Tuesday, March 23, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605a18eebf4bc8409472256c"
+  },
+  "sessionId": "d8923140-8bf5-11eb-87ef-3d6aded702c1",
+  "authId": "viriato.silva.rocha@marinha.pt",
+  "lastLoginFrom": "::ffff:10.42.212.83",
+  "lastLoginDate": 1616517358,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJ2aXJpYXRvLnNpbHZhLnJvY2hhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MjY4MDEiLCJzZXNzaW9uSWQiOiJkODkyMzE0MC04YmY1LTExZWItODdlZi0zZDZhZGVkNzAyYzEiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE2NTE3MzU4LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE2NTE3MzU4LCJpYXQiOjE2MTY1MTczNTh9.XT1-RxtjXNTTv1_i5KiUiJUc0Ytl6L0dDxFYNi8wkKSQ7GxQBf1rYDVpo26ols0INEx7bD8TYB2ELpgY1BnF51HcmeSa07rBSNe7FqfNRz_bVWUugrz2PIn00szIKN7SFoMkmlwQ3AloI97C5fMyKampaXNaxnUOeC0UwbphFBUYKScjEeC67HUS9TTnzw_765l1AK27Gh8EkHI0pkOzbyWtTEU2S-wT3JDXkr6w7TPqUPfU0pB1pakAthVnkD9ocqYexDskoDhvpfbbfsQWxKIBm1YoBDryaqfePzzaD6ZRgo2Gqv9_VySh6sQApUJEXtZQd2b3PoRf0i2TmKoQZ9DEEXUs8eYBIaz0t-ttPpQPCaSKil9jKj5mu9_iNeF4klgshzUe-bzvLGlMzCSQIfcatJaHjjXCMCbXZ48Z02S2DiWhG8WXEpgF9cpwBMo9EkWtqoRFfo2x_pKJ2JR9UfIppxaRDdkmadYm6HBDv5IGxkkoBL-nxQleJqQSlSLidOCb0lktz6_VpJXJipU9hPHab-BSt9mW3ltZt5ZgLY87cPOskTr-5SK7h5Pa-Qom5z9itVyYIKXABkC3Y86nukFMPyfsk-8piX7Tg421tvxxnf4BujVz3hC37ZfOGtkb6JMwY297nk285tS_Uqoe2f-k7MsbjnVBlrPzg9P0CQY",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616690476,
+  "description": "My session Tuesday, March 23, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605a1a46bf4bc8409472256d"
+  },
+  "sessionId": "a60b34a0-8bf6-11eb-87ef-3d6aded702c1",
+  "authId": "viriato.silva.rocha@marinha.pt",
+  "lastLoginFrom": "::ffff:10.42.212.83",
+  "lastLoginDate": 1616517703,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJ2aXJpYXRvLnNpbHZhLnJvY2hhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MjY4MDEiLCJzZXNzaW9uSWQiOiJhNjBiMzRhMC04YmY2LTExZWItODdlZi0zZDZhZGVkNzAyYzEiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE2NTE3NzAzLCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE2NTE3NzAzLCJpYXQiOjE2MTY1MTc3MDJ9.k1OUkz40Mkmn0lNcNsaQJGftPryytNokOvUlxRBA4zet0aoT-fDUoEcdd8cn9jATiC0rToXpoSkNyKbsQuiPZtqwK1Q7HqLvc0654AP_e3vxAExavE1BqZcYuG9XKWc0edt_OLSJGef3Zqc3IDsun4epsL1XEmRgW2en5CJ39-TR-4tYF62hjQ2tsv7D5j9cw3tYmdqS9ND80wENHx73msybcgsVOOKKdsI_xIqCOlYndcb9inCpgL3G3JDhHtEWhdV_OgTMAksWPFZe5uBQVfh3H_klgm4LY4bNLWgltqSU1meldrLtXJaQcqC2N0H9NbAHU74O7d8Jf2-iYL2Q9tt9O_K4Rn9adZofPfTxrggvBcYJmAlfdpJVzqhyvIQ44cAx_jqT09uBZVlE8Z5Xd_lHnymXocj0V1G0pBHUrCe6wfV-JkIuaUFf9gImIiH4nl3lYImqv7shyeLwthFVpp3t_97J0GNxmJqtGggOWQLYjxFSXojNF6DKhzj89O0aw-NsPoFf8_eglQotTYG0WtznA4dKrvwO7Qkw6fS9TzaAS9Xcq3YMthqKR4XDZSl5wEpVQ9wfJ0xeyzVj8RcnCeF1lxJnEEK_NRZu3iKlFOxxRVBzXidVW-W-nJy5o5dC4JLt7dw5yt5J-rbbYxoQbqADjewFcVw863kt6JKQ4nc",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616690643,
+  "description": "My session Tuesday, March 23, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605b06e7bf4bc8409472256e"
+  },
+  "sessionId": "b0b553d0-8c83-11eb-87ef-3d6aded702c1",
+  "authId": "cardoso.cruz@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.172",
+  "lastLoginDate": 1616578280,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJjYXJkb3NvLmNydXpAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNOTgwOTUwMiIsInNlc3Npb25JZCI6ImIwYjU1M2QwLThjODMtMTFlYi04N2VmLTNkNmFkZWQ3MDJjMSIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTY1NzgyODAsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTY1NzgyODAsImlhdCI6MTYxNjU3ODI3OX0.AWo8T5zEjHHgqAUKc9N6ameejLYNG0LptOkuMFjBaCXtWdfHNyDXy76Nn4mbjh4AhaYn1CbwUms_I-_r-wbFryNjT4cybPpWhU0yD2rk5CcX3-Qn2W70utw1g4O94XWO8z7Vtat3UTZ6JYkjwKxh8m4axJP2WNY0U9PVe8oApeJmEA3kTCZNykmBHaKOl6Bg-kevYkFfegvqVF_fiEK0245MhA_uyJb8A2A4ulmGpqCjB5SlxsaYIgpW_03m8FKBfLf-58sNKGvRvFYB3ctv8QOYQUxc01HO7FSZWW5l1VP6Jq0kVLdPnxNdI7elc-kfw4sFogZR-Sg3dE4oCynFM65hyiXyJb81xlLeOhovDVBeVZ_85l_jlg29VROQ2f-hMgNazIGjIIwXBOrTremStZfGicikCz0hweoBgvgC6CMTUOnyux5ul53YJVbL6I-FQCLUG-aXVW1VTWXWNhQ795iZnmv56uxv6BgWAajj-WTkJkunFMg24yMZTaoTvxDK2FbjL5xcqR7OARHPcjXQq9O3LuBHsHSiYJr9C1WqSaGtgee48fPVyTaIjGSoNuoWAZtjBjMK55jhUH5tRrZBctnEIfTskvJOvH6qIZpfU2aT8h9zrrMl_et1VjpYOrM_1iLuD9hAoYejfIEnOQgYGzJSCbIohzzvl_Mw6f8mitA",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616751182,
+  "description": "My session Wednesday, March 24, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605b0c99bf4bc84094722573"
+  },
+  "sessionId": "15ad88e0-8c87-11eb-87ef-3d6aded702c1",
+  "authId": "fernandes.vaqueiro@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.29",
+  "lastLoginDate": 1616579738,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJmZXJuYW5kZXMudmFxdWVpcm9AbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNMjE1OTIiLCJzZXNzaW9uSWQiOiIxNWFkODhlMC04Yzg3LTExZWItODdlZi0zZDZhZGVkNzAyYzEiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE2NTc5NzM4LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE2NTc5NzM4LCJpYXQiOjE2MTY1Nzk3Mzd9.WNkq3u5iVhQOb9Q6KqsoQ48bwwqU35y0BJp4Rm8IAUN0GhwrRSZSde6d-Jj7a8m5h025UkyV0FZ4b2peS24EdfvYqySDQfgVELkChsQQZE77BbNeh8hyvG4PB1J2i6HOsvEnQ_wOR2hxJJ-L5qCCf4arYq1mcqRa0UVUEwuQ8ZRbE_DLvHwpuwvKNubndTGa1bGosBmryHFTNdjOs0cRe0W8vUYNrkmzSh__c79q4xs08HoGk5XVAzRtYbb98450zFBqMpdZ7Vsb0ozlpE2HtNB9Iv4RE-5xG1YL1WQbkKgi5-EYTpHt6JDlP8RIEnQxkUiltO6m-4EADxK9RpHW49AkaN5LB3Ncouc6DQFy5A94EPEB5xjzGTs0OpDjS7vZD25aHKVigQ6kiDSPsEKlbOAJ3hZ9QU9Qb82v683tKwzkMxnnyAyyXJzwFT_TCpyMwOSwTZK1eA8cYMiUMhEw1cC2kXIeGnzTTqxK-pbyILaOqDFEhoq752KLAHFMddFrrqLrEaOlOBqziu0kYZZn7YphuEjCyOtcZXujg1hFkvTWD0P_0U7h9vKWZiYdf3maGRuI40VZbisnjG1ZyQHkl18hnB7u7-iGqV9Il2XpUSVV5OGOBJ0rwLMKgfLtEays3TZNHuvz0c70PTjm337tVPt6tWA5-LPcDy71DW2-ozg",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616752567,
+  "description": "My session Wednesday, March 24, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605b3dc7bf4bc84094722574"
+  },
+  "sessionId": "65a3a240-8ca4-11eb-87ef-3d6aded702c1",
+  "authId": "Pereira.Cerdeira@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.181",
+  "lastLoginDate": 1616592327,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJQZXJlaXJhLkNlcmRlaXJhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTkzMjE3MDMiLCJzZXNzaW9uSWQiOiI2NWEzYTI0MC04Y2E0LTExZWItODdlZi0zZDZhZGVkNzAyYzEiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE2NTkyMzI3LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE2NTkyMzI3LCJpYXQiOjE2MTY1OTIzMjd9.QXPDdeKCP6D63aY24DaoXxCdLF-6GgLehM40KioPtqDAD6d-s9SPNgDElJwRnWXe73yVXk-u5s9snvgc2fXqTIg_IZb9qFvIBEClaIAlXkGMBn4dl6bpd0pQJiA7W6Gv5-7HCysUMSc1wp8TYWaPUKeecTNygURE_zGj0eZu9rVTmZ3M37UWTjRaNrdeTTU5PZ8C7RKmkEKiWRr9Iv9hU-dfbYnUVQlEPI1awwWirY1pvcRG1IWlTo-tp1CLijV9uChTMnfBidLVEI2um8hESZMMEROPQTl-K7HHaADnCuFQXm4iGC6q3fvXpCiU3HlIODwCjDetB1phxp1OA3x_L-not4BPxFu0H5nToPefZvaBbtKT6dX7A_NX0ztFYBy2oswm9P_Ka9wqNLIrblt4isqvpIRgtp8sGBbdY6fPgPXCN79SHte3NtXBoywwB9-B4kcI-mgzK9aDY_rOt0sAZtMMi__eatrOjvoY7aq2eF35hKR2_AzX_MsnC4m5gVBZ9WcRdbrY-127cwnUyceh_kg_H8-on6Ey8Dr67-PbPcQOfxBAvzGk7sczgqUpII2fbnEzjXciX0_D5nxL-JnOBOgnj7MrAPaV8MIL0CRoQXPYl_oZyvPsQ-sw0QqYyljumVdFzvv_GeXMpso5-B54Gx9QfE98RSuGgPkJX5_Q0F0",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616765259,
+  "description": "My session Wednesday, March 24, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605baeaebf4bc84094722575"
+  },
+  "sessionId": "b191aba0-8ce7-11eb-87ef-3d6aded702c1",
+  "authId": "moreira.sousa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.12",
+  "lastLoginDate": 1616621231,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLnNvdXNhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MzA0MDEiLCJzZXNzaW9uSWQiOiJiMTkxYWJhMC04Y2U3LTExZWItODdlZi0zZDZhZGVkNzAyYzEiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE2NjIxMjMxLCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE2NjIxMjMxLCJpYXQiOjE2MTY2MjEyMzB9.rugS12TLNiFZtex0xCl-BFKbjmLsJKHuUTt2Qp_re_9jJ8hoB4RjoaP9nm9gqhyEUwws5bqposCzO9qTXORBmjXIZF_uytzkkPrtvAFGWOnKWaJSZRWEPpgJDGy70UBkluF-YKQhH0_5e5na14PdhF4C6WUErfl-s3ikfXqcCFZuIQXEuhEwsTqxWg97QClcFG3VWbyAyOQ-hKjXUwLcLn5J1-3pPVhsY3-DhO1mSEzmBxYPuJMfr1j3Q91c3vykkEz8rV9_Er_RLGh-ghQvPUxCSKWffgbSavTZ6qM_eloRO6x8-fm7ngLhluakzeuSKv_nolxeIn-ZLwC9QY3Qvhy87R6Bnm3Gbflr2KvG1E8M5s9EK8XdZVfJGZJV78AVJLjLcg_tFMbQVqsiCaE0B8C8kH4BP3LeiZSJM9Elk7NfHUThQPBlhnUQy7Z39HUE7pT5LOTYIPhtAB5IDICVV4fE7rJHANcOi-GFlIxeVufuWUTuFvgeJT3WCMfZul7ngp3HQhWpk1OBft4esYx4vmOxQ9qIYD2wlrIShhbgQ1t-UTDCvwjWhp8iJvN4hsMkOFDSAYiP6Ve3kP3FYsemZihvqzn7gtwwWAoqLERWqI2ZMlHHzo8sIGtDRZjo2ZpJDtM1tmGxc8RtZ5C4dxoSsfS5E8pa9dhH7-lhL_5jdA0",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616862384,
+  "description": "My session Wednesday, March 24, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605bc507bf4bc84094722576"
+  },
+  "sessionId": "037d94d0-8cf5-11eb-87ef-3d6aded702c1",
+  "authId": "camacho.colaco@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.30",
+  "lastLoginDate": 1616626952,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJjYW1hY2hvLmNvbGFjb0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik0yMDkwNSIsInNlc3Npb25JZCI6IjAzN2Q5NGQwLThjZjUtMTFlYi04N2VmLTNkNmFkZWQ3MDJjMSIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTY2MjY5NTIsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTY2MjY5NTIsImlhdCI6MTYxNjYyNjk1MX0.VprBGx6R_Eoy8zT4zj6gU4xMfmRLbKUumXUauHmgI1_MoPDcz8V2uOM0I7y2wjCAYHowjpXY4HrT2HInwpr2NLvZj5TblTCcktJUuP0LKBP9yBNDgEFps_6VqxiHvLytUK2roWCH2HDFlTasltmIye4H6X7i2safGR8-C3sz5liIZLYe5GhR9WqaQeL-fdzMqpIhTu6c-cw02jQw4dlXuwaeTBERlKwE0BYS-wpJMM-ROfDrgkkJdqhGU44v12RjjimUqb5rVuvc6e-3w6QMlyAQlgaJXOjmf1-zyOM_Q39T6ATXScPZ3dAgdfmTXpMPm-UGHQje-b2X_WATMsLpEDXd426e5LdFQrEIoMO5hSdugG4hctOGKV-ikaxsO2eza98MA6X0cSM4gZA1xJ_pibwtqdLOVsS0xIPcCflgZLp7RnDc70jTDHM6lOPhL98JDoi_wV4B9upP1a9K46W19sdnmhnsVsWPR0O-J0oU7139YrAVPScLVEok-9MmkArgCfHpKsshAVAGd5Vaui1VwhkGkgNC_4RwvSbpEd6RK2TRPy_i8lK3yzad39yeEKrLmbpyev9DaTmutphXvGH15ulSMV9m_9Sj4Ed5e9xFNu_jJjNXT1v5e8FPYN8XfJJCpxqQ9yVr3yI0-wgD2au4DDpW65s7fXzp1_a-gHYxjhI",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616799757,
+  "description": "My session Wednesday, March 24, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605bc530bf4bc84094722578"
+  },
+  "sessionId": "1bccb9d0-8cf5-11eb-87ef-3d6aded702c1",
+  "authId": "camacho.colaco@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.30",
+  "lastLoginDate": 1616626993,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJjYW1hY2hvLmNvbGFjb0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik0yMDkwNSIsInNlc3Npb25JZCI6IjFiY2NiOWQwLThjZjUtMTFlYi04N2VmLTNkNmFkZWQ3MDJjMSIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTY2MjY5OTMsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTY2MjY5OTMsImlhdCI6MTYxNjYyNjk5Mn0.ATl_vvUP3F4adDv70e7khVXlEhIwNIZiwqLUoSnvIEua99glvn9a6qC6Og7Qi-Lnvev3oUZgoWds-xfdvZWHkdHUrXod2HrSabaZcOi0UJzRySSDxYnyROEwNb-lpX_J8Gsww-CLh_HIJkgh5Kgqi8hnCnX_QQLS_K39qKBNhOiwtBc4g7iZOgTnWAPoO5AcjKAswAbyRiMMEmj5XtBOab-KpC_K1CrQ9WjhvxaOj6z4wqdQD4INxtnY2h0mLUdAsi89eGtdk38KUTj3a-ni5LzCJwmiTVEdpAvaTtwds2the4_Cu9XVD5JatjPkvQtK4K2FMMRa1R_C_fUakaeuq9gAwYtHX1HnZAEEqLy5Yctfq-EJUwRT_5neeeTwbs25XLGAv53o6e7QLP3Ok-4nvczkrBW0NlddemDKWp2O625QA2N0AFaW4DVh6UWMRvNgVAupeLjZ0qB4UUU2As140DB7a1IaVEMebp6I5lX5lcm5zNHzAASQADUOVQbDJJCIJkaljw85PoUQBmgY8k2FZ63hAoFA7CGdTktcAGHRUJdishMSUR93KL4G52LBKxZ5zynR2DS9U4punddtkHavUu5TK1Njhssu-Y8QtbD84eXxf0odnBTadr5hFRUMIvq3jGU0eLbpMcvdFF2g30N09vX3siUq4AsooL68HIJZm3s",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616799793,
+  "description": "My session Wednesday, March 24, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c4ecfbf4bc84094722579"
+  },
+  "sessionId": "233d33a0-8d47-11eb-87ef-3d6aded702c1",
+  "authId": "jose.baptista.pereira@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.211",
+  "lastLoginDate": 1616662224,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJqb3NlLmJhcHRpc3RhLnBlcmVpcmFAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNMzE5Mjk4Iiwic2Vzc2lvbklkIjoiMjMzZDMzYTAtOGQ0Ny0xMWViLTg3ZWYtM2Q2YWRlZDcwMmMxIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNjY2MjIyNCwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNjY2MjIyNCwiaWF0IjoxNjE2NjYyMjIzfQ.RHJkOCFITb4pXAEUlyO5_cMPuRVjoDcg_xw53BdSgejpHw0gPvwXHYgiBiyRTTOBbGJ3KwpfdJMnEcQRBODOKpV1laSGKeBIHmrqkSFeZ98OeOP4I75bwLlXvI_djJ3mMTVqCwv2KggIlRLbUdZx_OGIKXVVYh7Q5uaGSQbwbL1COSlz-QfrKgR2c4fhG8DoZeeaot1xMkDVRaywLPZTBHxyepfbNQJdUtE14ZnPom1pvr7ij-PcZS5JA9xTDRhw3uosQ-4rxiJMhUCYUN03U4-FYNFrjHWxFYzGzUuWoD29gtaNsBMGefLI0c0_kh_sqLXEVUa0KzzxOkCBcJLwH1piz8WE_sgANxpbpw3H-_eqfZh4anWXXYBcXKzZLH3u531zWxT3CYSfZUFYLJySSm-weMxRqkj87S_8BD0kNwKwGTraS9Yzi5HLKRcnoUjkMNhtjWPXD9orpBRbQT2QF0o8krmTw55FUW3Md5G60yj0aIuKYA-AOPHFDdk8qrJwX3nUc9hDZ_lCZaA_NMo0ymw8eGHlzqANsBtttINc9EOnhn4SsNK1_nk1BGIODW0YyT5V5GgDlpUOKQgnJHW4GdesFt8l85uRREUYC3Hp1rVvCyAjJ8hykXAzuw8KqS-p2qdwJ5ZcmdfxAd0HFhG0kiLnA7_vuDcmzyCiYw11Uf8",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616835111,
+  "description": "My session Thursday, March 25, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c5b5ebf4bc8409472257d"
+  },
+  "sessionId": "9f804040-8d4e-11eb-87ef-3d6aded702c1",
+  "authId": "Pereira.Cerdeira@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.181",
+  "lastLoginDate": 1616665439,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJQZXJlaXJhLkNlcmRlaXJhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTkzMjE3MDMiLCJzZXNzaW9uSWQiOiI5ZjgwNDA0MC04ZDRlLTExZWItODdlZi0zZDZhZGVkNzAyYzEiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE2NjY1NDM5LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE2NjY1NDM5LCJpYXQiOjE2MTY2NjU0Mzh9.jwi1HXZhy9bZ6MEZKxo4_RkDzs2tO5xm2C6PDZJOrTIPdDLhb_mpOlBdcy0GnbcYGJzaLVvCz4ktjFe9ilOJz8hxutU6VWSpwGMlYKQRtclJ2leBinukIauUV2c5Hw3ykPn-UyQDpXgavv_8pmM8Mz3i3WkmarIbN0TyHbSWFF7H_kgQ_Hltzt8VvzXYKIKTF33oecpBItDy9BjTYa_LUMl3m3cbaNp9yHMBCcCVvV7g029jvv88V02J1aObXn07o1W3EScJrtwjbRUSDX7RLEnXYIiIku8GBQrfv1emXdyGLNosFhGmZkKH_F5EtrwoXkFh8O-hcXVWeMnQGVuSzdETjef2hXKs291ClZKF7fTqjUeAFRvVDCv3IBOrrOElU_O8cZ_IT-3G4D0y-wzJP43HCyWzn6GSsA105I0ohp7eMDVY09KKLFQ6eewySdeVLZhSzBE6x7oVRMKARMZGUx28zVmZ1DDPsbk5I7BSqpjsGyTRqQbeZfoRtnRRfNIojiGCglUaVw8JbI5EYcDXPC1ZDf2LckCbK22FGZrbSG6scb4WOyPBIuGlJmB26b598mR8pBGXAHmUcfALujSTcbGYchrqTNE2a4hy8QkxA8kly8n6s1T9yj7y6LuYHbz5goBsPJnBR4AAYGnFHLWLd7aKCFuSU2tH0M2CIJJeyS0",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616838343,
+  "description": "My session Thursday, March 25, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c6848bf4bc8409472257e"
+  },
+  "sessionId": "51fe5b60-8d56-11eb-87ef-3d6aded702c1",
+  "authId": "margarida.odete.covelinhas@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.52",
+  "lastLoginDate": 1616668745,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtYXJnYXJpZGEub2RldGUuY292ZWxpbmhhc0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05MTAyMDAwIiwic2Vzc2lvbklkIjoiNTFmZTViNjAtOGQ1Ni0xMWViLTg3ZWYtM2Q2YWRlZDcwMmMxIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNjY2ODc0NSwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNjY2ODc0NSwiaWF0IjoxNjE2NjY4NzQ0fQ.eanKbiN3Z4r1el33BNRfv7cFROPTNiVsBm28FvzQ68dfco6IVd1j07DPPdyN-bd4WsfQ2OOjG9DTw6IQUtEi1kqmp9OKOhvUEn2QK1h4rZqvmh9pNOq-iGcvSq19Ljj9lml6p7WbXAdfKSGxheKV-O6hQ8wUBBkRAA6zLUCfkLV5V_fHghy7URhWo5AmhNnSALcf6ySVM35Mj7n7o2WOY59ttZDI3I1OYKNpBv8IKrGjYexpyrosEy-misoaGXy7ITugTm16PPZ9XeR9u9N2HmBSlYGCpElkFPlLpZEBMSrAZ6Ae7V9-hQPwUc2H6SPLgJ0uIgEkv7hXOoBJ2_ZGtRZIkvV74jrlXIqQcrUdDaCNdjP2oBj0nS_brdVkIP8uw_pYh3pO1QTlGlyi50axFRJboZr9RYxcpjbRyuFQ1roOFQ9tWztwo0oBTKnFcWdqdaZb2tqUQWx_xNmdc2Rsn9ZPJ8YdIMI-Ed1IP8iMoyHl-1tzhYW3MhiK7ObebSlMzkEGzS-DxLMYWI2iEOi9BpnBHB9wn0IGYbUh333aYRP-BTzGeoD6COcRvz2ykhpdjmtwINh1PC4FjZHcXYYPZtEsnbxFL5NpAT6805xUyFS7lCdSYOzGfbIrOjM7n0tpXVMfKRQJKWx-4nDZhr-a2mHZ3FUvJyyzdRZUH947njk",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616841556,
+  "description": "My session Thursday, March 25, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c6964bf4bc84094722580"
+  },
+  "sessionId": "fb3e7390-8d56-11eb-87ef-3d6aded702c1",
+  "authId": "Franco.Preto@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.40",
+  "lastLoginDate": 1616669029,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJGcmFuY28uUHJldG9AbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNMjEwMDIiLCJzZXNzaW9uSWQiOiJmYjNlNzM5MC04ZDU2LTExZWItODdlZi0zZDZhZGVkNzAyYzEiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE2NjY5MDI5LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE2NjY5MDI5LCJpYXQiOjE2MTY2NjkwMjh9.Wybb-OcFWg3jyylnpKYYCUE6vIIgd3C-lkeXAAPSAtMoJanboFvNEqowx_ik_My9g-yyyt3qza2Nt6Btd2yvIwAPkWYGNJokMpFCpeGWIHqLUQ0D-TU0TPV8rj1gI4ng6dwNREVEX7p2Rp-6ZihOO_QSvCGoacCBn0anT1NOTSX1YLbBKy3SJnvjcQBSGx5hA5pEt6IOZk3gARlzXuockM_6mskCWhS0XnGE3SawQgpk22luCRvEjnQV556x57AJ_I_kf4GYsshgL68av02Eju8qyzAUiGoGsAo9zHbX_ZkOExoFYlfcfueGF2XQi29j8ZkW-L5Rtr14gOqYyRt_7jpuP4aYGkKVi96IBEKF_F8gW0DAuaUVPzKQM95mJosLW42wo-1fYVeFZF1NeKJp85DO6iWrm1qNM7RXQFij-zywSwXLPpADj2orGUN-Ru2u9s5qTRZ04Q6q2RHnTlWWq_buw2Mbvsz2SjFSnJ5EuMa2L1FiSV6gOkeD3MhmTuDWx5Elic2vNguRsFlMwMPBiY341K1JUfkE_xuaNoIoYO_edhndO8xRKfKoMWKm7KLt51Ww-0TPThveNOG0E4AeC-xf7gOjS29Sad3fz5MHLwbVtSJlE9oDB94GVRBIwsfC7-OSyIMfaN6PiV8_9LRoUQwwFk97ZBcluav9IobmsAk",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616842499,
+  "description": "My session Thursday, March 25, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c6b57bf4bc84094722584"
+  },
+  "sessionId": "24bbfbb0-8d58-11eb-87ef-3d6aded702c1",
+  "authId": "matias.oliveira@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.23",
+  "lastLoginDate": 1616669528,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtYXRpYXMub2xpdmVpcmFAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNOTM2MDEwNCIsInNlc3Npb25JZCI6IjI0YmJmYmIwLThkNTgtMTFlYi04N2VmLTNkNmFkZWQ3MDJjMSIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTY2Njk1MjgsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTY2Njk1MjgsImlhdCI6MTYxNjY2OTUyN30.sxqLwlWmHi86XeFdwfeBnzIebPaIyfBCwIjvlptUnFNy0vic80mp4R2apDyUlsY8wSPbPMAuNjWQ49J2NCXBUqDwZrzA4SIvPgtULqGm2MqUhya8vtD19TddXQ1bh0W5DwAMNQPWnSVrCvIhmqyCHHcitW7WyAy6CinTkNrwQK1e26IGnfcXa43ZpT_zRfpZsylwL1z8ochXW9GWE0OLD7ivCcKOHD5DK-vKqjQeGznERlI4dYt4YII2fCRps5wa-Li2TPksX6_0OMoa8GU_gKV6mGuEerQKFPllX9GhVqrdBzChvbhpHxMtvaRC_LDmkxRl95xy5asdFow4Mk8ANaciXIncKCZu79SaCs-NEfusNLPU-y13tbkNHwYd-Vou_Bq4hDinmrJQ7pK5v5GQvfDmcafEhKBr1bj_otPaEnuPfFKWBxBBkC9EcWptAIGz52UEAl4OJacbbdw62ZoMrwS8pFJFLu9yuOZePPOVTCKIpRu0LAYHvxMfsS95YH9AiqJx5oJ3CDxxsCixyjj2J8YSAWwCBKI90oGR8UOxqbPqHNRqILASgqVhvvloRIR-AxMlaXRHGT4VqK_E4cvst1Pqcn2RZPZcnwWrP-KR_lND05KLIYLBSaMGc0REi1EZ1EE0FdulQmgnB06fRMrnkOIz80yp3XvVabVzueR8ExA",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616842334,
+  "description": "My session Thursday, March 25, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c6c35bf4bc84094722588"
+  },
+  "sessionId": "a89b98a0-8d58-11eb-87ef-3d6aded702c1",
+  "authId": "orvalho.coelho@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.18",
+  "lastLoginDate": 1616669749,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJvcnZhbGhvLmNvZWxob0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik00MTUyODUiLCJzZXNzaW9uSWQiOiJhODliOThhMC04ZDU4LTExZWItODdlZi0zZDZhZGVkNzAyYzEiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE2NjY5NzQ5LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE2NjY5NzQ5LCJpYXQiOjE2MTY2Njk3NDl9.bUzf7VMhPPH8Lw7Ldqjm31BaQYVtv3huZU3FVN-edMiFh4QgfTSDgZ6_LpfaJlAPPvxC7Ac0PtnvYwy099P-db1TRqpG8cpLBPf6FtRC_tV6J6U4ZIRnJS7V6zXDv6OqptdhUG9K7WEAAaJLZJA9PaWrDij0QashP0Dayx-mAuajJ3ngJyotZPrUDqjJrSn0m4CbaieyUpfHRnxsbnynnxXWMix26vIkh21jvEL95ti7KCs7ilkBRYeftAqYVV83vpwIq4co0d35RjKA-319HBH8zwZKP4EzPEol-jpEIY7iHl5Ry5G2_I3iDCKInmsYlWAfApZnS7M9M9OcDZ7tPhw9Qh8eSNELYeLEVmudVaC4W7p4M6rvo2Pr_Ygy5Kl-Wkwu6i6GGs_pEMVHBvRnlW5WTyyvTwP1J0Xb18m5gc9hG9u8Xs7A9_1FAwPLauy0pqsoVQgyJURZCtfO3AnHKA5Mjqyvb-duHVPAXy9tuhRj-mitB8u43RxCq4PNWZmMkIYfab29J_6Gsl6ABw30CfolWDM_7NPHYftDJanqN1QhSuSDdS3_LZtiigUutMh18lBk_BArxM7Po18Ubv0ay9xmDGOYWhy4foCWRvkEqB0n2YECr04jkhjvEY0Hucu7fCCUhlOjv9OSle4ioH6p50FOPsfT9tBBl8YCx7cSiLo",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616842580,
+  "description": "My session Thursday, March 25, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c71a0bf4bc8409472258a"
+  },
+  "sessionId": "e36353d0-8d5b-11eb-87ef-3d6aded702c1",
+  "authId": "drago.goncalves@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.41",
+  "lastLoginDate": 1616671136,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJkcmFnby5nb25jYWx2ZXNAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNOTMxODQ5NiIsInNlc3Npb25JZCI6ImUzNjM1M2QwLThkNWItMTFlYi04N2VmLTNkNmFkZWQ3MDJjMSIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTY2NzExMzYsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTY2NzExMzYsImlhdCI6MTYxNjY3MTEzNn0.jK5MqpH7TthXwZKSJlxhVqhmqzfiByIogtrydAn3AikkEWUmTYi7ul7LTX03YQ1wC39FGl_JjTHOqb9KrSlAcvfw_G282MZSnE9uCEdeJ4X2PYK2GluuVTS0cu81EB251zRfsNpvlwH_0spTYGUn1pGnfUOS9ZuFk8hF0uCAi9SZawBzbR0NEkpOOv8vafYNQ5lfvsBH2HibUtKAMMOFFAHlMQglLSZKk7S-EZgXECCDtSvKdU4F7Ifv8ZP4Y46et4oVsYeVXM7gnaUvuzaA3DHW42DMHndwKvwY9NAG7K2gqPXbuOJ4m32xT-6pAyUiJFNCoOZJbn23JUvlPExIvV4RaRcho_BUj25OwTm7igB-fNS9JCEzXsffRM9YxiViFRFjv4QncQaa5T0T3jtP4TKzcNDzc1gnBvQalwUv5RlEZoz4Kg3x5QgxWF6MmuDmRUfLIJohOxZEwJ4Wqmcaw0H1mzLLq2CcHPjcFkTN7DU1VJf8R3MfZT2LAG08MUyqLSPMPG8rvFaE1U8f9SgOM1AxCiHQ3L-BHtzrHZNnkdQN4TNdfucRxWZFXdWVEtvdlpDlkEymEqETmvlovhDbqKc6gKUIybmrOPCXShrcOVL31xQNYdD-Q4L7wH0Sp7CuQozDCxQH4l8cUvRdRncZF6-dekdaahMwj9iraiiMyg4",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616843984,
+  "description": "My session Thursday, March 25, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c924abf4bc8409472258b"
+  },
+  "sessionId": "5bec4830-8d6f-11eb-87ef-3d6aded702c1",
+  "authId": "paixao.martins@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.104",
+  "lastLoginDate": 1616679499,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJwYWl4YW8ubWFydGluc0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05ODA4MDk5Iiwic2Vzc2lvbklkIjoiNWJlYzQ4MzAtOGQ2Zi0xMWViLTg3ZWYtM2Q2YWRlZDcwMmMxIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNjY3OTQ5OSwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNjY3OTQ5OSwiaWF0IjoxNjE2Njc5NDk4fQ.jiaPTitseb41iZlMl4Rekeu1Czp1YzYfJtVglWqbb0Iy6YJQTqx3YDIFmhBNISvpnLIZ4BXzgNxxdxtDHiucePoX0YQx4ZstUaxupiG9E_s1kXRbvcymfnWTO-NEpk4Y8qI34rRn2z0gaggbDYpUYdqB0GfzW_Xzp1KoN3h2OnFyhP420USoWXm403aJunI-QxsF3DZ_EjYfQ7yjmkc6p-olUeDvFDm7G2O5RNbuQJQz9Ui1iVQZgDP-rnGQOyDeYu50hj--9zJTQrSyYEUtVtzUs5RCjvMy8zr216stCZ6vadbPZ_rfGVr-3GreW6DuzG_qPh-V18BlAo-T5ae-3r9dBR_Z6nPF5A7rAAmAX-kE_Mdzx11vD05v3hBYKrqC_-g38wAIa4RR9ZnsG7efiP-KxclHja7np1QPM5yIIdkbmvlVv0sY1L01bF-ktH0EVm1akIQ-p_zQEVR9oH3wdBsuuG4u0gLhLUmfjVbQPBtOXxCYw9Cz5lwpbduLE-hcQM1cfr_aqE0taW7CmWN6QLKO_7CUiMwvVmWnh_MO29E8T3dChmKYZwumfFN4LQtRES3OM66wln1LzDJyLRrwOntMCjU5Nw_2hUQrJKNFeqr2eBUJ9DugdvTAr6RRlQkMJOwqgq9h8UAq_H7SY3eTljpy8P32Eu8LVgO5nfJM-r4",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616852307,
+  "description": "My session Thursday, March 25, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605caf06bf4bc8409472258c"
+  },
+  "sessionId": "7c895f40-8d80-11eb-87ef-3d6aded702c1",
+  "authId": "paixao.martins@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.104",
+  "lastLoginDate": 1616686855,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJwYWl4YW8ubWFydGluc0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05ODA4MDk5Iiwic2Vzc2lvbklkIjoiN2M4OTVmNDAtOGQ4MC0xMWViLTg3ZWYtM2Q2YWRlZDcwMmMxIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNjY4Njg1NSwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNjY4Njg1NSwiaWF0IjoxNjE2Njg2ODU0fQ.Ka34Q-33rQ8iWjGfqrJxPE2bEGxn3JV_MxwjeUAURdWmj5LbICGLEnK0O82xzJEvJycM9Qs31YyCKXl72RRiAFWSYrgubkgEXQAvw16EYfAfHtfcIcSltiYahdpzP5xzAIcf-hcA4d7h8XKP-dgbfBOSbP8UpgmXo3TQHaLuv_RJ_MLVR4gy1Ce3D8HZ__mKDpLcA2UoQsoV055zWpBsr4eKhRprYWgVHcS3E715V-jgsxXXThPQ2GrcdOXSx_pBXz-XTRPPeW6vCDthkGhoYpOkI9Kc2gKCTdu3bQA6USKzr6hvg0lbI89_7c_SKYe7hdWntyav6zudIymHqGGKL3zajYF5ilO0PWUIlJ2lwv4Fat6nORmqO1QWRYC4RJSekPkANvkaxJpF9SmQ0He5qb5o4mYPqty-mh2hQ2vnZVa3xNQGoKkrvW-AtSOYshwaTDPVfwRBvj53F8oVZN81Gx0melubpZcJJNguStdtmksBIYjYt5HBwkA7A0eAPED5jxmQlOSNC_-tYiac7RHsBsZKYdQ0eJpCup-W49KJReuXViv6Ekz_fAzy7sPBKGVo0Vv0-uNWxiUKexgVDdDzpLqchoIRaqJ5nFhCRWa6fitWgNYFoEQRUwuYg2bAOuE8Hp8Rg3m1Aak4AECWIq1C546wGksXXbbofTctRnH7qc0",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616859656,
+  "description": "My session Thursday, March 25, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605cb4ccbf4bc8409472258d"
+  },
+  "sessionId": "ecffc770-8d83-11eb-87ef-3d6aded702c1",
+  "authId": "paixao.martins@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.104",
+  "lastLoginDate": 1616688332,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJwYWl4YW8ubWFydGluc0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05ODA4MDk5Iiwic2Vzc2lvbklkIjoiZWNmZmM3NzAtOGQ4My0xMWViLTg3ZWYtM2Q2YWRlZDcwMmMxIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNjY4ODMzMiwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNjY4ODMzMiwiaWF0IjoxNjE2Njg4MzMyfQ.q7YfMGd9BaqGOfcu_BMKh6-5jMuJNVRrUuYU7n-CQw2aPHvvkLKqloxXmg7UtqfgctEkJzQthvRs28a-PDh4Zp6c31i0JYxLdzjdhXD8heEsDDqqroE6GUnvv8ZEwNtKxhdiuuflyzF2-Cv8WOKpfLT_psRmOniRx14LTwV9u89GDJw0xtAFtwPwuXU5jCPGAYk7XMvInJWcob-mkAWhn2ksNbbFp4Vr5zTMD8Q8yW8b9GraNWxInkXmbfEAP0Dx9jjxMPGe42QslF7zDGWKk2l57z3qX3n_5Z_SZGThp2Ha95oMP3gRbAsA4NiAPJrCRP6HgFgEW_KmdIa7WqBuDbvZC0qTCoOL4sbQy3Oh5biEY47VgdoH-tc-2e-SUPKbyqps4acU91YcHv20p0GbjHO9rj172g9TJfWAzeJ0mxUPdjgzBJPMy4ZvLNi8nFmduxbF7NWACzBRvkXSA4IBR_T5wMypZKSvd3RDBZaK16Fq7AnC5vLQ0cSC6xDq0oSV_Ux3AipGBGmsC0sNfmKdhLsqgBxft8OVqr0yWk66fRzwxkgV-vYQ54Hwqkj_ziUHUeJkSWQ7ousWrso7Uhntl-lM7OeiVtqNNqHH_LeAVnTHpL59VxU9IROg48VPT8eggmK3tWEJPDctIj3MQL1e6z972QSQ2VV4khZD7jZkxIw",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1616861165,
+  "description": "My session Thursday, March 25, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605ef6c3bf4bc8409472258e"
+  },
+  "sessionId": "6b7d1180-8edc-11eb-87ef-3d6aded702c1",
+  "authId": "conceicao.porta@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.177",
+  "lastLoginDate": 1616836291,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJjb25jZWljYW8ucG9ydGFAbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNOTMzNzcwNCIsInNlc3Npb25JZCI6IjZiN2QxMTgwLThlZGMtMTFlYi04N2VmLTNkNmFkZWQ3MDJjMSIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTY4MzYyOTEsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTY4MzYyOTEsImlhdCI6MTYxNjgzNjI5MX0.biF7XjSqWLxjCzcB-4elhrdIGnS43cvxs7nkYObutZPU0p6o0qhu5FSvXAABhVv8C9hj7VcNrfAHWQ9BPrkBzD1WnPb-Na6-kN81YwtRk5tF6MSwQqPv4sIV52Vcepo5f-LZpqqpy2mN0hH1UnPsKer2teCuX6eLG5JD7pGH_36oKN9zGaiY4a4gKJsQGIQ3QhAO6v4LfK9kIY5jd6W442tj1hGMpbN1MLcSGLxClOj4xLwkFbinDoU30usuEsLjYM5EF59rCZ0236Y4sTP8P5GQsWouEU-yUveaCObQE38oGbZsoK0C7W5_iQrdtH69xdfNiUfUChPCovZ0ks8GknsdIlgvdLf3weEaZYTdglmXDthk2AY6oU9iZizIMrGBzFknU07sXbYMTcTAlXNXzy0zo45KXwSmvIV-TmnGffxeWZpCJrGFHCsx5FbDf0Zsae2iKL3CDmduqaK_drgktbMRQe6ZDaQ7Hk8cMrqLteJmQhVbctt7jnSRnDxS-SiKVpWYRzfLz15EfIez2o8Zp83Kh7GH2Xj5pRlTJjJtI4u-NW9jNNz-yo-m3ntClI0-a2tbEq32EYwNFKI5gg5PN_9TqZ84SS9nGu-4AErUDjhdmIedRvd9bnGjUbcRyNumZfLXPfFfv5WeA-g7ZFo0d8I8Qje6AI2irNqrsDlziFU",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1617009123,
+  "description": "My session Saturday, March 27, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605efe6fbf4bc84094722591"
+  },
+  "sessionId": "fe75bec0-8ee0-11eb-87ef-3d6aded702c1",
+  "authId": "moreira.sousa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.14",
+  "lastLoginDate": 1616838256,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLnNvdXNhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MzA0MDEiLCJzZXNzaW9uSWQiOiJmZTc1YmVjMC04ZWUwLTExZWItODdlZi0zZDZhZGVkNzAyYzEiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE2ODM4MjU2LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE2ODM4MjU2LCJpYXQiOjE2MTY4MzgyNTV9.SiAx5o8K7F_6vFhyQHGsLGBoJtrukx-8RKvErLXX9sgGUA5nCyy4cPy4DLC9SifUhaMcse8--HASU067OuBg2PNl2OdPaJPlIh6PUMsPo3kvI1EAnf9JzI7j9prTtMfhXpGk4mJeNDTZzwlcqzG7CCAKTaF1nDZY8C2GVT1K-J5Kg1PJ3VIASF5Ni3m2TtRXxhc7H0h0iMCyuk7QlbEdW1geKw2ITbZ_WGPlT1i6e9198AdFItuka83mKRG6wfXbQvZBkXeDuUdQXpvFwSWceiRpHU8jd0VLVCrPTpGlgiN0R_DwQXmfb3f36ltqKXGzJtPodMTM3wYtYXbRlQrt7kAGbB4d6bILVuSgF4EWfql2Sa9avENfuQv0HXmp_Lm4eeRHE76h2b5P45Kv_65yl9Wcdm9JLzTu3ZBxEdT65z-yAi4banrUIPSU8c52fFZ8AZlZN2dEWDa1MrMSjC5W7TWuviu2NA8ZgCbCEExCgsn1d3vVB1SlIYSfRg8mjJHNkqNzNfdBlEvXrNaR25xAl25GgogHUPvhchvzO8TeHfpZczGchk_2YNik2-Q_0QMLh3z-5oztCyy3Ar6k-Mn3q_wGyQXawrfqWfWs8K-dyF9Djz5WStgDbCFcfuc8hrVuECRB9t-xSWZYFegQwVFrwbo_OqX-3lTyHC92IAmdP0o",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1617042682,
+  "description": "My session Saturday, March 27, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60618b6abf4bc84094722592"
+  },
+  "sessionId": "32fc1fa0-9066-11eb-87ef-3d6aded702c1",
+  "authId": "oliveira.lages@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.104",
+  "lastLoginDate": 1617005418,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJvbGl2ZWlyYS5sYWdlc0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05ODAwNjk5Iiwic2Vzc2lvbklkIjoiMzJmYzFmYTAtOTA2Ni0xMWViLTg3ZWYtM2Q2YWRlZDcwMmMxIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNzAwNTQxOCwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNzAwNTQxOCwiaWF0IjoxNjE3MDA1NDE4fQ.a1rGhJJQ0fr4efN-R8N3n6D7gLV1xUMA24X2xZ0Oj542MhkAbHLLkVN9mPNQXblbYkuUw2cvFb_UgDG-P-kNNjihJiYMPfJHXJN5onnavcMZhRhKkgzTKvdvQF9mhuqv_MT7AimCCmmQAUEER2ND-7ThTLYaac517mBrZrP3CKfRwRRqQE02GsgLz3Vk2wqwAxWdT8rbVL9u8LgYyuEsWuHrd_SLO-DUTd3jq8SnitDEaPpqBxp2UQj5UOmg-D9FTNwU-9aLlQ4HHzDqQtaTWqBQ3rVcC_Nbo_Nx50FIKHRCiWqkZYJ0Rk6BYtQSak9w1hflLqEGtQPDom1mCVmnvk4dvC-PJlcS1_aMMCVMWYQx272fisZgv_6EayO7E2_6joUaFI-TTvu_d986-m0W3dyoejt1l645XcD38yHEznUxc66GovwPD0AZkvwMnopk6snI_G7irvNSCd165BBMQfnHHaIHCgB1-h245OdYiFcP1EDdPYf_1j91pIOFQ38iM_nFPyG4EzjFVqyo9kpVCSw6LnBjJf2Um2r5BhmMzxI2WFTH7ApGGYPh5pXe0FCVO--Wo7LIqWBS60k5EdGC-mcXmhiNr3xCsqNj7KGO-n9PbCYEQlD2JpUn3ZFvTF0K89yVf_E880yug31FTh7m9ZjJYXCHIix3g7Mmy1D8O-4",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1617199340,
+  "description": "My session Monday, March 29, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60626345bf4bc84094722593"
+  },
+  "sessionId": "dc2e45f0-90e6-11eb-87ef-3d6aded702c1",
+  "authId": "moreira.sousa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.14",
+  "lastLoginDate": 1617060678,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLnNvdXNhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MzA0MDEiLCJzZXNzaW9uSWQiOiJkYzJlNDVmMC05MGU2LTExZWItODdlZi0zZDZhZGVkNzAyYzEiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE3MDYwNjc4LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE3MDYwNjc4LCJpYXQiOjE2MTcwNjA2Nzd9.lTbj8lGT-oQTpLh84RUF5sFucVeT-ASkqN9RRoVBTnraoQdfFNQ2Pffx2AqPbcCwUIw9CCsYxIJRUrVcusDiRlH98G1LjBrD45D-j2kseSR1MCIIyfE7_witvqqcDQimPHhehdNAkHdLtLyVDIMIgFy-ZZrW6-t1H9a18fRCx0DVPQ0Ov9WoWJRPbQDhbQAEafszw6UbZNblNp0t-XDFuQy1mH26ywHniZBNI3QxRLDe0IdSBvhw-nok6LLkJe1HWF30dK4QKVpfG5JVLBTTUJcDQ4ceButx0CQsCtfNhzmEfwBLrA6QHlJDe7O3CNHabp-EJdek_R9w1qmrcHLTHrlpRU8jTpM8q32QbB0l80EhVdeuWe2LbxMaC87-bo9327HOuAVsAMWaXMMcym712aqAnlvRv2R_oX-ZwWfbGs3mqNsn2UfKE1_emfvdh8Cau39YxN3e6Ol7ZYKNZbrBBcKVMuZpTqXzKIcIxf2-aZ4S8LyxA8oZqgIsSDNfYkvY2MCBDSL_CHHD23b6qpgtfX1PML82VO5qSLIf2Inxyi9LdbAHa_hW0o2FuJyCkOmTpuWNR1yR2zzhgGOcvRZ2kegdI_paF7RnbVolNvYGpHS-K_yUYV8orkczELvZhkxUA0PPh68HSOB9CjhulCYFtIonXRfWUQwlF7cSHv4kAzo",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1617651215,
+  "description": "My session Tuesday, March 30, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6064491e982c1e3278e73963"
+  },
+  "sessionId": "725c5720-9208-11eb-af9b-d598454d019d",
+  "authId": "ferreira.runa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.133",
+  "lastLoginDate": 1617185054,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJmZXJyZWlyYS5ydW5hQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MTEzMTMiLCJzZXNzaW9uSWQiOiI3MjVjNTcyMC05MjA4LTExZWItYWY5Yi1kNTk4NDU0ZDAxOWQiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE3MTg1MDU0LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE3MTg1MDU0LCJpYXQiOjE2MTcxODUwNTR9.NJCv69M4QImj0IWt2rtS_t7c6zgNZUR1ruMpK6Ez2w5TXfz1obtsOz1JpwwIeHIeUzuNemUkScDfA0dhgOvs_QvirIQIURP9agnkk7qBj_gMWXqTifZLAnmeJBQX19u_1tsffFCFt9q6s41z2vbaZ1wFzYE80zx2PeEehrMvPJaQVHWe8FBZFz3tkjtXsKqKxRV5t7bjVBI8Nrpk07kTb82CrnqXp21gUZ4tDIle4KDkp7a0MfnaxUQmgUlpfqf1BmsbSb3QeHRy3YCsUzKSMfCI5dncDc8_lcVZX77jo6FRtG78Cbz5Y38KFNV6V_6oYNN-OEg5B75RI4Xeh6q2rd5M14TG_mUKosvLWm6HCl3QtLZ7gc8QqiSDeshjD8C2k57oc8Xq8RaXvh_bjnhTvfgVjmMBWbEvOnMliWulqzdPNFY7_Zmfj9y0rk-h_HoS8Ovb8PVLRuTL501VNNl-iOMbjd9vwo3g3YccNmarhV_KXxq9G_0Pg2L7tD5xqXLVVqQwAw8rf0AyaSIcBNrK9pkJUzHoamY4T3YqALe9uKngjG129wcirQPzSlwM8BuGoPGtyLvDFwWmO4KrCyGDG18ayc-8KJKN_J-NBE_pqftaO8_n3MkGQt9aXvtNmtIJXgG3Kd6EtjyPMsFVRIgqHY1B-V6oD6P8_VET4wYIgQE",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1617358596,
+  "description": "My session Wednesday, March 31, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6065921a982c1e3278e73964"
+  },
+  "sessionId": "89846130-92cc-11eb-af9b-d598454d019d",
+  "authId": "carlos.ribeiro.silva@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.212",
+  "lastLoginDate": 1617269274,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJjYXJsb3MucmliZWlyby5zaWx2YUBtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05ODAzNjE3Iiwic2Vzc2lvbklkIjoiODk4NDYxMzAtOTJjYy0xMWViLWFmOWItZDU5ODQ1NGQwMTlkIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNzI2OTI3NCwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNzI2OTI3NCwiaWF0IjoxNjE3MjY5Mjc0fQ.Kd8k-exVYRATKQPAWIBq7s2B_j0AxTf66h2Up4AzxJoAzgxtXKwt7RsdfEvhOD5yTxvfZTo2i8J6YCP6UnSRwuHyP6bjSBY_c0H5SOFW4EpP4a9rjB5yjvmgENUFCf5j-bV24GCrgIpJk4ksLpA2ICsi_GDSIac6kJ3e0IQB6q755ct70ozbdoldu-o6IXwykaQPJ15dxGc5nLzAzopuY_2kd3aXThruYtYz912FSiS-3T83iCtvT2_owpNjutKXLfblzUyRnsDdF4dU4k6HQtCBGLL2aAYF26FdxW0H5g0viZf510wAjyRY_Ev2yPRnyR47cuWRzjZps41hDzvv6_LcXvx3byzTHyeTv3f2ZO_AcEuDT1TyDwGSHVM425E387OLy8XXBik6D-yWRH6QGxUCPXBtcfdqRHvJeN8cLD7SWYAfejg8A8xQj4Rwjbdqq3G5K_ED1l3JnVqaY9iqodSDD2qKD2eZolVKgflJxfPpBeCKvFTAHCXpnDtNgjBiM2ud4ytd8z8igHGmilo6jBEiQTCT8b7oKz_6TDGbUYbhRCxQ0R6q_mHz8Xzjj8v5HgD7ZZSWG73CSTiYGDqPDZGd7Tgm4qM4EV0ldu0DRyhLco8QjuK6THRS6PVLNHh8Pmj2qU66Z95QOuF5_iFnGafOJc1-2badpe1z_-45ec8",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1617442386,
+  "description": "My session Thursday, April 1, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6065936f982c1e3278e73965"
+  },
+  "sessionId": "54b6f700-92cd-11eb-af9b-d598454d019d",
+  "authId": "Igor.Neves.Simao@MARINHA.PT",
+  "lastLoginFrom": "::ffff:10.45.212.212",
+  "lastLoginDate": 1617269615,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJJZ29yLk5ldmVzLlNpbWFvQE1BUklOSEEuUFQiLCJleHRlcm5hbElkIjoiTTk4MDk2MTgiLCJzZXNzaW9uSWQiOiI1NGI2ZjcwMC05MmNkLTExZWItYWY5Yi1kNTk4NDU0ZDAxOWQiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE3MjY5NjE1LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE3MjY5NjE1LCJpYXQiOjE2MTcyNjk2MTV9.uFoBhW-xCuKx4f0kAJOY__IecuAVWNqvWWXITNgBFIHjjhHCD5X_NJrE9Uzvy8wuDiTWYUuOEfuk0Jw00eWbb0k0wDuFujYF2pLt0LMuE_iXxNtTOYIf6-6pKPgIbS_4V-jD1XLwM-KjsDmpt02FXU20MNPbgC8nK4_9V9bP-dZBOacgIsUAa_U4wSSrxQEM1-wHUhiO2dIzPrabfyxZ1w-Q3sVznUkAYd8KIJlxYy2sVdSQAEnqK9aXwSHvQmDSj_tleO_HfKRXdnsknvFjh5sPYtNe5UX3USXAFE-zUzcZoiGofJ4wsMqB6Gx2IBB1NXQEyDwIEYlT0S4YGdOHARvL40tIL9QUBTk6r-dSwr2sSZivwYCa3BPVX6RpbdnA2UuLzzwHQeDG0kYgNnoMWivkwLjH4AxEiDgW2diBEjy-9pjCsFnSHAJtSEl_4TEiBUx7l6SRPX_nPRTvAHysC4-oYxgFHj9LM-xlcS7ZT-6zztgQydzO504AMBZQEo5hjsm-fZaicI-G6KtL84oKo6VzQdJ01N00mmLpeGi7_DA1zR75QERG1yHyM8aTnLORNnnSFBM0JdgVUdzgz-CzbjXenkfKOnfK9tgbA1Oyf3UijMFP9Lzaa72M1HypIBZUGkVZni3cnfWSyZvqkLn6TWD_EmRlNWhThArh2snRYAw",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1617442416,
+  "description": "My session Thursday, April 1, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606593cc982c1e3278e73966"
+  },
+  "sessionId": "8c0b16a0-92cd-11eb-af9b-d598454d019d",
+  "authId": "Joao.Pedro.de.Jesus.Pereira@MARINHA.PT",
+  "lastLoginFrom": "::ffff:10.45.212.212",
+  "lastLoginDate": 1617269708,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJKb2FvLlBlZHJvLmRlLkplc3VzLlBlcmVpcmFATUFSSU5IQS5QVCIsImV4dGVybmFsSWQiOiJNOTgxMDYxOCIsInNlc3Npb25JZCI6IjhjMGIxNmEwLTkyY2QtMTFlYi1hZjliLWQ1OTg0NTRkMDE5ZCIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTcyNjk3MDgsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTcyNjk3MDgsImlhdCI6MTYxNzI2OTcwOH0.TZvdPEZOPdOvmUMBbEzfU5onaoodTtOZt-4ov2OG7ZK9-67Z9jCzucjrNoNjTkLdARz7Hsz2_xeHRVGJO2GGeTBss3HJf0PQHJwU1qUK94dd2zRGlgrgcr93Wo2OrKByI04fPlLfpKZUHD_ZeJxmAmANu44JUsIXe29hejMV_STUBf3zHsTVqDOVi40zeTgoracomNl_twP94PFlJHXdaDNsoZdN-HJGd6jzvNeh9SSOPJPiedUSLmvGTHZtctygaOv8g2jt2DZET6ndAhy4kpMN72fZcHRZqB1hivUZFhRdYdDuhnx6BrgepLP40hiBkf7jtJJhGpC3h6lfQkeeoAck-JZ2tIZsunTvXlzyo2n9CfwGXPSanAj62vPo6OFjfNtnl6LGfzEqKJW5u1UaRZvB7vmOQLjTvgWEpAwhwzGgy3NwQ_Zz7BaJ-wrkDLu1D2cH9CoZyanhTlCHZMf0HI7_Mm4iKBz8r_Gp3Rhi4ztYe_rEwV2EN5Cq-jDRm4CxyAegHvRXfHDz1Ndd2JLfcATYrdk8sEgPi0BzL5QdOFxeqwahxHalYVhv2R4IDc_WUAFJaGgb1fSByVUWRUz-hXQ8s2d2K6tOWVqcc_hMyp2gfdLReKbXSJ1Ds7Mai2O0yBqGhdESTGqxZljjY0XbaoIo_YYjK8eoRpkT4wUZgOs",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1617442508,
+  "description": "My session Thursday, April 1, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60659e0c982c1e3278e73967"
+  },
+  "sessionId": "a876e110-92d3-11eb-af9b-d598454d019d",
+  "authId": "Mota.Fernandes@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.133",
+  "lastLoginDate": 1617272333,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJNb3RhLkZlcm5hbmRlc0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05ODA4MDA1Iiwic2Vzc2lvbklkIjoiYTg3NmUxMTAtOTJkMy0xMWViLWFmOWItZDU5ODQ1NGQwMTlkIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNzI3MjMzMywidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNzI3MjMzMywiaWF0IjoxNjE3MjcyMzMyfQ.KiYbHWHZb7dh3nyY-LxbtXQlZvoiw5k2a3rPVpeJj1UKMEC8e6H12tgQdvIevPIGvFN7VPtAaHc45rcLus3pQw6DpRkWitV6Ig2A_cKUNPSTcWzl4rdZC9qrA3q_CDU-KbwsNvU8M-00FvxoLV_KibRVzDNRUlub1hI-G9tbHLzgovOxd2f-pWDXYoEBolWBj7gr9Lu-oBKIbgZkQTaq8ubocejbRzOyznKkHwGCiQv7kwnVM4nqM90-1aUSE0cjHfTxvtloQV_URwsXBg8RDDfFNjSbE82T7g-c9uN1RuX8SpT34cI_Dum9wbKeeX-bQmEBTUzdif0Isu2VlObpPAxZChPhOWrYdmm0qmPKRcSswEZ4iOGaofE7KUHgnGD0l1EgFvh5p-1pLgNVhviTbqjDYG0kU6lBVXyQ199K3J4k9xe636zr4_fZnfETAQQVcMel9FuGWhrx3r8XPF0q3yt0BV5rU0QnO-021pSWUksa90lhucaLx8H8cmtk0WXgwru1IKv6DQkIR5DHQLKR4J51hxj8cZLTCvHIG4G-tHUksUfTLQUw-ReFU7QA7FjGw0Bg2qmgEwOagpDi2qtmd5xkvN5LErR-rV2TiFp4CxpP23XL9PCiXzUeH9Yyb_lmTxJTx38ry8h58XDIf1YIZCiCsGyQwj34ZOpfhy4VJ_M",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1617445715,
+  "description": "My session Thursday, April 1, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606aeb53982c1e3278e73968"
+  },
+  "sessionId": "a8687f90-95fc-11eb-af9b-d598454d019d",
+  "authId": "moreira.sousa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.12",
+  "lastLoginDate": 1617619795,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLnNvdXNhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MzA0MDEiLCJzZXNzaW9uSWQiOiJhODY4N2Y5MC05NWZjLTExZWItYWY5Yi1kNTk4NDU0ZDAxOWQiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE3NjE5Nzk1LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE3NjE5Nzk1LCJpYXQiOjE2MTc2MTk3OTV9.LjmDZDQ3vgOYoHjgnNco73AZL2k8fVeWESWb9chVaW8A5R2Kyly7zDIEbyqeE4GO2n23gD7wGcv1oG6cEO8_85j4fu_gQ6QHCObaF5pzq48Iw2LWLOALCcRzi7KnB08UHGpz33CnWR5CuQAnBCWNYA6wZxAQsWGkzPwOQZrrOOAby7forURn0prnzovksp5ZlSaisq3Of2gziI9iRv4r_KwaCBjvyPXZ9qfWdo7wY0eFTAzrbgB0oEGliLib3lcB_OqIvPPptVqqb3pVrnFvQcaOvIukRb4e5rtr0YCi2Qb1dMCYSss481BsQTgEvO_PaGA8PUX5fCwIfHkiFmftK7TAXLTEdzFva6vayLIxkGWNUq4A_AL-U56pahqxI_ERHR4Oh74Mfy6OAdjuRZhuw-H-jXaOhp9CesbLVPlxiSeoWankr8jVGvHjG0g88Kv49KbmASrcZHWuJL-2x6-Hkv6XoCpq5YroLId5nEHXa6FvHaTzPsdLwZOkfC3xgn_c8-OAMCQEgmlZeMJDIeo1LR-nFluk-cgpjDPX8mwtrQ4RW03DHrFZDlEGcTOMC4iK0uzW3m4VxGr-WrRuI-Ca4t8LWHl2sJ9-jj--TE8OQoOv4xE0VpAbGaOpOrYRI-QXPzRC3vZ4thZkxUp0tRXDAP-4wRyWN3GMsPym7YvxEFk",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1617893792,
+  "description": "My session Monday, April 5, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b885a982c1e3278e7396a"
+  },
+  "sessionId": "40cea680-965a-11eb-af9b-d598454d019d",
+  "authId": "mm@sapo.pt",
+  "lastLoginFrom": "::1",
+  "lastLoginDate": 1617659994,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtbUBzYXBvLnB0Iiwic2Vzc2lvbklkIjoiNDBjZWE2ODAtOTY1YS0xMWViLWFmOWItZDU5ODQ1NGQwMTlkIiwic2Vzc2lvblR5cGUiOiJ1c2VyIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTc2NTk5OTQsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTc2NTk5OTQsImlhdCI6MTYxNzY1OTk5NH0.fRWHpG5o2HWdv2SEpP5IaNmvDDc-hmPfK0N1Rsdc3B4nrsFPU5HuBOrh3lRPqYZGLE_CbMuyja8M57mEtftotB4rjlt9U2bgPjV3IdiI112e6KA0_wLkhC1-YlRsTZn3v4rMlpvs3DCzJzstKuaOlaz81X8H8EHpm2Pu51fFawfaaeYUGATBGovXCLWj9VV8W6acjIEtk1885olfzRNYUIbm-xqSs8ERbSqC1OzbMD9CozPOr9-zswfeYb_KQkfefSxEhn_3YAIzYGGJNoyIp1LN-1LFT4uYoTvLHNZ-5v89RRxMCkcoyddYtLkN_4mIqjV9Fhc9SvsIsQCLLfo4jFdYyVHYVTiUvtsSMlcCRwsrMdU0PQYmPDzbkn-SWueO7JGJ1jJ6JE6pqh3vaYL6DUzpuOyWQ397sGRYZlV1W8xF_w9nfV-zYC3VP-54BVoJClfLS_RuIZdbJio36iOs073jW409cC2gWLBQ_UU6iFBgENIxi6AK3KhW9feuEEGfJ0faqRBLO7cBIvxutsfvDkJzwLQsdx7N9WkPMQ4wwLCbPGfjPRb2vP3S1bX1Obq9zGZACbi8OBOXfYy1kmoYLguh3ZqeKFM9tX_v7Gq3mNHj8T3VAVvHJj0KUm2ofa09UD_gjsivHuPINM2P9vxx3aN_cRhizH13SSsQnQUAsOE",
+  "sessionType": "user",
+  "context": "string",
+  "expiresAt": 1617832959,
+  "description": "My session Monday, April 5, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b8d13e49e522ddccc861b"
+  },
+  "sessionId": "11cc2ad0-965d-11eb-a305-7dc8739f357a",
+  "authId": "moreira.sousa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.42.212.87",
+  "lastLoginDate": 1617661204,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLnNvdXNhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MzA0MDEiLCJzZXNzaW9uSWQiOiIxMWNjMmFkMC05NjVkLTExZWItYTMwNS03ZGM4NzM5ZjM1N2EiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE3NjYxMjA0LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE3NjYxMjA0LCJpYXQiOjE2MTc2NjEyMDN9.oKqgcmsVZ6bfUuHFTnDrLjlKrjGawZMf_TZXAD_KO0IvxDlxxKkqBqQ4rzvkUOzd_CjS-ZOlAYyR0OUiq5aXeCTJwJt8oLhLsZvcne5kgrGmDDlMbtR1YdeUzdiXLeDnEw0De8NgcUzxjI2ZPzAsu6qFuFqCStcsXwC_3Es1INKZNcwQZrn0BscIS3dlYDrkUA3TzX7RZryNSh7wecU__SqMOdfeWYI-RylbHPfdqNxJM-1RPupjYcHJmGKuK4OCUCawHLhcahVjYXXx4h5RytvN2NY8006ekR7wY1WUtNpu63g_fUH4eYFpSHVYo4ERl2CVMfi07nv4DJBuvFUmyHLmiH_JRaJeVM2GPzObxEU6kw4ZsHggH9M5f7WZM3rHLexeYlp8Je5pSybpmHKcOJKnuqFPIsP6T_VUlxwyC7HVHCbfGypRV8mJ0H9PgDovzYTk6xIYGZpsc20eD4xC9ecCBnhqdl6lBPRqg1iA9rJ2AHk4cSKs8pTaR9FFCT2Yq8H5W87v-nP53pHXRDdGZqs5gy3O0kHgFprwohwIWB3-MOF_CAmVJ-X_KaB8xh7a9YEBZ1yPqNbVctqM-zz431m8HDb6G94uyp-kOEhVs-Au6PFlZ-8YgyXQvWTGyAcYeOc-Pb5bVL2g3BQxi-rgiyYbs11CoTfLbJXPjYCcAfc",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1618044382,
+  "description": "My session Monday, April 5, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c2cd8e49e522ddccc861c"
+  },
+  "sessionId": "4c506f90-96bc-11eb-a305-7dc8739f357a",
+  "authId": "pena.clara@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.133",
+  "lastLoginDate": 1617702104,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJwZW5hLmNsYXJhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MTU3MDAiLCJzZXNzaW9uSWQiOiI0YzUwNmY5MC05NmJjLTExZWItYTMwNS03ZGM4NzM5ZjM1N2EiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE3NzAyMTA0LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE3NzAyMTA0LCJpYXQiOjE2MTc3MDIxMDR9.RVTN5xwSJVlfJTzNcF4MjhqajUzur2uKV1owxQtY7JAimCYIoAaSwCyFjv57A1MJSNv2kAHNaYJBz2x8Q0N1zZVl-Y7WaQPaNCsWfevkFvH_gwE3kFoZFCGDhttSLzyurnRiBeOVKQIS4lMhAKVwD_G4RGRVd8UsRY_bgqgpH7iwGh465SGzWDf1E1vo2dP9z8iBnRHVcpXFpIFTsXrstxpk35MepJqTWMnbWUBuMINpYhnjQyZ6JI-XV046juPBDrA4S7Lc0QlkCvxzxZy97uUnljlg4sAhEfeaqRKuBZf0Y3BgLI2NnOdxJohOWo3OVILroYHqUVJXv797v2yTA_lge86dhgslwL0DaRboIoXt4FDNpt5IAeU9iIAbhbQG7UtYO4PRFiHd33pndAu4Vp7kwiZXOhCOahtp6g3KcB3eJzETQf0ZZABZ_8QV2sDlKB0pv6UxmCzlWIEVlLflHPkaeb94KeVvMBMM2o-C9Vx5cB9emoEzAbWHq-78iBSoehlH7_lxSJ9U6IIYjSatjx_1XfwACTbfBEkesA1XnKb0bnAxeWKqmMIO4cWptNyZ-x9sUHbnMASxO0WyMcJMnCokdsYMT8R20x0jvtxp9bmzSigf1YGI3eD1mjgVvX5xKtqamHL1732wUmL5tEVEDZJ2CPdT-IdGb1jiiwhNjSw",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1617874925,
+  "description": "My session Tuesday, April 6, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c58ace49e522ddccc861e"
+  },
+  "sessionId": "6bf554e0-96d6-11eb-a305-7dc8739f357a",
+  "authId": "moreira.sousa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.14",
+  "lastLoginDate": 1617713324,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLnNvdXNhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MzA0MDEiLCJzZXNzaW9uSWQiOiI2YmY1NTRlMC05NmQ2LTExZWItYTMwNS03ZGM4NzM5ZjM1N2EiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE3NzEzMzI0LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE3NzEzMzI0LCJpYXQiOjE2MTc3MTMzMjR9.NG5RxeV1I3xIMbRfzt1mcFNnPnZ6Rc3jV-Vm3d-6MAsIfZMumOkYabSzP5WGPmfJWRS-5CGLV_qKlyN3DqVAOZ2WBTz48IMf3gSFUQ7kI6NwV-gg7A5sR5AHfk1X1-KsD3Mxk1uzd7UTYghWnkgEaUdhqPvillTEL6k3L-iNwqO0T_7HOf4pV2W9zzM5mQtKaofpKcf2KaTnzlUOEFkVpxWiu4I6cFKA3ZJKCip7Vg-qMRQNdQiOW7IjPOyUX3cD-CipzcmS816qeckmuzupvtKhloLHToigo6w0OurT2oloVbEJVxtywaJ972m0gvJ822skJmCQyV4rQMJDvPKdB56I1bjeMNyR8YmAOj7ea1H_JrVjfI-OQhXv7i2g8vkgB2jg78xpfwVKiJ89e1rdCT0LDdjORRadkUTGbaAwLCkfRA67sLfrBzT5cype4Cy_Cz_XUzb5gKJLfKH2Nq4refvVAElxFagNGtvGLAFO3rqKGIRMqia_97XcCifi9Ev4Fw6bLovV9z19w_M_wuXJ9ES8Zsx4RRWgNAPX25gUCUmhj6V-MtgXzP9VPYROCIawX5dRS7tbwMpRDst6aT1oFFQS2nhPYdjalG_j9vfnYvZgSm9AJlanD1oAN5EV1VLWdAgcrv7ySOOrYA6QEu_P6RdwjzbuhIetdSowmo5JU_Y",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1618520430,
+  "description": "My session Tuesday, April 6, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c7b08e49e522ddccc8680"
+  },
+  "sessionId": "e6f2d640-96ea-11eb-a305-7dc8739f357a",
+  "authId": "paixao.martins@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.104",
+  "lastLoginDate": 1617722121,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJwYWl4YW8ubWFydGluc0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05ODA4MDk5Iiwic2Vzc2lvbklkIjoiZTZmMmQ2NDAtOTZlYS0xMWViLWEzMDUtN2RjODczOWYzNTdhIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNzcyMjEyMSwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNzcyMjEyMSwiaWF0IjoxNjE3NzIyMTIwfQ.XDXsKOqXO0T8b0KLfYTBfLiSRzNbi19TWkdjIQjAMyTCNI0iYS20Aru4kLJR22ODOo_iYK-cEftUtNPmVZ74f6gPwe36u0b82chZ52W4sC72uHC-QsCOUDy60-l0edqjbXvQbYd9-hGRA0Ruq0ijCx17A49soSKGQWQRy20dBPhhvoIzQ7D9pBznm3zzN_e43Pp5CX9KqWu1_QWqxMramh2kk0mRjQmt2iiX6X6p1uT7C0pOnfVPckp_6KV-hbWlRY77iTr9iGQJ2537Q-Z6ib32DB1s5XsMV_1MHO-tRACJiec75FL0WvunocYPtgUKtXr1kBJEjPECSToLbEG_UPyQJTZ6-PhaHjt3td3oXGFy0rV-xnCSNlD1WFGBJGIxJd8QhQLB_fquVNb5BgVIzCrKEPu1Os716wut2l5Zv9Xkc7CHpK5vKK6byRziu4GKNA5_k_-ija7N9kNE7fXdX7Ir2iWEgFBw4BPat1Sjlto5NcXw6YYcfig5E0yIfjgHnpwK3eA8ycO7AkRsD6rPU7Xw1ZgFtttL8kPW1g96HV3UxG1npgI7TCsC9yZS-98KP2PtJgYRQOq0VcSUIAy3iuinKMeJrYmP767ZooD8yN8TT3SWYpFe4EeO77xxwVInY4NyOCoDQf7azY-cEyLSQ95kRcyIdupD9-iaf1V0axI",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1617894944,
+  "description": "My session Tuesday, April 6, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d69e8e49e522ddccc8682"
+  },
+  "sessionId": "4809c950-9779-11eb-a305-7dc8739f357a",
+  "authId": "paixao.martins@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.104",
+  "lastLoginDate": 1617783272,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJwYWl4YW8ubWFydGluc0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05ODA4MDk5Iiwic2Vzc2lvbklkIjoiNDgwOWM5NTAtOTc3OS0xMWViLWEzMDUtN2RjODczOWYzNTdhIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNzc4MzI3MiwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNzc4MzI3MiwiaWF0IjoxNjE3NzgzMjcyfQ.KaUVH3xO6Y6EtvPRzlSQnArJBPweF4-QTBCF-iOb6l8H05W2i_YWdMHSGmkR_a6i-ggQrWPRZ7_e-8u4XclXbXleDWV290UbMdbFif0JuvZ5ZQ0B1w08zuKiueH7NAm3Dci-1I0FHmpyxrJOjb3d_ZM2Yq9872g6EnKj86Udg3qUfcIXtRBNo7Mz8cMgGH5CWlAj08NUuCkHahF52P4WLG7PFDFnveUI0oZZHxVRJ070_RIyRexDMv9fvyMXnFfiDaZet4aF3D8BlRijwlHcl6fhNBjpnUg5A6RvKiiN3ocK_WN2Z11sSvBRWVsOlFdqiaN9hgRoIRMJ7sW12px8Q8hakD6epYNetZMbpcfiOC3J72rszjAWl624F07zEZ7nhgoHJ9taMrkXTTTqgzTgUx98LnUbjK8yWdaC0FjIG28jkmTRTLCqOsO_8RCO1g_kN3HfA1J7isQxQ-RKSrKaKBMwBW0oO7aHfsRwV1uXozwB2bc7_Aq47GvNDUjm8ywTP__OklTSVrRsqplxBWfyiOuercdCi5BM1XRG5TT1D7tKng64puL3ssvuR64KvGWN1mw9C0Q90ftiK-y9-Rp-n8mlBm8RbPZIvmaPvZmpUDPfbfGjZHxrh8eyQ6ZRJ0PwGpn1LgCd29q4DNGUx_BS-7exruFRAy4vrOGQsIamXIM",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1617956116,
+  "description": "My session Wednesday, April 7, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606dc863e49e522ddccc86c1"
+  },
+  "sessionId": "98c0a660-97b1-11eb-a305-7dc8739f357a",
+  "authId": "guerreiro.brazio@marinha.pt",
+  "lastLoginFrom": "::ffff:10.42.212.23",
+  "lastLoginDate": 1617807459,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJndWVycmVpcm8uYnJhemlvQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTE2MDU4OCIsInNlc3Npb25JZCI6Ijk4YzBhNjYwLTk3YjEtMTFlYi1hMzA1LTdkYzg3MzlmMzU3YSIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTc4MDc0NTksInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTc4MDc0NTksImlhdCI6MTYxNzgwNzQ1OX0.ZZrx4ib7KwBBlxn_Fl-TCFl_otmdxO8NhjrYk-UhTqiu9bDvjWB6fWWzNS6XPYzJd18p3Vrg_3N0uPwdEl-teC4Tbu7fzyJwoDac4p3UPzsifk04koiY6hC0RhUKztCtR66ow476lrp9UJXMhCntoDiaZZVv2vF0WXKCYU_W4Ze-ydl7YIza-miuRX8o3sVY4q80dOGR6yqv0ypymHsbN8xQRf7bWms7Ra4xQ0a7RdymJAh--udEB80_T0Pp0a-iPelp3ginveI5ZZcHYnoJxXtyuvdbRZLN_QZ4CjSDop0fuRoFK5BPMGYZvMib13Qm8S-7yb7TeBJOh8moDRfdI0dkOkLh2gEFZjWmmY-Pjeq28uEYOkTY3TJL1yrMD4pHRNXNfVhdIO5xgi8HHkus0XO993E5EfroRnloAqR1_zMHfuWHGkxMdSGWBCsu856AdF_4GMoAFJRiTWmZszobxtRruA7iZDEpISsvOHxUfTJfiZ8pSuCaEb0hcbirySYVtlUTxc7hS5DwFa625u6qwa1JNLqzM7TiSUyzpuD_cUD74zVgn5AEAoVOIKN5AOHyiPdbLhPbUEYIXSVhBkgS2_T_5v-12xAUA7vQVtrYkVVfnujekJjaz2LEJhRDbfz0u2ExZq3ViXtAchW20NB1MxjD2sZKWIjD4s42B_Ou17E",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1617980260,
+  "description": "My session Wednesday, April 7, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606dc87ce49e522ddccc86c2"
+  },
+  "sessionId": "a80fb7a0-97b1-11eb-a305-7dc8739f357a",
+  "authId": "guerreiro.brazio@marinha.pt",
+  "lastLoginFrom": "::ffff:10.42.212.23",
+  "lastLoginDate": 1617807485,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJndWVycmVpcm8uYnJhemlvQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTE2MDU4OCIsInNlc3Npb25JZCI6ImE4MGZiN2EwLTk3YjEtMTFlYi1hMzA1LTdkYzg3MzlmMzU3YSIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTc4MDc0ODUsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTc4MDc0ODUsImlhdCI6MTYxNzgwNzQ4NH0.eS5bCxoaEfYEO_Oe-OFgD5-MnHVVXypKYp6bOzNiYieJfPOlMfCQeFnFGWiOCsjjAv5fdMxjiBCv5tMSmG0z5R7vfS5g6cHtNzdFm-7aCLKIcZE4X1zYPRzaZV694-JhZTy3eaT3Edk8N2XA0J3W_u0cdn0CIu-Bglx898fRQoUl6lDefitjlXXdR7v6pU-0x7gH88sl5Ijc85iPKfb8YN1F1xK1SXoraSXu3nDn2Qv-GwzTcLGVgUd-czRHaLBqhSBSfxfmBKUEJoxRzJji9dXZXfJsJEKoRfw3gEWVcvwX0TjzBsKe4nNQ5ySHEGVFHYfCB_CATNewzo_-yf6XnS9UxP90iEJijPB7jpsdKgQLiRYeaxLTHd4u6I99seZnfGseC6wscoAjLBb60Lj8QfueAx_BLBw50f12u3-kCjQe_4zqGXg2JNuYMthr_3Aop1g42QMx_QSq-r8HM9T_mEaDaxy_kBHCA2l6UPIWNJ4xcJmBdvG_XUJ9ffs-UiHvAv5swqr-WmbWm24-ZI_EUMiOSRb2c134wLafYQLdHx_yDxNwYyJg2H1PEVHtFg6ihEKfLuqQkdQMR_E0dESL-OEAZAYv7-mUF_H5BuKsLvOUxOR-_0vBIK4lksRHYhU4Kdgyxs5BDQ4qFypiDeICosqRonXEWlClBMh81oxUj-g",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1618153594,
+  "description": "My session Wednesday, April 7, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606efeb2e49e522ddccc86cf"
+  },
+  "sessionId": "8e0f6120-986a-11eb-a305-7dc8739f357a",
+  "authId": "goncalves.estevao@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.215",
+  "lastLoginDate": 1617886898,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJnb25jYWx2ZXMuZXN0ZXZhb0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik02ODAxMDkxIiwic2Vzc2lvbklkIjoiOGUwZjYxMjAtOTg2YS0xMWViLWEzMDUtN2RjODczOWYzNTdhIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNzg4Njg5OCwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNzg4Njg5OCwiaWF0IjoxNjE3ODg2ODk4fQ.iTaEMzQMBl_-r-PRDa1B7MHSZzN7GR3LMEO0mMpfMPAGvzyZ4bYAxyIrLrRoZqy_CgqPRQNy2SrSFTkQGX4mO7jFcDeqO6opamgRgmgJap9_GGP33c77scBlqQQ3daXBAfg4DyGlu3xpw8dNKBjUuCq12GT3kbUC1ROTbLKcMJ_iNfD2po-GBiPpR4qSxpOrG_At25Pu2u7eWPQr_z9nlZXGBH3KoSTETwQC6ynsnGLGNg-xSu6DydTJem5ek0CpZyy4pkibfqF9vBY7TjrzaWiNKTgpSfDEY1jYOK7ZTeIht48kguz1-59RogwXiv4jo29Mr49vaLD34geACYhfTgf4gDqN8vvqooPjeM43ATB2QGhbQLcqyDT9grbwXA11Eh5U9OyNyWsTdzc5qDc-jud0yqJvwpPPiGpl_IFn4XYIO2qTjXfB1KncWsK4-xiXCwWt0nDcD_idphza7Rjviz3KCXoJgTA4AyFcZjTibQa651D2T6p98TOq7HeFoUa1iwPTJ6quklkoxMJVfGowXVIlxWQSHeKvn4d1kZfsbI_HLKF9PrdqjKUSQ2rFhCprLPOn2oe68mtDGyINhl64xtW_uNBt4JRoxeaDp4fdlKmT834ngnnmuTUmNAM2lkwDLejSb9Jlsbv9tUPjmZ115oNQuL_lcyfZJzG6mZqCdWQ",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1618059709,
+  "description": "My session Thursday, April 8, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f016fe49e522ddccc86d1"
+  },
+  "sessionId": "3007ce80-986c-11eb-a305-7dc8739f357a",
+  "authId": "paixao.martins@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.104",
+  "lastLoginDate": 1617887599,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJwYWl4YW8ubWFydGluc0BtYXJpbmhhLnB0IiwiZXh0ZXJuYWxJZCI6Ik05ODA4MDk5Iiwic2Vzc2lvbklkIjoiMzAwN2NlODAtOTg2Yy0xMWViLWEzMDUtN2RjODczOWYzNTdhIiwic2Vzc2lvblR5cGUiOiJwb3J0YWwiLCJudW1iZXJPZkxvZ2lucyI6MSwibGFzdExvZ2luRGF0ZSI6MTYxNzg4NzU5OSwidHRsIjoxNzI4MDAsImNyZWF0ZWRBdCI6MTYxNzg4NzU5OSwiaWF0IjoxNjE3ODg3NTk5fQ.jsMaAiJbhYdF6D7oKV8Lpm5QFjxQq7J4oNEIbu5P74fuMZeJZlomJniH6fRBIQtud7IOLMJuLtiINzgvTGLV_mP8cbeaf7wxfEp5qkeFAQxGkmw_Wsjs5xG-PdDqtQatH91pNKqhlMmdRGhShrnX54-qE7AVjxxy9NNTwv6tfl-UZ_opOzP_LcHrn36bkKSXpJZoaciz7MRaAGwRmmm-6Mi3NT3EkO0fLJNcr2g2YwaCK4kWUYhUpy1ShKoDkx57gxgA0_vmntOObfU_Zbvr__SA1FIPBjYJIOJkAla2fuuruUFUbj4dzhl9xN9zwrAjPEu888taW0N7eFvRlGKjvqtipfMaWEIWREBfkUKfRJ8c71B-_zm8RzOLp_TiDCqYWDpDSvrp34eRfVzjrZ0pq8rIDEDqjSsD0owZ-HbmqUTaUatrbtyB14cRIkcSQ9IyuorqE43PzJuKwuMlgrVyKRBu-KjcMfuL1OANbwZ1uikB1EMz8FPKnsdVF0vzb_9CR08AhdEV1tMLf4ydsBTCUf442m-e0_986yzuPrzARg30OdKOcYvBaY2tJ0BZgrd_43VNgJbTnYvekOUgtqopoHTdVt-qxzknW4aANt5G2pZttujHwDCYyzfNcx-A3YXdL9hro8eBHuk2SY-P8o7fDwdSWYpPps2M2MClYJXXmmU",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1618060400,
+  "description": "My session Thursday, April 8, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60702abae49e522ddccc8701"
+  },
+  "sessionId": "6367cb20-991d-11eb-a305-7dc8739f357a",
+  "authId": "moreira.sousa@marinha.pt",
+  "lastLoginFrom": "::ffff:10.42.212.87",
+  "lastLoginDate": 1617963707,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJtb3JlaXJhLnNvdXNhQG1hcmluaGEucHQiLCJleHRlcm5hbElkIjoiTTk4MzA0MDEiLCJzZXNzaW9uSWQiOiI2MzY3Y2IyMC05OTFkLTExZWItYTMwNS03ZGM4NzM5ZjM1N2EiLCJzZXNzaW9uVHlwZSI6InBvcnRhbCIsIm51bWJlck9mTG9naW5zIjoxLCJsYXN0TG9naW5EYXRlIjoxNjE3OTYzNzA3LCJ0dGwiOjE3MjgwMCwiY3JlYXRlZEF0IjoxNjE3OTYzNzA3LCJpYXQiOjE2MTc5NjM3MDZ9.nChBaXs14HOe7Cm7zjV4zd9t0im-g8kmZoeIqPViMCYP755Z2h6op4z07g0TfW2Ph1LsduX3hbaoec3fJFxKhZitLd8cKITahce0gPkKwk_D38HteCrT3Ojx0UEM2fybnkpMC2J_Zq_Fr3ik-Py-Wii5uM5MMETYkFqtBNh56jmw_aGiz0-yGBgfpAJNe7kqCjcgqm1Fv4O4fp6zt0hfyn_9nHj2YH2r6Vo0pGAWtyg10arWjNc-g5OJ8x3rODKQ9SygtJGMnJKUyW4UIIXp18-2vAGGFFV4BETZ14Wgh81CkL6poRpTkdQVcxrgrcXxv4VECWSP-UzBGUd6ZgTe5utvz_e-7YWYEh8jIZtNqjkHrrhYen5vDoPEkGikJWc3fjMDfDreRUUDtzSMsQrreZM4xLuBFz12A1N7KmSpkxdmyXmzySBUmgj3cp96rwlWvu1qRX1E4zNFXMnS0Xoh6BBrP05m761xLfQfvbhD3iO7ta0X8mVgecfPOr7rbQ_7S-l2yTBJk0sZKnGGXwKZHYsK6T-Mepv1CXp0cHv-CurfyBQ3IVpp4BUBFeOIDuO9oRh3XNYDVhOXw8tk3umEPxa24Eom7s3CLjZDW-kknjxOYDQEeo3_dVQtXsWAm54iFt0rhfvUZSCxxpe0Ti_8LRvwlTq4SBfQkJxkdzr4QBg",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1618138890,
+  "description": "My session Friday, April 9, 2021",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607578016c413715d8a38142"
+  },
+  "sessionId": "63b67dc0-9c46-11eb-a3bd-9f774a437bff",
+  "authId": "rodrigues.casimiro@marinha.pt",
+  "lastLoginFrom": "::ffff:10.45.212.181",
+  "lastLoginDate": 1618311170,
+  "lastToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoSWQiOiJyb2RyaWd1ZXMuY2FzaW1pcm9AbWFyaW5oYS5wdCIsImV4dGVybmFsSWQiOiJNOTMwOTIwNyIsInNlc3Npb25JZCI6IjYzYjY3ZGMwLTljNDYtMTFlYi1hM2JkLTlmNzc0YTQzN2JmZiIsInNlc3Npb25UeXBlIjoicG9ydGFsIiwibnVtYmVyT2ZMb2dpbnMiOjEsImxhc3RMb2dpbkRhdGUiOjE2MTgzMTExNzAsInR0bCI6MTcyODAwLCJjcmVhdGVkQXQiOjE2MTgzMTExNzAsImlhdCI6MTYxODMxMTE2OX0.deSt1HluHgad9vDXw7CA1uS76DS2ADdQEk9-GZCCrv4o8bXcNlchGd2KgNmTimRbl1JNjsX4tZhxk3asB2SepBEJFqUXAaCWflOSAcdV4tueqgt40kjm9WbtyNNoG_1mgjWPB3aDvq9Jo7OudtuhrnH-Co5YSN6mykzfMJRjZCyD6GVyFR4Wgo3h9zVbCSO97qdlmDvIIlGrwrh7TrgWdr9BH3r7df6brGiEXgfcLGTR8BcECpSBnIjLc-gH4uIz2PIXzq7DrHgq_zMuRQPcNQ8JXPbsq3dqgidnYkTWg3kPx_ejb5Fr6bfifAKdvPS4B51UMfkJyM0iVr7KEihvf5NR07aEGKVVnMpgX35-WRQmbT9HbxGpob2IkSkHQHB3YeG9UVcTdwQCjMnuNBQ5BcYKPg9JrH_-P8OdCJwH7uitkQ2PFQ836hyM95KogE8yZgFCk1UwYvtpDl2Xo8lO32PPOlH4By-N9r2lr-ll9xJOX1Bly6spy2Z7ntUujGL1g-PBLKvoE6Ziy2AmN29QP-iDk5GPQOqki-vTOBiDkMyVcC85-_lFn0jRJkd2LaKotx-h_1vFE6bJUT8bgktsso0YSQ6BUuYxL0Ev3bnxj-OkZzLSCZMbg6gyo8LrRHLw6Kkqm_vH0V8M41H0GB6VYPi15G3Szlf3DFeybtV4ow4",
+  "sessionType": "portal",
+  "context": "",
+  "expiresAt": 1618495967,
+  "description": "My session Tuesday, April 13, 2021",
+  "__v": 0
+}]
